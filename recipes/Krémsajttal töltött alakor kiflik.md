@@ -1,4 +1,4 @@
-<p align="center"><a href="https://cookpad.com/hu/receptek/13586024-kremsajttal-toltott-alakor-kiflik" rel="Recipe source page"><img width="751" height="532" src="./images/full/6acf4bf988b6b0df8ae941ce25c21970e05084c5.jpg"/></a></p>
+<p align="center"><a href="https://cookpad.com/hu/receptek/13586024-kremsajttal-toltott-alakor-kiflik" rel="Recipe source page"><img width="751" height="532" src="/img/full/6acf4bf988b6b0df8ae941ce25c21970e05084c5.jpg"/></a></p>
 # Krémsajttal töltött alakor kiflik
 
 Mennyei Krémsajttal töltött alakor kiflik recept! A kiflik formázási módja és sütése ugyanaz, mint a Sajtos, mézes francia fougasse mázas cserépsütőben receptemben. Fantasztikusan finom együtt a borsos hagyma, a Philadelphia krémsajt és egy csepp méz, és mivel garantáltan elfogy pillanatok alatt, ezért 9 darabot sütöttem összesen. Az itt megadott mennyiségből 3 db kifli készül.
@@ -24,7 +24,7 @@ Mennyei Krémsajttal töltött alakor kiflik recept! A kiflik formázási módja
 
 1. A hagymát kb 8 percig párolom, majd félreteszem hűlni.
  
-    <p><img width="320" height="256" align="left" src="./images/full/b00a501b27e942ff38c209e8e07779732cad7d9c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/b00a501b27e942ff38c209e8e07779732cad7d9c.jpg"/></p><div style="clear: both"/>
 
 2. A kiflik tésztájához minden hozzávalót egybegyúrok. Néhány extra kanál vizet adok hozzá, ha nehezen állna össze a tészta. Letakarva pihen 20 percig.
  
@@ -32,11 +32,11 @@ Mennyei Krémsajttal töltött alakor kiflik recept! A kiflik formázási módja
 
 3. A tésztát 3 egyenlő részre osztom, és a Sajtos, mézes francia fougasse mázas cserépsütőben receptemben részletesen leírtak szerint járok el. Vagyis egyenként elnyújtom a darabokat, krémsajt csíkot teszek a közepébe és betakarom párolt hagymával, ízlés szerint borsozom. Két oldalról ráhajtom a tésztát és a cserépsütőbe teszem.
  
-    <p><img width="320" height="256" align="left" src="./images/full/be7658200fd92f09bf5acc62e642f11180f0e153.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/be7658200fd92f09bf5acc62e642f11180f0e153.jpg"/></p><div style="clear: both"/>
 
 4. Ráteszem a cserépsütő tetejét, 20 percet pihen.
  
-    <p><img width="320" height="256" align="left" src="./images/full/9e4c5f4d5fc86268c445f18c10d1925db4ff8638.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/9e4c5f4d5fc86268c445f18c10d1925db4ff8638.jpg"/></p><div style="clear: both"/>
 
 5. Bekapcsolom a sütőt és felmelegítem 246 C/475F-ra.
  
@@ -52,5 +52,5 @@ Mennyei Krémsajttal töltött alakor kiflik recept! A kiflik formázási módja
 
 8. Rácsra téve hagyom kihűlni, de már langyosan is fogyasztható.
  
-    <p><img width="320" height="256" align="left" src="./images/full/a8a48aa1e1dbddbbfea939f482462d46ff4df732.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/a8a48aa1e1dbddbbfea939f482462d46ff4df732.jpg"/></p><div style="clear: both"/>
 
