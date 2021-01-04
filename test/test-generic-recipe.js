@@ -9,15 +9,15 @@ const GA_ID = require("../_data/googleanalytics.js")();
 /**
  * These tests kind of suck and they are kind of useful.
  *
- * They suck, because they need to be changed when the hardcoded post changes.
+ * They suck, because they need to be changed when the hardcoded recipe changes.
  * They are useful because I tend to break the things they test all the time.
  */
 
-describe("check build output for a generic post", () => {
-  describe("sample post", () => {
-    const POST_FILENAME = "_site/posts/firstpost/index.html";
+describe("check build output for a generic recipe", () => {
+  describe("sample recipe", () => {
+    const POST_FILENAME = "_site/recipes/firstrecipe/index.html";
     const URL = metadata.url;
-    const POST_URL = URL + "/posts/firstpost/";
+    const POST_URL = URL + "/recipes/firstrecipe/";
 
     if (!existsSync(POST_FILENAME)) {
       it("WARNING skipping tests because POST_FILENAME does not exist", () => {});
@@ -44,14 +44,14 @@ describe("check build output for a generic post", () => {
     });
 
     it("should have metadata", () => {
-      assert.equal(select("title"), "This is my first post.");
+      assert.equal(select("title"), "This is my first recipe.");
       expect(select("meta[property='og:image']", "content")).to.match(
         /\/img\/remote\/\w+.jpg/
       );
       assert.equal(select("link[rel='canonical']", "href"), POST_URL);
       assert.equal(
         select("meta[name='description']", "content"),
-        "This is a post on My Blog about agile frameworks."
+        "This is a recipe on My Blog about agile frameworks."
       );
     });
 
@@ -114,7 +114,7 @@ describe("check build output for a generic post", () => {
     });
 
     it("should have a header", () => {
-      expect(select("header > h1")).to.equal("This is my first post.");
+      expect(select("header > h1")).to.equal("This is my first recipe.");
       expect(select("header aside")).to.match(/\d+ min read./);
       expect(select("header dialog", "id")).to.equal("message");
     });

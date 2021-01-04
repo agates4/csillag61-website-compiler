@@ -1,0 +1,8 @@
+<ul>
+{% for recipe in recipeslist | reverse %}
+  <li>
+    <a href="{{ recipe.url | url }}">{% if recipe.data.title %}{{ recipe.data.title }}{% else %}<code>{{ recipe.url }}</code>{% endif %}</a>
+    <time  datetime="{{ recipe.date | htmlDateString }}">{{ recipe.date | readableDate }}</time>
+  </li>
+{% endfor %}
+</ul>

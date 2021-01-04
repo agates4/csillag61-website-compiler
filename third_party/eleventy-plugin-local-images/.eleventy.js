@@ -46,12 +46,12 @@ const urlJoin = (a, b) => `${a.replace(/\/$/, "")}/${b.replace(/^\//, "")}`;
 const processImage = async (img) => {
   await Promise.all([
     processImageAttr(img, "src"),
-    processImageAttr(img, "poster"),
+    processImageAttr(img, "recipeer"),
     processImageAttr(img, "content"),
     processImageAttr(img, "publisher-logo-src"),
-    processImageAttr(img, "poster-portrait-src"),
-    processImageAttr(img, "poster-square-src"),
-    processImageAttr(img, "poster-landscape-src"),
+    processImageAttr(img, "recipeer-portrait-src"),
+    processImageAttr(img, "recipeer-square-src"),
+    processImageAttr(img, "recipeer-landscape-src"),
   ]);
 };
 
