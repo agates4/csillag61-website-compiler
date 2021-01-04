@@ -1,4 +1,4 @@
-<p align="center"><a href="https://cookpad.com/hu/receptek/14120705-fokhagymaval-tuzdelt-sult-karfiol" rel="Recipe source page"><img width="751" height="532" src="images/full/980f07b783e8f679bd5e237ed6658afd74ca3251.jpg"/></a></p>
+<p align="center"><a href="https://cookpad.com/hu/receptek/14120705-fokhagymaval-tuzdelt-sult-karfiol" rel="Recipe source page"><img width="751" height="532" src="./images/full/980f07b783e8f679bd5e237ed6658afd74ca3251.jpg"/></a></p>
 # Fokhagymával tűzdelt sült karfiol
 
 Mennyei Fokhagymával tűzdelt sült karfiol recept! 
@@ -20,7 +20,7 @@ Mennyei Fokhagymával tűzdelt sült karfiol recept!
 
 2. A fokhagymát hosszában csíkokra vágom és a rózsák közé belenyomkodom. Bekenem vékonyan olíva olajjal.
  
-    <p><img width="320" height="256" align="left" src="images/full/3389a84ee88467064f6e53c247bcc8242d7178eb.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="./images/full/3389a84ee88467064f6e53c247bcc8242d7178eb.jpg"/></p><div style="clear: both"/>
 
 3. Rászórom a szárított parmezánt a külsejére és a belsejére is.
  
@@ -28,5 +28,5 @@ Mennyei Fokhagymával tűzdelt sült karfiol recept!
 
 4. Forró sütőben 30-40 perc alatt sütöm. Ha már a tű könnyedén belemegy, kihúzom a sütőből, rászórom a reszelt sajtot, borsot, esetleg sót és még 10 percre visszatolom a sütőbe.
  
-    <p><img width="320" height="256" align="left" src="images/full/958c5ec3a049c746292660ac6780872bca4b6277.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="./images/full/958c5ec3a049c746292660ac6780872bca4b6277.jpg"/></p><div style="clear: both"/>
 

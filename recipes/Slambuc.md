@@ -1,4 +1,4 @@
-<p align="center"><a href="https://cookpad.com/hu/receptek/5009862-slambuc" rel="Recipe source page"><img width="751" height="532" src="images/full/79e9ddf226cf0bb9df28a3a7d2d7a1e7bf41b48c.jpg"/></a></p>
+<p align="center"><a href="https://cookpad.com/hu/receptek/5009862-slambuc" rel="Recipe source page"><img width="751" height="532" src="./images/full/79e9ddf226cf0bb9df28a3a7d2d7a1e7bf41b48c.jpg"/></a></p>
 # Slambuc
 
 Mennyei Slambuc recept! A slambuc végigkísérte egész életünket, velünk együtt mozdult mindenfelé, amerre csak jártunk ebben  a nagy világban.  Éppen olyan finom ma is, mint valaha a Tisza parton...
@@ -32,9 +32,9 @@ Mennyei Slambuc recept! A slambuc végigkísérte egész életünket, velünk eg
 
 4. Lassú tűzön főzöm, amíg a levét beszívja. Innentől kezdve már csak forgatom, nem kavargatom. Jobbról - balra, balról -jobbra, alulról felfelé. Mire elérjük a 32 forgatást, addigra bele fogunk jönni, és csillagokat is látunk az éhségtöl. Nem baj, a 33. csak ráaadás lesz... :)
  
-    <p><img width="320" height="256" align="left" src="images/full/86b1ccaa3f65459f9f46ed4e107163562e327415.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="./images/full/86b1ccaa3f65459f9f46ed4e107163562e327415.jpg"/></p><div style="clear: both"/>
 
 5. Igazi ízét, savát - borsát a slambuc készítés felejthetetlen emlékei adják meg. Jó étvágyat és kellemes szép családi emlék szerzést, visszaemlékezést kívánok nektek is!
  
-    <p><img width="320" height="256" align="left" src="images/full/3b7723276b6bfcb3a13b3cd0d9c8fee777791735.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="./images/full/3b7723276b6bfcb3a13b3cd0d9c8fee777791735.jpg"/></p><div style="clear: both"/>
 
