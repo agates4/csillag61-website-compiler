@@ -1,6 +1,14 @@
+---
+title: "Sushi süti"
+description: "Sushi süti"
+date: 2018-03-25
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/4648348-sushi-suti" rel="Recipe source page"><img width="751" height="532" src="/img/full/fbb3bf2c23e84a63df0365f9b46220417f3ab92c.jpg"/></a></p>
-# Sushi süti
 
+## About
 Mennyei Sushi süti recept! A sushit nagyon szeretjük, de egy hirtelen ötlettől vezérelve - és időhiány miatt, tortaformában készítettem el ma. A fiaim egy rendkívül ízletes és csípős szószt hoztak össze pillanatok alatt habareno paprikából és mexikói  földicseresznyéből a sushihoz.
 
 > 1 óra 

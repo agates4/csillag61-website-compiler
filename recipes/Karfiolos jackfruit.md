@@ -1,6 +1,14 @@
+---
+title: "Karfiolos jackfruit"
+description: "Karfiolos jackfruit"
+date: 2020-09-07
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/13436845-karfiolos-jackfruit" rel="Recipe source page"><img width="751" height="532" src="/img/full/e7f22d368e47ba9052ed05b9f0c9251c978ee598.jpg"/></a></p>
-# Karfiolos jackfruit
 
+## About
 Mennyei Karfiolos jackfruit recept! 
 
 > 1 óra 

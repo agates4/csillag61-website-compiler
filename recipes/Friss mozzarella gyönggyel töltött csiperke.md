@@ -1,6 +1,14 @@
+---
+title: "Friss mozzarella gyönggyel töltött csiperke"
+description: "Friss mozzarella gyönggyel töltött csiperke"
+date: 2020-08-24
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/13472358-friss-mozzarella-gyonggyel-toltott-csiperke" rel="Recipe source page"><img width="751" height="532" src="/img/full/56c2a1a2710493a3452bfe75625108eb5f9fa4c8.jpg"/></a></p>
-# Friss mozzarella gyönggyel töltött csiperke
 
+## About
 Mennyei Friss mozzarella gyönggyel töltött csiperke recept! 
 
 > 30 perc 

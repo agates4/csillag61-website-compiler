@@ -1,6 +1,14 @@
+---
+title: "Parázson sült padlizsánkrém"
+description: "Parázson sült padlizsánkrém"
+date: 2018-05-28
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/5040119-parazson-sult-padlizsankrem" rel="Recipe source page"><img width="751" height="532" src="/img/full/c23dd775ec26afce4a11ecf7ff7598c3054125a9.jpg"/></a></p>
-# Parázson sült padlizsánkrém
 
+## About
 Mennyei Parázson sült padlizsánkrém recept! A padlizsánt minden változatban nagyon szeretjük, de nyomába sem léphet egyik változata sem a nyári, parázson sült változatának. Sok fűszerre nincs szükség: zamatossá a sült zöldségek teszik. Pirítóshoz, sült vagy párolt zöldséghez és a slambuchoz is kiváló! Mint mindenkinek, nekem is eredeti, saját recept alapján készül...:))
 
 > 1 óra 

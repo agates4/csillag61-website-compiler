@@ -1,6 +1,14 @@
+---
+title: "Kókuszos, adzuki babos brownie"
+description: "Kókuszos, adzuki babos brownie"
+date: 2020-03-23
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/11830378-kokuszos-adzuki-babos-brownie" rel="Recipe source page"><img width="751" height="532" src="/img/full/e1d5a4070a806e8b6d7118db4a498bae2cac9ad5.jpg"/></a></p>
-# Kókuszos, adzuki babos brownie
 
+## About
 Mennyei Kókuszos, adzuki babos brownie recept! Ez a browne maga az egészség. Adzuki babból készült, ami maga egy csoda bab: lassítja az öregedési folyamatokat, erősíti a szívet, megelőző hatással bír bizonyos rákfajtákkal szemben, karbantartja a vércukor szintet, roborizál, igen gazdag protein és növényi rostokban, 
 alacsony a kalória és a zsírtartalma... Szóval, pontosan az, amire nekünk szükségünk van.
 A tészta állaga a fudge és a browne kozotti, pille könnyű,  szájban olvadó, csoda finomság.

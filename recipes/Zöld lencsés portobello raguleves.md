@@ -1,6 +1,14 @@
+---
+title: "Zöld lencsés portobello raguleves"
+description: "Zöld lencsés portobello raguleves"
+date: 2018-05-25
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/5020199-zold-lencses-portobello-raguleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/6b81ab4ca3e06fb7e7db76ed3c1ee17233678dda.jpg"/></a></p>
-# Zöld lencsés portobello raguleves
 
+## About
 Mennyei Zöld lencsés portobello raguleves recept! A gombát sem lehet megunni, különösen, ha van hozzá egy kis újkrumpli és egy marék zöld lencse...
 
 > 1 óra 

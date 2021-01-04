@@ -1,6 +1,14 @@
+---
+title: "Roppant kókuszos torta, tojás és tejtermék nélkül"
+description: "Roppant kókuszos torta, tojás és tejtermék nélkül"
+date: 2018-05-11
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/4901058-roppant-kokuszos-torta-tojas-es-tejtermek-nelkul" rel="Recipe source page"><img width="751" height="532" src="/img/full/f42abf9a80b1661c928ac4dcde38bd1f861e00f8.jpg"/></a></p>
-# Roppant kókuszos torta, tojás és tejtermék nélkül
 
+## About
 Mennyei Roppant kókuszos torta, tojás és tejtermék nélkül recept! 26. szülinapjára csupa kókuszos tortát kért az ünnepelt, kókuszliszttel, kókuszreszelékkel, kókuszvirág cukorral, vaníliával és ananásszal. Lehetőleg tojást, vajat, tejszínt ne tegyek bele... Így könnyű, ha már megvannak  a főbb szempontok, igaz? :)
 
 > 1 óra 

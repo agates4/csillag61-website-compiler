@@ -1,6 +1,14 @@
+---
+title: "Krémsajttal töltött alakor kiflik"
+description: "Krémsajttal töltött alakor kiflik"
+date: 2020-09-07
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/13586024-kremsajttal-toltott-alakor-kiflik" rel="Recipe source page"><img width="751" height="532" src="/img/full/6acf4bf988b6b0df8ae941ce25c21970e05084c5.jpg"/></a></p>
-# Krémsajttal töltött alakor kiflik
 
+## About
 Mennyei Krémsajttal töltött alakor kiflik recept! A kiflik formázási módja és sütése ugyanaz, mint a Sajtos, mézes francia fougasse mázas cserépsütőben receptemben. Fantasztikusan finom együtt a borsos hagyma, a Philadelphia krémsajt és egy csepp méz, és mivel garantáltan elfogy pillanatok alatt, ezért 9 darabot sütöttem összesen. Az itt megadott mennyiségből 3 db kifli készül.
 
 > 90 perc 

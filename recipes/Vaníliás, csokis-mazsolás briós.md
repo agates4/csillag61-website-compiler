@@ -1,6 +1,14 @@
+---
+title: "Vaníliás, csokis-mazsolás briós"
+description: "Vaníliás, csokis-mazsolás briós"
+date: 2020-09-22
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/13686698-vanilias-csokis-mazsolas-brios" rel="Recipe source page"><img width="751" height="532" src="/img/full/6bb889afb8435516ed8e98b2329a635118556682.jpg"/></a></p>
-# Vaníliás, csokis-mazsolás briós
 
+## About
 Mennyei Vaníliás, csokis-mazsolás briós recept! Csak az illat után kell menni és mindjárt rátalálunk ezekre a csokoládés, vaníliás foszlós briósokra.
 
 > 1 óra 30 perc 

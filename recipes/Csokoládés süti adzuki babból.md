@@ -1,6 +1,14 @@
+---
+title: "Csokoládés süti adzuki babból"
+description: "Csokoládés süti adzuki babból"
+date: 2018-03-04
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/4523547-csokolades-suti-adzuki-babbol" rel="Recipe source page"><img width="751" height="532" src="/img/full/15ba87ed487e8cb9a0ffa4700e488893f4d6915d.jpg"/></a></p>
-# Csokoládés süti adzuki babból
 
+## About
 Mennyei Csokoládés süti adzuki babból recept! Régóta kísérletezem a babbal és a csokival, sehogyan sem sikerült az ízeket összehangolni egészen addig, amíg rá nem találtam az igazira, az adzuki vagy azuki babra. Erre az apró szemű, piros , oldalán fehér csíkos számomra igazi különlegességre, amit az ázsiai konyhák régóta használnak édesítve, ízesítve különféle desszertekhez. A végeredmény finom, csupa csoki valóságra vált álom.
 
 > 1 óra 15 perc 

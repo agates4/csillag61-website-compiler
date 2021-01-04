@@ -1,6 +1,14 @@
+---
+title: "Fokhagymával tűzdelt sült karfiol"
+description: "Fokhagymával tűzdelt sült karfiol"
+date: 2020-12-29
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/14120705-fokhagymaval-tuzdelt-sult-karfiol" rel="Recipe source page"><img width="751" height="532" src="/img/full/980f07b783e8f679bd5e237ed6658afd74ca3251.jpg"/></a></p>
-# Fokhagymával tűzdelt sült karfiol
 
+## About
 Mennyei Fokhagymával tűzdelt sült karfiol recept! 
 
 > 1 óra 

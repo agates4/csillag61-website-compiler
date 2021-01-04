@@ -1,6 +1,14 @@
+---
+title: "Kenyérfa ördögszekéren"
+description: "Kenyérfa ördögszekéren"
+date: 2018-04-19
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/4782877-kenyerfa-ordogszekeren" rel="Recipe source page"><img width="751" height="532" src="/img/full/376f22bcac9b35ea87355f772548b6b958319738.jpg"/></a></p>
-# Kenyérfa ördögszekéren
 
+## About
 Mennyei Kenyérfa ördögszekéren recept! Érett és zöld  jackfruit együtt  ördögszekér laska gombával verhetetlen bajnok, igazi édes - savanyu , sweet and sour finomság. A kenyérfa gyümölcs belsejében érik ez a csodálatos, aranysárga,  leginkább a mango, banán, ananász keverékére hasonlitható édes finomság. Gondoltam, párositom a zöld, éretlen részével, ami már ragyogóan bevált pörköltek készitésekor.
 
 > 40 perc 

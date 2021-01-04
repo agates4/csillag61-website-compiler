@@ -1,6 +1,14 @@
+---
+title: "Zöldborsós csicseriborsó curry"
+description: "Zöldborsós csicseriborsó curry"
+date: 2020-02-10
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/11541613-zoldborsos-csicseriborso-curry" rel="Recipe source page"><img width="751" height="532" src="/img/full/e3f2d68d879d25f6ee4010dc270883a1268fa76f.jpg"/></a></p>
-# Zöldborsós csicseriborsó curry
 
+## About
 Mennyei Zöldborsós csicseriborsó curry recept! 
 
 > 45 perc 

@@ -1,6 +1,14 @@
+---
+title: "Fehér csokis tofu torta 2"
+description: "Fehér csokis tofu torta 2"
+date: 2018-04-03
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/4648644-feher-csokis-tofu-torta-2" rel="Recipe source page"><img width="751" height="532" src="/img/full/d9697622a04e208223f1c40d60125922f6805bd9.jpg"/></a></p>
-# Fehér csokis tofu torta 2
 
+## About
 Mennyei Fehér csokis tofu torta 2 recept! Finom, különleges, könnyű vaníliás süti. Ha házi fehér csokiból készül, akkor nemcsak tojás, de  tejtermék mentes is lesz. 
 
 > 90 perc 

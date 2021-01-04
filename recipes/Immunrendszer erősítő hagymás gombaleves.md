@@ -1,6 +1,14 @@
+---
+title: "Immunrendszer erősítő hagymás gombaleves"
+description: "Immunrendszer erősítő hagymás gombaleves"
+date: 2020-04-09
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/12030059-immunrendszer-erosito-hagymas-gombaleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/8506a1e9e824fbc8b8daa97eb88cd6ed5ff733b6.jpg"/></a></p>
-# Immunrendszer erősítő hagymás gombaleves
 
+## About
 Mennyei Immunrendszer erősítő hagymás gombaleves recept! Ezt a hagymás gombalevest tiszta szívvel ajánlom mindenkinek : aki egészséges, azért, hogy egészséges is maradjon, aki gyengélkedik, azért, hogy szervezete minél előbb felépüljön.  Szervezetünk meg fogja köszönni minden cseppjét :) 
 
 > 1 óra 

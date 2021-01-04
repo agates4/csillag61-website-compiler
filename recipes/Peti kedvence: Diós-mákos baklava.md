@@ -1,6 +1,14 @@
+---
+title: "Peti kedvence: Diós-mákos baklava"
+description: "Peti kedvence: Diós-mákos baklava"
+date: 2020-01-12
+tags: recipes
+layout: layouts/recipe.njk
+---
+                        
 <p align="center"><a href="https://cookpad.com/hu/receptek/11370973-peti-kedvence-dios-makos-baklava" rel="Recipe source page"><img width="751" height="532" src="/img/full/7077bf37cf3372a1f4d42bd09950884d1a096ba4.jpg"/></a></p>
-# Peti kedvence: Diós-mákos baklava
 
+## About
 Mennyei Peti kedvence: Diós-mákos baklava recept! 
 
 > 80 perc 
