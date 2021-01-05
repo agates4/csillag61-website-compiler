@@ -1,6 +1,7 @@
 ---
 title: "Parázson sült padlizsánkrém"
 description: "Parázson sült padlizsánkrém"
+mainImage: "https://img-global.cpcdn.com/recipes/7476be8cdccd46f4/1502x1064cq70/parazson-sult-padlizsankrem-recept-foto.jpg"
 date: 2018-05-28
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,15 +15,15 @@ Mennyei Parázson sült padlizsánkrém recept! A padlizsánt minden változatba
 > 1 óra 
 
 ## Ingredients
-* **6 db** óriási nyers padlizsán
-* **4 db** édes, húsos piros paprika, egészben
-* **3 db** fekete paradicsom, vastagabb karikára szelve
-* **1 db** zöld jalapeno paprika, egészben
-* **2 db** nagy vöröshagyma, vastagabb karikára vágva
-* **10** cikk fokhagyma
-* **1 ek** édes piros paprika
-* **ízlés szerint ** só
-* **ízlés szerint** bors
+* ** 6 db ** óriási nyers padlizsán
+* ** 4 db ** édes, húsos piros paprika, egészben
+* ** 3 db ** fekete paradicsom, vastagabb karikára szelve
+* ** 1 db ** zöld jalapeno paprika, egészben
+* ** 2 db ** nagy vöröshagyma, vastagabb karikára vágva
+* ** 10 ** cikk fokhagyma
+* ** 1 ek ** édes piros paprika
+* ** ízlés szerint ** só
+* ** ízlés szerint ** bors
 
 ## Steps
 

@@ -1,8 +1,32 @@
-<ul>
-{% for recipe in recipeslist | reverse %}
-  <li>
-    <a href="{{ recipe.url | url }}">{% if recipe.data.title %}{{ recipe.data.title }}{% else %}<code>{{ recipe.url }}</code>{% endif %}</a>
-    <time  datetime="{{ recipe.date | htmlDateString }}">{{ recipe.date | readableDate }}</time>
-  </li>
-{% endfor %}
-</ul>
+{% set atPost = 0 %}
+
+<div class="grid-container">
+  {% for recipe in recipeslist %}
+    <div class="grid-item">
+      <a href="{{ recipe.url | url }}">{% if recipe.data.title %}{{ recipe.data.title }}{% else %}
+        <code>{{ recipe.url }}</code>{% endif %}
+      </a>
+      <time  datetime="{{ recipe.date | htmlDateString }}">{{ recipe.date | readableDate }}</time>
+      <p align="left">
+        <a href="{{ recipe.url | url }}">{% if recipe.data.mainImage %}
+          <img width="375.5" height="266" src="{{ recipe.data.mainImage }}"/>{% else %}
+          <code>{{ recipe.url }}</code>{% endif %}
+        </a>
+      </p>
+      {% set atPost = atPost + 1 %}
+      {% if atPost < 3 %}
+        {% set atPost = 0 %}
+      {% endif%}
+    </div>
+  {% endfor %}
+</div>
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 70vw;
+    position: relative;
+    right: 15vw;
+    left: -15vw;
+  }
+</style>

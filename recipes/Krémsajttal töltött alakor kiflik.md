@@ -1,6 +1,7 @@
 ---
 title: "Krémsajttal töltött alakor kiflik"
 description: "Krémsajttal töltött alakor kiflik"
+mainImage: "https://img-global.cpcdn.com/recipes/fdab5450f2c544c9/1502x1064cq70/kremsajttal-toltott-alakor-kiflik-recept-foto.jpg"
 date: 2020-09-07
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,19 +15,23 @@ Mennyei Krémsajttal töltött alakor kiflik recept! A kiflik formázási módja
 > 90 perc 
 
 ## Ingredients
-*  A kiflik tésztájához
-* **30 dkg** alakor ősbúza finomliszt
-* **10 dkg** alakor ősbúza teljes kiőrlésű liszt
-* **2 ek** olíva olaj
-*  1.5 dl viz
-* **1.5 teáskanál** élesztő
-* **1 teáskanál** só
-*  A töltelékhez
-* **28 dkg** Philadelphia krémsajt
-* **ízlés szerint** bors a krémsajthoz
-* **1 db** nagy hagyma
-*  A sütés után
-* **3 ek** méz
+
+A kiflik tésztájához
+* ** 30 dkg ** alakor ősbúza finomliszt
+* ** 10 dkg ** alakor ősbúza teljes kiőrlésű liszt
+* ** 2 ek ** olíva olaj
+
+1.5 dl viz
+* ** 1.5 teáskanál ** élesztő
+* ** 1 teáskanál ** só
+
+A töltelékhez
+* ** 28 dkg ** Philadelphia krémsajt
+* ** ízlés szerint ** bors a krémsajthoz
+* ** 1 db ** nagy hagyma
+
+A sütés után
+* ** 3 ek ** méz
 
 ## Steps
 

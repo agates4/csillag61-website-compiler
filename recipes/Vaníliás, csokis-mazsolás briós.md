@@ -1,6 +1,7 @@
 ---
 title: "Vaníliás, csokis-mazsolás briós"
 description: "Vaníliás, csokis-mazsolás briós"
+mainImage: "https://img-global.cpcdn.com/recipes/03b6b784bcbf352e/1502x1064cq70/vanilias-csokis-mazsolas-brios-recept-foto.jpg"
 date: 2020-09-22
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,19 +15,21 @@ Mennyei Vaníliás, csokis-mazsolás briós recept! Csak az illat után kell men
 > 1 óra 30 perc 
 
 ## Ingredients
-*  A tésztához
-* **50 dkg** kenyérliszt
-* **3 dl** növényi tej
-* **1.5 teáskanál** szárított élesztő
-* **60 ml** cukor
-* **1.5 teáskanál** só
-* **2 db** tojás
-* **2.5 ek** vaj
-*  Az ízesítéshez
-* **45 gr** keserű csokicsepp
-* **45 gr** fehér csokicsepp
-* **45 gr** mazsola
-* **1 ek** vanília kivonat
+
+A tésztához
+* ** 50 dkg ** kenyérliszt
+* ** 3 dl ** növényi tej
+* ** 1.5 teáskanál ** szárított élesztő
+* ** 60 ml ** cukor
+* ** 1.5 teáskanál ** só
+* ** 2 db ** tojás
+* ** 2.5 ek ** vaj
+
+Az ízesítéshez
+* ** 45 gr ** keserű csokicsepp
+* ** 45 gr ** fehér csokicsepp
+* ** 45 gr ** mazsola
+* ** 1 ek ** vanília kivonat
 
 ## Steps
 

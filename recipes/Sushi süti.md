@@ -1,6 +1,7 @@
 ---
 title: "Sushi süti"
 description: "Sushi süti"
+mainImage: "https://img-global.cpcdn.com/recipes/5d7cf53eda1124cd/1502x1064cq70/sushi-suti-recept-foto.jpg"
 date: 2018-03-25
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,25 +15,26 @@ Mennyei Sushi süti recept! A sushit nagyon szeretjük, de egy hirtelen ötlett�
 > 1 óra 
 
 ## Ingredients
-*  A sushi sütihez
-* **4-5 lap** black nori
-* **4 pohár** főtt quinoa
-* **4 pohár** párolt reszelt karfiol
-* **15 db** kicsi édes nyers paprika
-* **3 db** avokádó
-* **1 ek** lime juice
-* **4 pohár** kenyérfa pörkölt
-* **ízlés szerint** vegyes sótlan zöldség füszer
+
+A sushi sütihez
+* ** 4-5 lap ** black nori
+* ** 4 pohár ** főtt quinoa
+* ** 4 pohár ** párolt reszelt karfiol
+* ** 15 db ** kicsi édes nyers paprika
+* ** 3 db ** avokádó
+* ** 1 ek ** lime juice
+* ** 4 pohár ** kenyérfa pörkölt
+* ** ízlés szerint ** vegyes sótlan zöldség füszer
 
 A tomatillo avokadó szószhoz:
-* **50 dkg** tomatillo
-* **2 db** habareno paprika
-* **2 db** avokádó
-* **8 gerezd** fokhagyma
-* **1 db** key lime leve
-* **2 ek** szárított citrom reszelék
-* **2 ek** szárított koriander levél
-* **ízlés szerint** himalaya só
+* ** 50 dkg ** tomatillo
+* ** 2 db ** habareno paprika
+* ** 2 db ** avokádó
+* ** 8 gerezd ** fokhagyma
+* ** 1 db ** key lime leve
+* ** 2 ek ** szárított citrom reszelék
+* ** 2 ek ** szárított koriander levél
+* ** ízlés szerint ** himalaya só
 
 ## Steps
 

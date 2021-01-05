@@ -1,6 +1,7 @@
 ---
 title: "Kókuszos, adzuki babos brownie"
 description: "Kókuszos, adzuki babos brownie"
+mainImage: "https://img-global.cpcdn.com/recipes/6727130697973a35/1502x1064cq70/kokuszos-adzuki-babos-brownie-recept-foto.jpg"
 date: 2020-03-23
 tags: recipes
 layout: layouts/recipe.njk
@@ -16,20 +17,22 @@ A tészta állaga a fudge és a browne kozotti, pille könnyű,  szájban olvad�
 > 90 perc 
 
 ## Ingredients
-* **90 dkg** főtt adzuki bab
-* **15 dkg** natúr kakaópor
-* **10 dkg** kókuszcukor
-* **10 db** medjool datolya
-* **15 dkg** finomra darált mandula
-* **1 ek** sütőpor
-* **1 db** konzerv kókusztej
-* **1 db** nagy ananász konzerv
-*  A bevonathoz
-* **20 dkg** fehér csoki morzsa
-* **0.5 dl** mandulatej
-* **1 teáskanál** kókuszolaj
-*  Tetejére
-* **3 dl** kókuszreszelék
+* ** 90 dkg ** főtt adzuki bab
+* ** 15 dkg ** natúr kakaópor
+* ** 10 dkg ** kókuszcukor
+* ** 10 db ** medjool datolya
+* ** 15 dkg ** finomra darált mandula
+* ** 1 ek ** sütőpor
+* ** 1 db ** konzerv kókusztej
+* ** 1 db ** nagy ananász konzerv
+
+A bevonathoz
+* ** 20 dkg ** fehér csoki morzsa
+* ** 0.5 dl ** mandulatej
+* ** 1 teáskanál ** kókuszolaj
+
+Tetejére
+* ** 3 dl ** kókuszreszelék
 
 ## Steps
 

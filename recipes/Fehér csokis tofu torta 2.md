@@ -1,6 +1,7 @@
 ---
 title: "Fehér csokis tofu torta 2"
 description: "Fehér csokis tofu torta 2"
+mainImage: "https://img-global.cpcdn.com/recipes/7fbe860ea200510f/1502x1064cq70/feher-csokis-tofu-torta-2-recept-foto.jpg"
 date: 2018-04-03
 tags: recipes
 layout: layouts/recipe.njk
@@ -16,15 +17,15 @@ Mennyei Fehér csokis tofu torta 2 recept! Finom, különleges, könnyű vaníli
 ## Ingredients
 
 A túró töltelékhez:
-* **90 dkg** kemény tofu
-* **30 dkg** fehér csokoládé
-* **2 doboz** növényi krémsajt
-* **1 ek** almaecet vagy citromlé
-* **2 ek** kukorica keményítő
+* ** 90 dkg ** kemény tofu
+* ** 30 dkg ** fehér csokoládé
+* ** 2 doboz ** növényi krémsajt
+* ** 1 ek ** almaecet vagy citromlé
+* ** 2 ek ** kukorica keményítő
 
 Az alap tésztához:
-* **15 dkg** graham keksz
-* **1 ek** olvasztott kókuszolaj
+* ** 15 dkg ** graham keksz
+* ** 1 ek ** olvasztott kókuszolaj
 
 ## Steps
 

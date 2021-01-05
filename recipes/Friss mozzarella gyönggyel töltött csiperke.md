@@ -1,6 +1,7 @@
 ---
 title: "Friss mozzarella gyönggyel töltött csiperke"
 description: "Friss mozzarella gyönggyel töltött csiperke"
+mainImage: "https://img-global.cpcdn.com/recipes/f39bd1930450c8bd/1502x1064cq70/friss-mozzarella-gyonggyel-toltott-csiperke-recept-foto.jpg"
 date: 2020-08-24
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,11 +15,11 @@ Mennyei Friss mozzarella gyönggyel töltött csiperke recept!
 > 30 perc 
 
 ## Ingredients
-* **8 db** friss csiperke
-* **30 db** friss mozzarella gyöngy
-* **1 ek** reszelt parmezán
-* **1 ek** szójaszósz
-* **8 db** friss bazsalikom levél
+* ** 8 db ** friss csiperke
+* ** 30 db ** friss mozzarella gyöngy
+* ** 1 ek ** reszelt parmezán
+* ** 1 ek ** szójaszósz
+* ** 8 db ** friss bazsalikom levél
 
 ## Steps
 

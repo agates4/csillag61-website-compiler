@@ -1,6 +1,7 @@
 ---
 title: "Immunrendszer erősítő hagymás gombaleves"
 description: "Immunrendszer erősítő hagymás gombaleves"
+mainImage: "https://img-global.cpcdn.com/recipes/6ba3778ed08f2374/1502x1064cq70/immunrendszer-erosito-hagymas-gombaleves-recept-foto.jpg"
 date: 2020-04-09
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,21 +15,21 @@ Mennyei Immunrendszer erősítő hagymás gombaleves recept! Ezt a hagymás gomb
 > 1 óra 
 
 ## Ingredients
-* **3 db** póréhagyma
-* **50 dkg** vöröshagyma
-* **50 dkg** shiitake gomba
-* **20 dkg** csiperke
-* **12 db** fodros kél levél vagy mángold
-* **2 ek** almaecet a levelekhez
-* **10 db** szárzeller
-* **1 l** sárgarépalé
-* **1 l** víz
-* **1.5 dl** vörös lencse
-* **1 teáskanál** kurkuma
-* **2 teáskanál** garam masala
-* **1 ek** szárított zöldséges fűszerkeverék
-* **2.5 dl** közönséges dió vagy kesudió
-* **ízlés szerint** tört bors
+* ** 3 db ** póréhagyma
+* ** 50 dkg ** vöröshagyma
+* ** 50 dkg ** shiitake gomba
+* ** 20 dkg ** csiperke
+* ** 12 db ** fodros kél levél vagy mángold
+* ** 2 ek ** almaecet a levelekhez
+* ** 10 db ** szárzeller
+* ** 1 l ** sárgarépalé
+* ** 1 l ** víz
+* ** 1.5 dl ** vörös lencse
+* ** 1 teáskanál ** kurkuma
+* ** 2 teáskanál ** garam masala
+* ** 1 ek ** szárított zöldséges fűszerkeverék
+* ** 2.5 dl ** közönséges dió vagy kesudió
+* ** ízlés szerint ** tört bors
 
 ## Steps
 

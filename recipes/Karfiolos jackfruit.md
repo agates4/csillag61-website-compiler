@@ -1,6 +1,7 @@
 ---
 title: "Karfiolos jackfruit"
 description: "Karfiolos jackfruit"
+mainImage: "https://img-global.cpcdn.com/recipes/1d048ced083f23cc/1502x1064cq70/karfiolos-jackfruit-recept-foto.jpg"
 date: 2020-09-07
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,16 +15,16 @@ Mennyei Karfiolos jackfruit recept!
 > 1 óra 
 
 ## Ingredients
-* **2** zöld baby jackfruit, konzerv
-* **1 kis fej** karfiol
-* **2 db** lila hagyma
-* **6 db** édes, színes paprika
-* **1 db** hüvelykujjnyi gyömbér
-* **1 fej** fokhagyma
-* **2 ek** turmeric
-* **1 ek** garam masala
-* **ízlés szerint** só
-* **1/2 evőkanál** kókuszos szója
+* ** 2 ** zöld baby jackfruit, konzerv
+* ** 1 kis fej ** karfiol
+* ** 2 db ** lila hagyma
+* ** 6 db ** édes, színes paprika
+* ** 1 db ** hüvelykujjnyi gyömbér
+* ** 1 fej ** fokhagyma
+* ** 2 ek ** turmeric
+* ** 1 ek ** garam masala
+* ** ízlés szerint ** só
+* ** 1/2 evőkanál ** kókuszos szója
 
 ## Steps
 

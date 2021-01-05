@@ -1,6 +1,7 @@
 ---
 title: "Peti kedvence: Diós-mákos baklava"
 description: "Peti kedvence: Diós-mákos baklava"
+mainImage: "https://img-global.cpcdn.com/recipes/bfb7710a3456df53/1502x1064cq70/peti-kedvence-dios-makos-baklava-recept-foto.jpg"
 date: 2020-01-12
 tags: recipes
 layout: layouts/recipe.njk
@@ -14,16 +15,18 @@ Mennyei Peti kedvence: Diós-mákos baklava recept!
 > 80 perc 
 
 ## Ingredients
-* **20 dkg** mák
-* **20 dkg** dió
-* **45 dkg** vékony fagyasztott réteslap
-*  A kenéshez
-* **125 ml** kókuszolaj
-*  A sziruphoz
-* **2 dl** viz
-* **15 dkg** kókuszcukor
-* **10 dkg** narancsvirág méz
-* **1 db** narancs reszelt héja
+* ** 20 dkg ** mák
+* ** 20 dkg ** dió
+* ** 45 dkg ** vékony fagyasztott réteslap
+
+A kenéshez
+* ** 125 ml ** kókuszolaj
+
+A sziruphoz
+* ** 2 dl ** viz
+* ** 15 dkg ** kókuszcukor
+* ** 10 dkg ** narancsvirág méz
+* ** 1 db ** narancs reszelt héja
 
 ## Steps
 

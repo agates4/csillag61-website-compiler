@@ -1,6 +1,7 @@
 ---
 title: "Roppant kókuszos torta, tojás és tejtermék nélkül"
 description: "Roppant kókuszos torta, tojás és tejtermék nélkül"
+mainImage: "https://img-global.cpcdn.com/recipes/ee6272013734c158/1502x1064cq70/roppant-kokuszos-torta-tojas-es-tejtermek-nelkul-recept-foto.jpg"
 date: 2018-05-11
 tags: recipes
 layout: layouts/recipe.njk
@@ -16,26 +17,26 @@ Mennyei Roppant kókuszos torta, tojás és tejtermék nélkül recept! 26. szü
 ## Ingredients
 
 A kókuszlapokhoz:
-* **1 ek** darált aranysárga lenmag
-* **1 ek** almaecet
-* **2.25 pohár** kenyérliszt
-* **1.5 pohár** kókuszliszt
-* **5 teáskanál** sütőpor
-* **2.25 teáskanál** szódabikarbóna
-* **1 pohár** kókuszvirág cukor
-* **90 ml** olvasztott kókuszolaj
-* **4.5 pohár** kókusztej, cukormentes
-* **4 teáskanál** vanília kivonat
+* ** 1 ek ** darált aranysárga lenmag
+* ** 1 ek ** almaecet
+* ** 2.25 pohár ** kenyérliszt
+* ** 1.5 pohár ** kókuszliszt
+* ** 5 teáskanál ** sütőpor
+* ** 2.25 teáskanál ** szódabikarbóna
+* ** 1 pohár ** kókuszvirág cukor
+* ** 90 ml ** olvasztott kókuszolaj
+* ** 4.5 pohár ** kókusztej, cukormentes
+* ** 4 teáskanál ** vanília kivonat
 
 Az ananászos krémhez:
-* **4 pohár** nyers kesudió
-* **300 gr** pépes ananász
-* **3 dl** kókusztejszín
-* **1 db** vanília rúd
-* **10 dkg** fehér csoki
+* ** 4 pohár ** nyers kesudió
+* ** 300 gr ** pépes ananász
+* ** 3 dl ** kókusztejszín
+* ** 1 db ** vanília rúd
+* ** 10 dkg ** fehér csoki
 
 A díszítéshez:
-* **2 pohár** kókuszreszelék, cukormentes
+* ** 2 pohár ** kókuszreszelék, cukormentes
 
 ## Steps
 
