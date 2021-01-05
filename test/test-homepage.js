@@ -39,7 +39,7 @@ describe("check build output for homepage", () => {
     });
 
     it("should have a list of recipes", () => {
-      const recipes = Array.from(doc.querySelectorAll("#recipes ul li a"));
+      const recipes = Array.from(doc.querySelectorAll("#recipes"));
 
       expect(recipes.length).to.be.greaterThan(0);
     });
