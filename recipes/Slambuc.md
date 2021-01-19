@@ -1,7 +1,7 @@
 ---
 title: "Slambuc"
 description: "Slambuc"
-mainImage: "https://img-global.cpcdn.com/recipes/f4598165e9d271cc/1502x1064cq70/slambuc-recept-foto.jpg"
+mainImage: "/img/full/79e9ddf226cf0bb9df28a3a7d2d7a1e7bf41b48c.jpg"
 date: 2018-05-24
 tags: recipes
 layout: layouts/recipe.njk
@@ -12,18 +12,18 @@ layout: layouts/recipe.njk
 ## About
 Mennyei Slambuc recept! A slambuc végigkísérte egész életünket, velünk együtt mozdult mindenfelé, amerre csak jártunk ebben  a nagy világban.  Éppen olyan finom ma is, mint valaha a Tisza parton...
 
-> 90 perc 
+>  
 
 ## Ingredients
-* ** 3 kg ** krumpli
-* ** 3 db ** nagy vöröshagyma
-* ** 30 dkg ** lebbencs tészta
-* ** 1 db ** nagy paradicsom
-* ** 2 db ** kisebb édes nyers paprika
-* ** 2 ek ** édes paprikapor
-* ** 2 teáskanál ** morzsolt csípős paprika
-* ** ízlés szerint ** bors
-* ** ízlés szerint ** só
+* **3 kg** krumpli
+* **3 db** nagy vöröshagyma
+* **30 dkg** lebbencs tészta
+* **1 db** nagy paradicsom
+* **2 db** kisebb édes nyers paprika
+* **2 ek** édes paprikapor
+* **2 teáskanál** morzsolt csípős paprika
+* **ízlés szerint** bors
+* **ízlés szerint** só
 
 ## Steps
 

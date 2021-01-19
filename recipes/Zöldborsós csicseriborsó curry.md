@@ -1,7 +1,7 @@
 ---
 title: "Zöldborsós csicseriborsó curry"
 description: "Zöldborsós csicseriborsó curry"
-mainImage: "https://img-global.cpcdn.com/recipes/b1f14ccf2ae4a934/1502x1064cq70/zoldborsos-csicseriborso-curry-recept-foto.jpg"
+mainImage: "/img/full/e3f2d68d879d25f6ee4010dc270883a1268fa76f.jpg"
 date: 2020-02-10
 tags: recipes
 layout: layouts/recipe.njk
@@ -12,22 +12,22 @@ layout: layouts/recipe.njk
 ## About
 Mennyei Zöldborsós csicseriborsó curry recept! 
 
-> 45 perc 
+>  
 
 ## Ingredients
-* ** 4 ** kisebb édes piros paprika
+* **4** kisebb édes piros paprika
 
 vagy egy nagy húsos piros paprika
-* ** 3 db ** húsos paradicsom
-* ** 2 db ** közepes vöröshagyma
-* ** 500 g ** főtt csicseriborsó
-* ** 35 dkg ** kemény tofu
-* ** 2.5 dl ** zöldborsó
-* ** 3 szál ** újhagyma
-* ** 480 ml ** kókusztej
-* ** 3 evőkanál ** curry
-* ** 2 teáskanál ** turmeric
-* ** 1 evőkanál ** zöldségkeverék
+* **3 db** húsos paradicsom
+* **2 db** közepes vöröshagyma
+* **500 g** főtt csicseriborsó
+* **35 dkg** kemény tofu
+* **2.5 dl** zöldborsó
+* **3 szál** újhagyma
+* **480 ml** kókusztej
+* **3 evőkanál** curry
+* **2 teáskanál** turmeric
+* **1 evőkanál** zöldségkeverék
 
 ## Steps
 

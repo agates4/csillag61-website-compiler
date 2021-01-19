@@ -1,7 +1,7 @@
 ---
 title: "Kenyérfa ördögszekéren"
 description: "Kenyérfa ördögszekéren"
-mainImage: "https://img-global.cpcdn.com/recipes/a205c85190c79793/1502x1064cq70/kenyerfa-ordogszekeren-recept-foto.jpg"
+mainImage: "/img/full/376f22bcac9b35ea87355f772548b6b958319738.jpg"
 date: 2018-04-19
 tags: recipes
 layout: layouts/recipe.njk
@@ -12,21 +12,21 @@ layout: layouts/recipe.njk
 ## About
 Mennyei Kenyérfa ördögszekéren recept! Érett és zöld  jackfruit együtt  ördögszekér laska gombával verhetetlen bajnok, igazi édes - savanyu , sweet and sour finomság. A kenyérfa gyümölcs belsejében érik ez a csodálatos, aranysárga,  leginkább a mango, banán, ananász keverékére hasonlitható édes finomság. Gondoltam, párositom a zöld, éretlen részével, ami már ragyogóan bevált pörköltek készitésekor.
 
-> 40 perc 
+>  
 
 ## Ingredients
-* ** 3 db ** nagy ördögszekér gomba
-* ** 1 ** nagy vöröshagyma
-* ** 1 teáskanál ** piri piri szósz
-* ** 28 dkg ** zöld bébi kenyérfa, szürve
-* ** 23 dkg ** érett kenyérfa, szürve
-* ** 4 db ** száritott paradicsom
-* ** 12 db ** koktél paradicsom
-* ** 3 ** bö evökanálnyi konzerv kókusztej föle
-* ** 2 teáskanál ** száritott, piritott fokhagyma
-* ** 1 teáskanál ** morzsolt erös paprika
-* ** 1 teáskanál ** morzsolt rozmaring
-* ** 1 teáskanál ** piros curry krém
+* **3 db** nagy ördögszekér gomba
+* **1** nagy vöröshagyma
+* **1 teáskanál** piri piri szósz
+* **28 dkg** zöld bébi kenyérfa, szürve
+* **23 dkg** érett kenyérfa, szürve
+* **4 db** száritott paradicsom
+* **12 db** koktél paradicsom
+* **3** bö evökanálnyi konzerv kókusztej föle
+* **2 teáskanál** száritott, piritott fokhagyma
+* **1 teáskanál** morzsolt erös paprika
+* **1 teáskanál** morzsolt rozmaring
+* **1 teáskanál** piros curry krém
 
 ## Steps
 

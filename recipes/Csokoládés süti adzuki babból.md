@@ -1,7 +1,7 @@
 ---
 title: "Csokoládés süti adzuki babból"
 description: "Csokoládés süti adzuki babból"
-mainImage: "https://img-global.cpcdn.com/recipes/c13bb48c0ed25d6e/1502x1064cq70/csokolades-suti-adzuki-babbol-recept-foto.jpg"
+mainImage: "/img/full/15ba87ed487e8cb9a0ffa4700e488893f4d6915d.jpg"
 date: 2018-03-04
 tags: recipes
 layout: layouts/recipe.njk
@@ -12,22 +12,22 @@ layout: layouts/recipe.njk
 ## About
 Mennyei Csokoládés süti adzuki babból recept! Régóta kísérletezem a babbal és a csokival, sehogyan sem sikerült az ízeket összehangolni egészen addig, amíg rá nem találtam az igazira, az adzuki vagy azuki babra. Erre az apró szemű, piros , oldalán fehér csíkos számomra igazi különlegességre, amit az ázsiai konyhák régóta használnak édesítve, ízesítve különféle desszertekhez. A végeredmény finom, csupa csoki valóságra vált álom.
 
-> 1 óra 15 perc 
+>  
 
 ## Ingredients
-* ** 90 dkg ** főtt adzuki bab
-* ** 15 dkg ** natúr kakaópor
-* ** 3 teáskanál ** sütőpor
-* ** 10 db ** medjool datolya
-* ** 5 dkg ** kókuszcukor
-* ** 2.5 dl ** zabpehely
-* ** 1 db ** konzerv kókusztej
-* ** 2 db ** alma
-* ** 10 dkg ** csokimorzsa
+* **90 dkg** főtt adzuki bab
+* **15 dkg** natúr kakaópor
+* **3 teáskanál** sütőpor
+* **10 db** medjool datolya
+* **5 dkg** kókuszcukor
+* **2.5 dl** zabpehely
+* **1 db** konzerv kókusztej
+* **2 db** alma
+* **10 dkg** csokimorzsa
 
 A bevonathoz:
-* ** 2.5 dl ** sötét csoki morzsa
-* ** 1 dl ** mandulatej
+* **2.5 dl** sötét csoki morzsa
+* **1 dl** mandulatej
 
 ## Steps
 

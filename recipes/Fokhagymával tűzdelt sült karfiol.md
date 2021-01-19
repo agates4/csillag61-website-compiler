@@ -1,7 +1,7 @@
 ---
 title: "Fokhagymával tűzdelt sült karfiol"
 description: "Fokhagymával tűzdelt sült karfiol"
-mainImage: "https://img-global.cpcdn.com/recipes/a600517376a12419/1502x1064cq70/fokhagymaval-tuzdelt-sult-karfiol-recept-foto.jpg"
+mainImage: "/img/full/980f07b783e8f679bd5e237ed6658afd74ca3251.jpg"
 date: 2020-12-29
 tags: recipes
 layout: layouts/recipe.njk
@@ -12,14 +12,14 @@ layout: layouts/recipe.njk
 ## About
 Mennyei Fokhagymával tűzdelt sült karfiol recept! 
 
-> 1 óra 
+>  
 
 ## Ingredients
-* ** 1 db ** karfiol
-* ** 10 db ** fokhagyma
-* ** ízlés szerint ** só, bors
-* ** ízlés szerint ** szárított parmezán sajt
-* ** ízlés szerint ** reszelt sajt
+* **1 db** karfiol
+* **10 db** fokhagyma
+* **ízlés szerint** só, bors
+* **ízlés szerint** szárított parmezán sajt
+* **ízlés szerint** reszelt sajt
 
 ## Steps
 

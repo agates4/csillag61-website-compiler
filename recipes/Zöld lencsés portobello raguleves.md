@@ -1,7 +1,7 @@
 ---
 title: "Zöld lencsés portobello raguleves"
 description: "Zöld lencsés portobello raguleves"
-mainImage: "https://img-global.cpcdn.com/recipes/c6b7ad86aed344bb/1502x1064cq70/zold-lencses-portobello-raguleves-recept-foto.jpg"
+mainImage: "/img/full/6b81ab4ca3e06fb7e7db76ed3c1ee17233678dda.jpg"
 date: 2018-05-25
 tags: recipes
 layout: layouts/recipe.njk
@@ -12,25 +12,25 @@ layout: layouts/recipe.njk
 ## About
 Mennyei Zöld lencsés portobello raguleves recept! A gombát sem lehet megunni, különösen, ha van hozzá egy kis újkrumpli és egy marék zöld lencse...
 
-> 1 óra 
+>  
 
 ## Ingredients
-* ** 1 db ** nagy vöröshagyma
-* ** 1 db ** póréhagyma
-* ** 4 db ** halványító zeller
-* ** 3 db ** kicsi édes friss paprika
-* ** 4 db ** közepes paradicsom
-* ** 3 db ** sárgarépa
-* ** 3 db ** petrezselyem gyökér
-* ** 4 db ** portobello gomba
-* ** 10 szál ** káposzta, mángold vagy kel levél
-* ** 1 db ** nagy daikon retek
-* ** 50 dkg ** nagyon apró újkrumpli
-* ** 1 ek ** szárított gombás fűszerkeverék
-* ** 2 teáskanál ** chili paprika
-* ** 1 ek ** csemege piros paprikapor
-* ** 2 teáskanál ** garam masala
-* ** 2.5 dl ** főtt zöld lencse
+* **1 db** nagy vöröshagyma
+* **1 db** póréhagyma
+* **4 db** halványító zeller
+* **3 db** kicsi édes friss paprika
+* **4 db** közepes paradicsom
+* **3 db** sárgarépa
+* **3 db** petrezselyem gyökér
+* **4 db** portobello gomba
+* **10 szál** káposzta, mángold vagy kel levél
+* **1 db** nagy daikon retek
+* **50 dkg** nagyon apró újkrumpli
+* **1 ek** szárított gombás fűszerkeverék
+* **2 teáskanál** chili paprika
+* **1 ek** csemege piros paprikapor
+* **2 teáskanál** garam masala
+* **2.5 dl** főtt zöld lencse
 
 ## Steps
 

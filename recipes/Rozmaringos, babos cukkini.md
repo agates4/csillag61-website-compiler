@@ -1,7 +1,7 @@
 ---
 title: "Rozmaringos, babos cukkini"
 description: "Rozmaringos, babos cukkini"
-mainImage: "https://img-global.cpcdn.com/recipes/2606acd210f42696/1502x1064cq70/rozmaringos-babos-cukkini-recept-foto.jpg"
+mainImage: "/img/full/6895a02a996ba63ccced71dcad0fe0cf39cba6cf.jpg"
 date: 2018-03-01
 tags: recipes
 layout: layouts/recipe.njk
@@ -12,15 +12,15 @@ layout: layouts/recipe.njk
 ## About
 Mennyei Rozmaringos, babos cukkini recept! Friss cukkini és sárgarépa, egy kis babbal, füszerekkel, soha ne legyen rosszabb dolgunk, mint ma. :)
 
-> 15 perc 
+>  
 
 ## Ingredients
-* ** 4 db ** bébi cukkini
-* ** 40 dkg ** vékony csíkokra vágott sárgarépa
-* ** 20 dkg ** ropogós gomba
-* ** 5 dl ** főtt bab
-* ** 1 ek ** szárított rozmaring
-* ** 1 ek ** szárított, pirított fokhagyma
+* **4 db** bébi cukkini
+* **40 dkg** vékony csíkokra vágott sárgarépa
+* **20 dkg** ropogós gomba
+* **5 dl** főtt bab
+* **1 ek** szárított rozmaring
+* **1 ek** szárított, pirított fokhagyma
 
 ## Steps
 
