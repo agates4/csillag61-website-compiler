@@ -6,13 +6,13 @@ date: 2017-06-16
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2823569-paprikas-krumpli-babbal-gombaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/f34f5de02fd489f30928538bdc5e3724449454e6.jpg"/></a></p>
 
 ## About
 Mennyei Paprikás krumpli babbal, gombával recept! Elég kimondani a nevét, máris emlékek ezrei töltik be a konyhánkat. :) Ennek az egytál ételnek a paprikás krumpli az alapja, felpezsdítve egy kis babbal, gombával.
 
->  
+> 60 perc 
 
 ## Ingredients
 * **2.5 kg** krumpli

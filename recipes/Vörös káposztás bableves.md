@@ -6,13 +6,13 @@ date: 2017-03-18
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2252318-voros-kaposztas-bableves" rel="Recipe source page"><img width="751" height="532" src="/img/full/0a538cf2ffd982981dad4b73a7b79ce9d468fef8.jpg"/></a></p>
 
 ## About
 Mennyei Vörös káposztás bableves recept! Egy szelet hagymás-rozsos kenyérrel akár önálló étel is lehet ez az ízekben gazdag szép piros leves.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **2 db** lila hagyma

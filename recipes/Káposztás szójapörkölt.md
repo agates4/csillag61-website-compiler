@@ -6,13 +6,13 @@ date: 2019-11-10
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/10997961-kaposztas-szojaporkolt" rel="Recipe source page"><img width="751" height="532" src="/img/full/82f434a50e80ca5d444499fa86c526630d58c230.jpg"/></a></p>
 
 ## About
 Mennyei Káposztás szójapörkölt recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **20 dkg** szárított szójakocka

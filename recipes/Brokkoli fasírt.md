@@ -6,13 +6,13 @@ date: 2017-06-16
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2823411-brokkoli-fasirt" rel="Recipe source page"><img width="751" height="532" src="/img/full/d0b549ee871fd3cf85435bfda74aa5260d2877d4.jpg"/></a></p>
 
 ## About
 Mennyei Brokkoli fasírt recept! Az inaktivált vagy nemes élesztőpelyhet (Nutritional Yeast Flakes) nemcsak azért szeretem, mert nagyon finom sajtos íze van, hanem azért is, mert  tele van fehérjével, B-vitaminokkal, folsavval, magnéziummal és cinkkel. Kóstoljuk meg ezt a különleges brokkoli fasírtot, lehet, hogy még a gyerekek is szeretni fogják. ;)
 
->  
+> 55 perc 
 
 ## Ingredients
 * **1 kg** brokkoli rózsa

@@ -6,13 +6,13 @@ date: 2018-05-21
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4974971-glutenmentes-lisztkeverek-sutemenyekhez" rel="Recipe source page"><img width="751" height="532" src="/img/full/d290a3a26cedc8a08dc74b531195a4b92b13be72.jpg"/></a></p>
 
 ## About
 Mennyei Gluténmentes lisztkeverék süteményekhez recept! Ez a lisztkeverék csodákat művel muffinokban, tortáknál, palacsintáknál. Könnyen elkészíthető és sokáig tárolható..
 
->  
+> 10 perc 
 
 ## Ingredients
 * **480 gr** barna rizsliszt

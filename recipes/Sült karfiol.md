@@ -6,13 +6,13 @@ date: 2018-06-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5157417-sult-karfiol" rel="Recipe source page"><img width="751" height="532" src="/img/full/abf6ff9dff3f1427d00e91230292e603af695000.jpg"/></a></p>
 
 ## About
 Mennyei Sült karfiol recept! Roppant egyszerü, de mégis nagyszerű recept, amit nagyon gyorsan elkészíthetünk. 
 
->  
+> 40 perc 
 
 ## Ingredients
 * **1 fej** karfiol

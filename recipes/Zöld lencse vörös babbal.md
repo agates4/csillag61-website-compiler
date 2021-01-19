@@ -6,13 +6,13 @@ date: 2017-02-13
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1999678-zold-lencse-voros-babbal" rel="Recipe source page"><img width="751" height="532" src="/img/full/7fa5052234dfa3f8bf26bc29e9b11bb93b98847f.jpg"/></a></p>
 
 ## About
 Mennyei Zöld lencse vörös babbal recept! A lencse megunhatatlanul finom mindenféle változatban...
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 db** közepes padlizsán

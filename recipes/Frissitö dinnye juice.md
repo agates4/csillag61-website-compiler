@@ -6,13 +6,13 @@ date: 2018-06-23
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5216080-frissito-dinnye-juice" rel="Recipe source page"><img width="751" height="532" src="/img/full/991405a1a1c318226a457a0e9308706a11e758bd.jpg"/></a></p>
 
 ## About
 Mennyei Frissitö dinnye juice recept! 
 
->  
+> 15 perc 
 
 ## Ingredients
 * **1 kg** héjától megtisztitott dinnye

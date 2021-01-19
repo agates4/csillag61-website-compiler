@@ -6,13 +6,13 @@ date: 2017-06-30
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2824791-mangoldos-lencse-zoldbabbal" rel="Recipe source page"><img width="751" height="532" src="/img/full/4132dcb697d22013a731f5ea05d39358e1d9999b.jpg"/></a></p>
 
 ## About
 Mennyei Mángoldos lencse zöldbabbal recept! Nagyon szeretjük a lencsét, különösen, ha már a kertünkben megteremnek a hozzávaló zöldségek. Egyszerűen megunhatatlan. :) 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **500 g** száraz lencse

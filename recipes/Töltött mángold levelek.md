@@ -6,13 +6,13 @@ date: 2017-02-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2000034-toltott-mangold-levelek" rel="Recipe source page"><img width="751" height="532" src="/img/full/fa40b2b17766cab20d21e47618bba6b0a48886bd.jpg"/></a></p>
 
 ## About
 Mennyei Töltött mángold levelek recept! Nemcsak a kiskertünkben, de az  asztalunkon is fő helyett kapott ez az újonnan felfedezett több ezer éves növény. Ha megkóstoljátok, meg fogjátok érteni, miért..
 
->  
+> 90 perc 
 
 ## Ingredients
 * **1 fej** hagyma

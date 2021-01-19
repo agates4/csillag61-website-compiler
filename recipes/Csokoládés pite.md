@@ -6,13 +6,13 @@ date: 2014-03-31
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924059-csokolades-pite" rel="Recipe source page"><img width="751" height="532" src="/img/full/c67ee6f9c8d1dfa07bf3e9a207107c44fa49eab8.jpg"/></a></p>
 
 ## About
 Mennyei Csokoládés pite recept! Ennek a sütinek igazi meglepetése, hogy avokádóból készül a krémje, a tésztája pedig közönséges dióból, a szokásos tojás, liszt, cukor hozzáaadása nélkül, mégis egy igazi, semmihez sem hasonlitható, szájban olvadó kellemes ízt kapunk. Málnával is kiváló, elegáns süti .
 
->  
+> 95 perc 
 
 ## Ingredients
 

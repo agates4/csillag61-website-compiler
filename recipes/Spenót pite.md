@@ -6,13 +6,13 @@ date: 2014-04-30
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924076-spenot-pite" rel="Recipe source page"><img width="751" height="532" src="/img/full/be178aa42e314f3da1d58da6d83942e6690131c3.jpg"/></a></p>
 
 ## About
 Mennyei Spenót pite recept! A spenót pite ötletét a görög spanakopita pite adta, már régen törtem a fejem azon, hogyan lehetne spenóttal megtölteni a rétes lapokat. Még ízletesebb, ha mángold levelekkel készül, vagy ha a kettő keverékéből. A tepsi mérete 34x24 cm, és a rétes lapoké 35x45 cm.
 
->  
+> 65 perc 
 
 ## Ingredients
 

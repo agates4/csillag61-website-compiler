@@ -6,14 +6,14 @@ date: 2014-05-01
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924155-gozolt-karfiol-edes-paprika-szosszal" rel="Recipe source page"><img width="751" height="532" src="/img/full/f38b5326d871065ba24aac57e18b15bb28895381.jpg"/></a></p>
 
 ## About
 Mennyei Gőzölt karfiol édes paprika szósszal recept! A házi paradicsomszósz adja meg a leginkább ennek a finomságnak is az igazi ízét, a karfiolnak gőzölve pedig igazi karfiol zamata lesz... ki tudta? :)
 Ha nincs kéznél olasz fűszerkeverék, készíthetünk házilag is! Recept hozzá: 2 ek szárított bazsalikom, 2 ek szárított majoránna, 1 ek oregánó, 1 ek rozmaring, 1 ek édes pirospaprika
 
->  
+> 65 perc 
 
 ## Ingredients
 

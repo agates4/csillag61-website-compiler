@@ -6,13 +6,13 @@ date: 2018-05-21
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4943949-ananaszos-sargarepa-torta-tojas-olaj-tejtermek-es-glutenmentesen" rel="Recipe source page"><img width="751" height="532" src="/img/full/a9e9b80ce5c57a2f5abaac3be9a586d5e3392bfa.jpg"/></a></p>
 
 ## About
 Mennyei Ananászos sárgarépa torta tojás, olaj, tejtermék és gluténmentesen recept! 
 
->  
+> 90 perc 
 
 ## Ingredients
 * **30 ml** darált lenmag

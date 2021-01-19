@@ -6,13 +6,13 @@ date: 2018-05-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4942969-kakukkfuves-gombaleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/be77df7aa80e4a9a0ddbbbfd07367457bf80a974.jpg"/></a></p>
 
 ## About
 Mennyei Kakukkfüves gombaleves recept! Mi tagadás, nagyon szeretjük a gombát és a hagymát. :)
 
->  
+> 40 perc 
 
 ## Ingredients
 * **50 dkg** csiperke gomba

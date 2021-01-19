@@ -6,13 +6,13 @@ date: 2018-07-07
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5298449-savanyu-kaposztas-lencseleves-parazson-sult-zoldsegekkel" rel="Recipe source page"><img width="751" height="532" src="/img/full/9acf771d042c019d347c757537000f074444d1ba.jpg"/></a></p>
 
 ## About
 Mennyei Savanyú káposztás lencseleves, parázson sült zöldségekkel recept! Nyáron a grill sütön, parázs fölött az igazi az íze ennek a sürü levesnek, amikor végre nyugodtan füstölhetünk és süthetünk mindenféle zöldséget kedvünk szerint. Természetesen ugyanezt a sütőben is meg lehet oldani...A tomatillo pürésítve krémessé teszi a levesünket, lisztre nem lesz szükségünk. ;)
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 kis fej** édes káposzta

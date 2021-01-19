@@ -6,13 +6,13 @@ date: 2018-03-01
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4507092-rozmaringos-babos-cukkini" rel="Recipe source page"><img width="751" height="532" src="/img/full/6895a02a996ba63ccced71dcad0fe0cf39cba6cf.jpg"/></a></p>
 
 ## About
 Mennyei Rozmaringos, babos cukkini recept! Friss cukkini és sárgarépa, egy kis babbal, füszerekkel, soha ne legyen rosszabb dolgunk, mint ma. :)
 
->  
+> 15 perc 
 
 ## Ingredients
 * **4 db** bébi cukkini

@@ -6,13 +6,13 @@ date: 2014-02-20
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924017-reform-mezes-almas-kocka" rel="Recipe source page"><img width="751" height="532" src="/img/full/4b517d973e2cd54f9ca12c4f12ef455b1eeb247b.jpg"/></a></p>
 
 ## About
 Mennyei Reform mézes almás kocka recept! Gyorsan és könnyen elkészülő, egészséges és ízletes reggeli vagy uzsonna. 
 
->  
+> 70 perc 
 
 ## Ingredients
 

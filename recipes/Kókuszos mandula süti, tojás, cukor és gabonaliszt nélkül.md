@@ -6,13 +6,13 @@ date: 2018-05-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4896628-kokuszos-mandula-suti-tojas-cukor-es-gabonaliszt-nelkul" rel="Recipe source page"><img width="751" height="532" src="/img/full/4c94eb55a210bab0a7dfe3c2b322f41378130d20.jpg"/></a></p>
 
 ## About
 Mennyei Kókuszos mandula süti, tojás, cukor és gabonaliszt nélkül recept! Ez a sütemény csupán egy rétegből áll és csak a tetején van krém, mégis csodálatosan finom, tápláló édesség. A tetejére bármit tehetünk, egy csokoládé ganachet, kesu krémet vagy csak friss gyümölcsöket.
 
->  
+> 1,5 óra 
 
 ## Ingredients
 

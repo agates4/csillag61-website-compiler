@@ -6,13 +6,13 @@ date: 2017-03-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2214893-rotini-salata" rel="Recipe source page"><img width="751" height="532" src="/img/full/087f8ca19600046daded0ae1f3d3700136617935.jpg"/></a></p>
 
 ## About
 Mennyei Rotini saláta recept! Könnyű, mégis kiadós étel, ebédre vagy vacsorára nagyon hamar elkészíthető. A lencsés csicseri tésztát helyettesíthetjük más glutén mentes vagy teljes kiőrlésű tésztával, csak arra figyeljünk, hogy a zöldség mennyisége jóval meghaladja a tésztáét. ;)
 
->  
+> 55 perc 
 
 ## Ingredients
 * **350 g** lencsés csicseri tészta

@@ -6,13 +6,13 @@ date: 2019-05-20
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/8463284-vernarancs-torta" rel="Recipe source page"><img width="751" height="532" src="/img/full/61d15b59b7c0008e00094b5991d7bb590946f997.jpg"/></a></p>
 
 ## About
 Mennyei Vérnarancs torta recept! A vérnarancs zamatos íze felejthetetlenné varázsolja ezt a süteményt.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **7.5 dl** liszt
@@ -75,5 +75,5 @@ A krémhez:
 
 11. Másnap tálalás előtt leveszem a tortaforma oldalát és megigazítom egy kicsit a maradék krémmel. Készen is vagyunk, jöhetnek a vendégek...
  
-    <p><img width="320" height="256" align="left" src="/img/full/1a8915a04896fa89af5c544dcc9ff387d754c0c4.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/1a8915a04896fa89af5c544dcc9ff387d754c0c4.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/759cbbdc67bef1caa973bc7dc60e0e0d05f57e02.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/33c495739d5d03ba4df7bf79976e67882902000e.jpg"/></p><div style="clear: both"/>
 

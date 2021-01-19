@@ -6,13 +6,13 @@ date: 2018-04-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4762191-vasedenyben-sult-portobello" rel="Recipe source page"><img width="751" height="532" src="/img/full/1efaaf35e70e0128a7438801bdfc6c8115f2098f.jpg"/></a></p>
 
 ## About
 Mennyei Vasedényben sült portobello recept! A portobello húsos kalapja miatt kiválóan alkalmas a sütésre. Vannak, akik szeretik kiszedni a kalap alatti lemezeket, hogy ne színezze el a vele együtt készült más zöldségeket. Én szeretem meghagyni úgy, ahogyan van, annál is inkább, mert a friss ropogós cremini, tömzsi kis  barna gomba éppen úgy színezi az ételt, mint a nagy kalapos portobello. A sütőben egy fél óra múlva már tudjuk, helyesen válogattuk össze a fűszereket... Csodálatos illat járja be a konyhát!
 
->  
+> 90 perc 
 
 ## Ingredients
 * **25 dkg** cremini gomba

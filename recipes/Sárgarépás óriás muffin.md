@@ -6,13 +6,13 @@ date: 2017-03-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2301340-sargarepas-orias-muffin" rel="Recipe source page"><img width="751" height="532" src="/img/full/15bc09520ef51fafe9ec5b36e240d97d02996997.jpg"/></a></p>
 
 ## About
 Mennyei Sárgarépás óriás muffin recept! Lássuk, ma mit sütöttünk ki reggelire? :)
 
->  
+> 70 perc 
 
 ## Ingredients
 * **320 g** teljes kiörlésű  búzaliszt

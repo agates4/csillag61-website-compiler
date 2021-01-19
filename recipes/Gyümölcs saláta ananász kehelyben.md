@@ -6,13 +6,13 @@ date: 2018-05-13
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4913588-gyumolcs-salata-ananasz-kehelyben" rel="Recipe source page"><img width="751" height="532" src="/img/full/78cde3d859d62f0c99ca2574e2cfd94378f31ca4.jpg"/></a></p>
 
 ## About
 Mennyei Gyümölcs saláta ananász kehelyben recept! 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **1 db** érett ananász

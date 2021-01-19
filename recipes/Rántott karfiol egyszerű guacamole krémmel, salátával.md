@@ -6,13 +6,13 @@ date: 2014-02-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924003-rantott-karfiol-egyszeru-guacamole-kremmel-salataval" rel="Recipe source page"><img width="751" height="532" src="/img/full/583ae8942b14e9279d56c7da83e789472778d468.jpg"/></a></p>
 
 ## About
 Mennyei Rántott karfiol egyszerű guacamole krémmel, salátával recept! Sütőben sült rántott karfiol egy kis fűszeres krémmel, friss saláta levelekkel, fekete paradicsommal = kellemes ebéd vagy vacsora. :) Alig tudtam fényképet késziteni, olyan gyorsan elfogyott ...! :)
 
->  
+> 50 perc 
 
 ## Ingredients
 

@@ -6,13 +6,13 @@ date: 2020-01-08
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11346214-ozlabgombaval-sult-padlizsan" rel="Recipe source page"><img width="751" height="532" src="/img/full/b86cb02c2af2755e1c20cd718bfe617d7c64df85.jpg"/></a></p>
 
 ## About
 Mennyei Őzlábgombával sült padlizsán recept! 
 
->  
+> 1 óra 15 perc 
 
 ## Ingredients
 * **2 db** nagy őzlábgomba kalapja

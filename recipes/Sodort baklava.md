@@ -6,13 +6,13 @@ date: 2014-02-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925175-sodort-baklava" rel="Recipe source page"><img width="751" height="532" src="/img/full/0bbe3b063dd97687df7a1e2e50a7e971370de638.jpg"/></a></p>
 
 ## About
 Mennyei Sodort baklava recept! Finom, ropogós baklava egy kicsit másképpen... Sajnos így is nagyon hamar elfogy. :)
 
->  
+> 80 perc 
 
 ## Ingredients
 

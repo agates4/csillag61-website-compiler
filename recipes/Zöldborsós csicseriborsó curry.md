@@ -6,13 +6,13 @@ date: 2020-02-10
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11541613-zoldborsos-csicseriborso-curry" rel="Recipe source page"><img width="751" height="532" src="/img/full/e3f2d68d879d25f6ee4010dc270883a1268fa76f.jpg"/></a></p>
 
 ## About
 Mennyei Zöldborsós csicseriborsó curry recept! 
 
->  
+> 45 perc 
 
 ## Ingredients
 * **4** kisebb édes piros paprika
@@ -37,7 +37,7 @@ vagy egy nagy húsos piros paprika
 
 2. Egyszerre megdinsztelem mindhármat.
  
-    <p><img width="320" height="256" align="left" src="/img/full/9739a547faa5841c2a7ba6193f158f7a97a6c473.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/9739a547faa5841c2a7ba6193f158f7a97a6c473.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d9bdad688e74d9e4e44f942655c1aa6550e621b6.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/14bae1392ddb9dd01ad7841d40b70a8e8a7c7a1a.jpg"/></p><div style="clear: both"/>
 
 3. Hozzáöntöm a leöblitett, főtt csicseriborsót.
  
@@ -53,5 +53,5 @@ vagy egy nagy húsos piros paprika
 
 6. Hozzáadom a fagyasztott zöldborsót, jól átforgatom és pár perc alatt készre főzöm.
  
-    <p><img width="320" height="256" align="left" src="/img/full/7f4ba8fab6c9459875bafaf5312879feeb84d4db.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/7f4ba8fab6c9459875bafaf5312879feeb84d4db.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/b271e77d5edf88e770e377746df25ccb59b6b931.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/2081d602a98977d501a9935d3575273107b1ce3c.jpg"/></p><div style="clear: both"/>
 

@@ -6,13 +6,13 @@ date: 2020-02-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11511636-habos-malnas-suti" rel="Recipe source page"><img width="751" height="532" src="/img/full/37de0176d183024f453837844d0cc7f42a82a5b7.jpg"/></a></p>
 
 ## About
 Mennyei Habos málnás süti recept! 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **1 db** 4 tojásos csokoládés piskóta
@@ -90,5 +90,5 @@ Díszítéshez
 
 13. Hideg helyen hűtöm minimum 3 órán át.
  
-    <p><img width="320" height="256" align="left" src="/img/full/64dc410052d37ee09066b4ddc0aeaecda6a64d9d.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/64dc410052d37ee09066b4ddc0aeaecda6a64d9d.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d354da0bf3435701e5fc977c27b807e651c6cdc8.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/036b94a9574302315cb5f7b113cc615aa1f81142.jpg"/></p><div style="clear: both"/>
 

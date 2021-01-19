@@ -6,13 +6,13 @@ date: 2018-03-19
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4601946-kiralyi-gyogyito-leves" rel="Recipe source page"><img width="751" height="532" src="/img/full/c55cc3bfb8cfd936ad4f6d0197ca22149d1aa20b.jpg"/></a></p>
 
 ## About
 Mennyei Királyi gyógyító leves recept! Ez a leves igazi csoda leves: szembeszáll mindenféle betegséggel, gyengeséggel, erősíti az immunrendszert, megfiatalít. Ha másért nem, már csak az íze miatt is érdemes kipróbálni.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1.25 l** száraz adzuki bab vagy fehér bab/cannellini

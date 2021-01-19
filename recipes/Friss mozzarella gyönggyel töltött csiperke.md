@@ -6,13 +6,13 @@ date: 2020-08-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13472358-friss-mozzarella-gyonggyel-toltott-csiperke" rel="Recipe source page"><img width="751" height="532" src="/img/full/56c2a1a2710493a3452bfe75625108eb5f9fa4c8.jpg"/></a></p>
 
 ## About
 Mennyei Friss mozzarella gyönggyel töltött csiperke recept! 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **8 db** friss csiperke
@@ -29,7 +29,7 @@ Mennyei Friss mozzarella gyönggyel töltött csiperke recept!
 
 2. 3-4 friss mozzarella gyönggyel megtöltöm mindegyik gombát. Megszórom egy kis parmezánnal.
  
-    <p><img width="320" height="256" align="left" src="/img/full/85c94f54e1b21696df67bb2c227966fe29276ea6.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/85c94f54e1b21696df67bb2c227966fe29276ea6.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/2edc542bc643dbe7230375490bd2e7a31dbf63bf.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/fdac2ffbc0566e412f7f182959abf611749f5be1.jpg"/></p><div style="clear: both"/>
 
 3. A gomba egészséges, nem fás tönkjeit felszeletelem és betakarom vele a mozzarellát.
  

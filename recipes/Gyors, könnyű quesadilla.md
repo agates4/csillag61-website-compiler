@@ -6,13 +6,13 @@ date: 2014-02-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925451-gyors-konnyu-quesadilla" rel="Recipe source page"><img width="751" height="532" src="/img/full/eaf8dc2e93d91893079034c0b541d07ba16999e7.jpg"/></a></p>
 
 ## About
 Mennyei Gyors, könnyű quesadilla recept! Gyors és ízletes, könnyű étel, mindíg jól jön, ha kevés időnk maradt a főzésre.
 
->  
+> 35 perc 
 
 ## Ingredients
 

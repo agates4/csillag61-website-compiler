@@ -6,13 +6,13 @@ date: 2017-04-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2425587-zoldseg-torta-vegan-modra" rel="Recipe source page"><img width="751" height="532" src="/img/full/3b7918e0b6b4d12622bfbd8fbc52dcb8ce4fa762.jpg"/></a></p>
 
 ## About
 Mennyei Zöldség torta vegán módra recept! Könnyen elkészíthető, tápláló étel, nemcsak ünnepnapokra :)
 
->  
+> 75 perc 
 
 ## Ingredients
 

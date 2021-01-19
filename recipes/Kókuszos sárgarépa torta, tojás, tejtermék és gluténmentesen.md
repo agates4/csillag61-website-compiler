@@ -6,13 +6,13 @@ date: 2018-05-21
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4982147-kokuszos-sargarepa-torta-tojas-tejtermek-es-glutenmentesen" rel="Recipe source page"><img width="751" height="532" src="/img/full/aee450f71817cc20919b41bf68bef14800e4a05d.jpg"/></a></p>
 
 ## About
 Mennyei Kókuszos sárgarépa torta, tojás, tejtermék és gluténmentesen recept! Ünnepi alkalomra készült ez a torta, ezért kapott dupla krémet és réteget. :)
 
->  
+> 90 perc 
 
 ## Ingredients
 * **45 ml** darált lenmag

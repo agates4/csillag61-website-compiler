@@ -6,13 +6,13 @@ date: 2018-06-05
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5074767-dios-gesztenyebomba-illatos-eperrel-es-zamatos-malnaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/b8b534ca5ae843a7583e9257c6a2c79ed427251b.jpg"/></a></p>
 
 ## About
 Mennyei Diós gesztenyebomba  illatos eperrel és zamatos málnával recept! Ez egy icipi-kis sütés nélküli édesség. Citromos-diós alappal,  csokoládés gesztenyekrémmel, rengeteg illatos eperrel és egy csipet zamatos málnával.
 
->  
+> 1 óra 
 
 ## Ingredients
 

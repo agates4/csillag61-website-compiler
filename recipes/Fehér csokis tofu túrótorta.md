@@ -6,13 +6,13 @@ date: 2017-02-13
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1972363-feher-csokis-tofu-turotorta" rel="Recipe source page"><img width="751" height="532" src="/img/full/5e004a6d4ea96b86385baaedf2fa26527ea6f31e.jpg"/></a></p>
 
 ## About
 Mennyei Fehér csokis tofu túrótorta recept! Amilyen hamar elkészül, olyan gyorsan el is fogy ...
 
->  
+> 1 óra 45 perc 
 
 ## Ingredients
 

@@ -6,13 +6,13 @@ date: 2020-11-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14032870-kakukkfuves-sult-brie-sajt" rel="Recipe source page"><img width="751" height="532" src="/img/full/2c57801a1a6925b530dd66a54209c06648a1ff77.jpg"/></a></p>
 
 ## About
 Mennyei Kakukkfüves sült brie sajt recept! 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **20 dkg** brie sajt

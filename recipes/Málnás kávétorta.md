@@ -6,13 +6,13 @@ date: 2018-05-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4914011-malnas-kavetorta" rel="Recipe source page"><img width="751" height="532" src="/img/full/2f68cc40663c6efb80be5c08c784a3cca9e784c7.jpg"/></a></p>
 
 ## About
 Mennyei Málnás kávétorta recept! Réges - régen  vajas piskóta alapból készítettem, könnyű svájci vajkrémmel ezt a tortát. Most tojás nélkül, kesu krémmel éppen olyan finom, mint valaha... 1 pohár = 2.5 dl
 
->  
+> 90 perc 
 
 ## Ingredients
 * **3 pohár** növényi tej

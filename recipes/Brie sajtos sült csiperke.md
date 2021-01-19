@@ -6,13 +6,13 @@ date: 2020-09-10
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13605651-brie-sajtos-sult-csiperke" rel="Recipe source page"><img width="751" height="532" src="/img/full/55565c6b75dae8b7583fb32652e4c7028ababba8.jpg"/></a></p>
 
 ## About
 Mennyei Brie sajtos sült csiperke recept! Kis grillsütőben vagy melegszendvics sütőben nagyon kényelmesen megsüthető ízletes és laktató étel.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **25 db** kisebb csiperke gomba
@@ -39,7 +39,7 @@ Mennyei Brie sajtos sült csiperke recept! Kis grillsütőben vagy melegszendvic
 
 4. Betakarom a másik szeletekre vágott hagymával, arra ráteszem a vékony paradicsom szeleteket. Megszórom egy kis majorannával. 190C-375F-on sütöm 30 percig.
  
-    <p><img width="320" height="256" align="left" src="/img/full/ec7e752e4ab3d05477fbf645a975606c4a93d856.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/ec7e752e4ab3d05477fbf645a975606c4a93d856.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/7f0034cb63857e24b5546646bc5638073a137f99.jpg"/></p><div style="clear: both"/>
 
 5. 30 perc múlva az alsó rácsra ráteszek egy tepsit, kihúzom a gombát és középen egy villát szúrok a fóliába, hogy a folyadék lecsurogjon a tepsibe. Visszatolom a sütőbe mind a kettőt. 10 percig sütöm még.
  
@@ -51,5 +51,5 @@ Mennyei Brie sajtos sült csiperke recept! Kis grillsütőben vagy melegszendvic
 
 7. Visszatolom a sütőbe, és ráolvasztom a sajtot. Nagyon finom!!!!
  
-    <p><img width="320" height="256" align="left" src="/img/full/7fdaee0bb87e92a633a61b6a9d516bf4e1c21c9c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/7fdaee0bb87e92a633a61b6a9d516bf4e1c21c9c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/90325b6d0eebeb9766f9849bd28dd51cbdb18919.jpg"/></p><div style="clear: both"/>
 

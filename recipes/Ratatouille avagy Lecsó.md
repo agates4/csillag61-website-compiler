@@ -6,13 +6,13 @@ date: 2014-03-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1926027-ratatouille-avagy-lecso" rel="Recipe source page"><img width="751" height="532" src="/img/full/a7c16d339e86d194a3a434482be0be0fac0827da.jpg"/></a></p>
 
 ## About
 Mennyei Ratatouille avagy Lecsó recept! Ennek a recept sikerének két nagy titka van: türelem és idő... Az íze mesébe illő, nem csoda, hogy megfilmesítették. Már évek óta szerettem volna elkészíteni, végre rábukkantam a receptjére.  Lássunk is hozzá! ;)
 
->  
+> 240 perc 
 
 ## Ingredients
 

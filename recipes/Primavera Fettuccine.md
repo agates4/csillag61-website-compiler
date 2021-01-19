@@ -6,13 +6,13 @@ date: 2014-03-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925601-primavera-fettuccine" rel="Recipe source page"><img width="751" height="532" src="/img/full/9f471d378b888ce0b5caf04d683281acf37dcca7.jpg"/></a></p>
 
 ## About
 Mennyei Primavera Fettuccine recept! A primavera tavasz köszöntő friss zöldségeivel: zsenge zöldborsó, spárga, cukkini, zöldhagymával, póréhagymával és enyhe fűszerekkel. Gluténmentes fettuccinivel vagy stílusosan spagetti tökkel tálaljuk.
 
->  
+> 60 perc 
 
 ## Ingredients
 

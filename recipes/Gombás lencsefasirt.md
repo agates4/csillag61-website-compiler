@@ -6,13 +6,13 @@ date: 2017-03-23
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2257386-gombas-lencsefasirt" rel="Recipe source page"><img width="751" height="532" src="/img/full/f189ea0400bdb539afea80015d54c7caab2ae9ea.jpg"/></a></p>
 
 ## About
 Mennyei Gombás lencsefasirt recept! A lencsét nem lehet megunni, most fasirtot készitünk belőle. Megint finom, tápláló ebédünk vagy vacsoránk lesz :)
 
->  
+> 80 perc 
 
 ## Ingredients
 * **1 kg** főtt lencse (kb. 400 g száraz megfőzve)

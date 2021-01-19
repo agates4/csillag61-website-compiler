@@ -6,13 +6,13 @@ date: 2020-02-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11556731-mediterran-lencseleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/81abea6dfa4a058ab439e7bbc5c9179b35232143.jpg"/></a></p>
 
 ## About
 Mennyei Mediterrán lencseleves recept! A fodros levelű endívia és a sima levelű endívia (escarole) a cikória fajtákhoz tartozik. Mind a kettő enyhén kesernyés ízű leveles saláta. Nyersen is kiváló különösen télen vagy tavasszal, de, ha levesbe tesszük,  az íze csodálatosan megszelidül.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **2 liter** zöldséges alaplé
@@ -33,7 +33,7 @@ Mennyei Mediterrán lencseleves recept! A fodros levelű endívia és a sima lev
 
 1. A zellerszárat apróra vágjuk.
  
-    <p><img width="320" height="256" align="left" src="/img/full/8e4221bace5f6026712a65fe7ff92d0c2b8684fc.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/8e4221bace5f6026712a65fe7ff92d0c2b8684fc.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/0afda34167d7c3250dd4ea08f4cc28ad0d69a5c2.jpg"/></p><div style="clear: both"/>
 
 2. A vöröshagymát, sárgarépát felkockázzuk.
  
@@ -53,7 +53,7 @@ Mennyei Mediterrán lencseleves recept! A fodros levelű endívia és a sima lev
 
 6. Egy fazékba beleöntjük a zöldséges alaplét, beleöntjük a feldarabolt zöldségeket és a lencsét. Fűszerezzük sóval, oregánóval, szárított zöldséges fűszerkeverékkel. Ha nem elérhető a friss oregánó, 1 ek szárítottal helyettesíthetjük.
  
-    <p><img width="320" height="256" align="left" src="/img/full/853aaf855236a726917636c81b4e8e4ae5a294db.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/853aaf855236a726917636c81b4e8e4ae5a294db.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/147828e4f8de701b8667be0fc3b95583421f0e4a.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/59c0a750856917c8697f8e93ce6fcf4ecf60672f.jpg"/></p><div style="clear: both"/>
 
 7. Felforralom a levest, majd fedő alatt, lassú tűzön 25-30 perc alatt főzöm tovább, amíg a lencse megpuhul. Ha már a lencse puha, elzárom a tüzet.
  
@@ -61,13 +61,13 @@ Mennyei Mediterrán lencseleves recept! A fodros levelű endívia és a sima lev
 
 8. Míg a leves fő, megmosom a salátát és felvágom kisebb darabokra.
  
-    <p><img width="320" height="256" align="left" src="/img/full/3ae04870a72a46a17a3b72f6ada5e03d05b5a026.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/3ae04870a72a46a17a3b72f6ada5e03d05b5a026.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/7f24854c14734056896e22a0a7081975d5f8fc1c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/3083c85ab675ecaa5e1428194f1f152f7c09b357.jpg"/></p><div style="clear: both"/>
 
 9. Lereszelem a citrom héját, kicsavarom a levét. A reszelt héjat, citromlét a salátával együtt beleteszem a kész levesbe. Lefedem és állni hagyom kb. 10 percig, amíg a saláta megfonnyad és a levest jól átjárja a citrom zamatos íze.
  
-    <p><img width="320" height="256" align="left" src="/img/full/7f3dac49ad93d20af1d29b16d50bb86a8ffcf489.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/7f3dac49ad93d20af1d29b16d50bb86a8ffcf489.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/24201f063ee237974ceec03536a89b8775929200.jpg"/></p><div style="clear: both"/>
 
 10. Frissen tört borssal tálalom. Jó étvágyat kívánok ehhez az egyszerű, mégis különleges ízű ételhez!
  
-    <p><img width="320" height="256" align="left" src="/img/full/2f3574e124fc286014abc44c30bc6de685528e76.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/2f3574e124fc286014abc44c30bc6de685528e76.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/4a59b54430e687715ce94a23cafb3d8cf190ff3f.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/5cc45b7d7cdd3c2fb8d621e776663fc522f916cf.jpg"/></p><div style="clear: both"/>
 

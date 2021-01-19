@@ -6,13 +6,13 @@ date: 2014-01-20
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925224-zabpelyhes-kokuszos-gofri" rel="Recipe source page"><img width="751" height="532" src="/img/full/35f14658b10bfa7749331822014a2663a2142d21.jpg"/></a></p>
 
 ## About
 Mennyei Zabpelyhes-kókuszos gofri recept! Kedvenc reggelink ... Egy igazi reform gofri recept!
 
->  
+> 35 perc 
 
 ## Ingredients
 

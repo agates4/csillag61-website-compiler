@@ -6,13 +6,13 @@ date: 2018-07-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5280323-lencsevel-toltott-kaposzta" rel="Recipe source page"><img width="751" height="532" src="/img/full/77526bdc517a0f8bcbf1659f853aec4586446794.jpg"/></a></p>
 
 ## About
 Mennyei Lencsével töltött káposzta recept! A káposztához a sűrű paradicsomszószt nyáron szoktam elkészíteni, sok zöldséggel és fűszerekkel. Kisebb adagokban lefagyasztom, és ha szükséges, csak előveszem előző este,  és másnap már rajtra készen vár  a friss házi szósz. Többféleképpen szoktam tölteni a káposzta leveleket, most egy kis lencse került sorra.
 
->  
+> 2 óra 
 
 ## Ingredients
 * **1 kg** savanyú apró káposzta

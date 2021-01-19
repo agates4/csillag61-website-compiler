@@ -6,13 +6,13 @@ date: 2014-02-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925083-csokis-cookie" rel="Recipe source page"><img width="751" height="532" src="/img/full/ea91d51b489427447ad6846eef4e9d3abd2b310a.jpg"/></a></p>
 
 ## About
 Mennyei Csokis cookie recept! Finom, gyors süti, még amennyire lehetséges, egészséges is... Ez a kikisérlezett, jól bevált családi alapreceptünk, mindig lehet rajta változtatni és ugyanolyan finom marad. A zabpehely 1/3-át szoktam cukormentes kókuszreszelékkel helyettesiteni és a csokit arany szinü mazsolával. Szeretjük fehér csokival, ilyenkor makadámiai diót teszek hozzá. Nagyon finom bármilyen száritott gyümölcsdarabbal is: apróra vágott  datolyával, fügével, sárgabarackkal, piros áfonyával és egy - két teáskanál fahéjjal.
 
->  
+> 36 perc 
 
 ## Ingredients
 * **25 dkg** teljes kiőrlésű búzaliszt

@@ -6,13 +6,13 @@ date: 2017-02-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2142955-teljes-kiorlesu-kenyer" rel="Recipe source page"><img width="751" height="532" src="/img/full/8258daef03b59d0e34a49dcf6a4c0e6deba57a97.jpg"/></a></p>
 
 ## About
 Mennyei Teljes kiörlésű kenyér recept! Ez az egyik kedvenc kenyerünk, amit nagyon szívesen megosztok most veletek is! :)
 
->  
+> 3 óra 30 perc 
 
 ## Ingredients
 * **2 db** 11x28 cm-es sütőforma

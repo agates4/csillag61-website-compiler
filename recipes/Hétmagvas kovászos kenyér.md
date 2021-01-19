@@ -6,13 +6,13 @@ date: 2020-10-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13776354-hetmagvas-kovaszos-kenyer" rel="Recipe source page"><img width="751" height="532" src="/img/full/b959dec87e20dcef7c077ac7cf08599d1e4e2c3e.jpg"/></a></p>
 
 ## About
 Mennyei Hétmagvas kovászos kenyér recept! Ebben a kenyérben 7 féle magvat használtam, tört vörös és fehér búzát, zabpelyhet, rozsszemeket, árpagyöngyöt, tritikálét (búza és rozs keresztezése) és kendermagot. A lisztet is többféléből kevertem össze, aminek eredményeképpen fantasztikusan finom kenyér született.
 
->  
+> 4 óra 
 
 ## Ingredients
 * **40 dkg** teljes kiőrlésű búzaliszt
@@ -31,7 +31,7 @@ Mennyei Hétmagvas kovászos kenyér recept! Ebben a kenyérben 7 féle magvat h
 
 1. A négy féle lisztet és a reszelt, főtt krumplit összekeverem.
  
-    <p><img width="320" height="256" align="left" src="/img/full/f881ba36b3f04f652bdc7f4d2f77e69a9954a47e.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/f881ba36b3f04f652bdc7f4d2f77e69a9954a47e.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/c47927ddd1dd456c0a35422dc6535baa4813294c.jpg"/></p><div style="clear: both"/>
 
 2. A hideg kovászt, az élesztőt, a mézet és 5 dl meleg vizet összekeverem. 2 dl vizet visszatartok, dagasztás közben adagalom lassan a tésztához.
  
@@ -51,7 +51,7 @@ Mennyei Hétmagvas kovászos kenyér recept! Ebben a kenyérben 7 féle magvat h
 
 6. A megkelt tésztát a sütőforma alakjára formázzuk.
  
-    <p><img width="320" height="256" align="left" src="/img/full/82600529f7c491d943f829e755575a03eca0a5e7.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/82600529f7c491d943f829e755575a03eca0a5e7.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/cb1f80ec9b7419e78b38774fe253839ded3c156f.jpg"/></p><div style="clear: both"/>
 
 7. Jól megforgatjuk a lisztben és beletesszük a sütőedénybe. A mázas cserép tetejével letakarom és hagyom kelni a tésztát.
  
@@ -75,9 +75,9 @@ Mennyei Hétmagvas kovászos kenyér recept! Ebben a kenyérben 7 féle magvat h
 
 12. Langyosra hűlve már szeleteljük is.
  
-    <p><img width="320" height="256" align="left" src="/img/full/f647f7a63bd41627db0c6d85d0f925541eeda02c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/f647f7a63bd41627db0c6d85d0f925541eeda02c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/670ce394138e997e5fabe8edc3d90ba15271704b.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/cb0d3f9150ff1dc4263fca48f0a20335ae689458.jpg"/></p><div style="clear: both"/>
 
 13. Készen is vagyunk a fantasztikusan finom sokmagvas kenyerünkkel.
  
-    <p><img width="320" height="256" align="left" src="/img/full/3424e0d9cbd0ad066c39dc7e92352ec7919af37a.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/3424e0d9cbd0ad066c39dc7e92352ec7919af37a.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/a672feaa1c609629cbcd3456bc0ad0f58cfce27b.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/fe52426849ba5e46e323d59cdd5452a816ff99cc.jpg"/></p><div style="clear: both"/>
 

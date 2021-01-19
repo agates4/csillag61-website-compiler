@@ -6,13 +6,13 @@ date: 2020-01-23
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11444880-demon-suti" rel="Recipe source page"><img width="751" height="532" src="/img/full/d773e6d963e66024c1765ab135e84f277f82868e.jpg"/></a></p>
 
 ## About
 Mennyei Démon süti recept! Démon süti recept a legrégebbi amerikai sütemények receptjeinek egyike. Régészek bukkantak egy kézírásos receptes könyvre egy 1700-as évek elején épült házban Brooklyn, NY-ban, amiben ez a süti is szerepelt.  Itt az eredeti receptet írom le, amit nagyon könnyen át lehet alakítani tojás és tejtermék mentesre. Különleges, fűszeres ízéért a gyömbér és a melasz felelős. Elkészítése gyors és könnyű, csak keverek-kavarok, és készen is van.
 
->  
+> 90 perc 
 
 ## Ingredients
 * **100 gr** sótlan, puha vaj
@@ -34,7 +34,7 @@ Mennyei Démon süti recept! Démon süti recept a legrégebbi amerikai sütemé
 
 1. A gyömbért vékony szeletekre, az almát kisebb kockára vágom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/488c0387137f1671906dd7044374e5eea4a40031.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/488c0387137f1671906dd7044374e5eea4a40031.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/7c607fc6554f90f13f1389df184eb6f8db95b326.jpg"/></p><div style="clear: both"/>
 
 2. Ha kandírozott gyömbér nem elérhető, a gyömbért hámozzuk meg, vágjuk kisebb darabokra és kevés vízben puhára pároljuk meg, mielőtt a tésztához adnánk.
  
@@ -62,5 +62,5 @@ Mennyei Démon süti recept! Démon süti recept a legrégebbi amerikai sütemé
 
 8. Végül porcukrot szórok a tetejére, inkább csak díszítésképpen - steviával helyettesíthető vagy teljesen elhagyható, mert a süti önmagában is már eléggé édes. Egy szép szelet fűszeres Démon süti és egy pohár gőzölgő kávé... Jó étvágyat kívánok! :)
  
-    <p><img width="320" height="256" align="left" src="/img/full/0c7937ba27daa78e6e493dc4dc730ad912ce3665.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/0c7937ba27daa78e6e493dc4dc730ad912ce3665.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/5c51b2ced5be27648ae68b80cc96409bbc16dfcc.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/c23c468f0c957129420b798bd0e5c65a25483595.jpg"/></p><div style="clear: both"/>
 

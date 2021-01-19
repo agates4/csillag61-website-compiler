@@ -6,13 +6,13 @@ date: 2018-05-16
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4918873-stroganoff-portobello" rel="Recipe source page"><img width="751" height="532" src="/img/full/0c29d0a8bef438ca704c3311b0c68fb7cd6f5eb8.jpg"/></a></p>
 
 ## About
 Mennyei Stroganoff portobello recept! A nagyon sok eredeti recept közül egy egyszerü, teljesen növényi változatát készitettem el.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 kg** friss portabello gomba

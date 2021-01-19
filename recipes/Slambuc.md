@@ -6,13 +6,13 @@ date: 2018-05-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5009862-slambuc" rel="Recipe source page"><img width="751" height="532" src="/img/full/79e9ddf226cf0bb9df28a3a7d2d7a1e7bf41b48c.jpg"/></a></p>
 
 ## About
 Mennyei Slambuc recept! A slambuc végigkísérte egész életünket, velünk együtt mozdult mindenfelé, amerre csak jártunk ebben  a nagy világban.  Éppen olyan finom ma is, mint valaha a Tisza parton...
 
->  
+> 90 perc 
 
 ## Ingredients
 * **3 kg** krumpli

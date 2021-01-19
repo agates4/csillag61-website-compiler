@@ -6,14 +6,14 @@ date: 2014-01-26
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1927202-sutotok-pite-recept-kesu-martassal" rel="Recipe source page"><img width="751" height="532" src="/img/full/53b9643d3006e5ff00909f1db1f7608bdf49ccf2.jpg"/></a></p>
 
 ## About
 Mennyei Sütőtök pite recept kesu mártással recept! Finom, egészséges, krémes és üditő. Remélem, ti is szeretni fogjátok! Kiváló alkalom, hogy az előző napokról megmaradt, megsütött sütőtök szeleteket ízletes desszertté varázsoljuk.
 1 bögre = 2.5 dl  1 evőkanál = 15 ml
 
->  
+> 80 perc 
 
 ## Ingredients
 

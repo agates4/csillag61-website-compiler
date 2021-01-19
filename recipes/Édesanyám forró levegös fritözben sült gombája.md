@@ -6,13 +6,13 @@ date: 2018-04-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4825445-edesanyam-forro-levegos-fritozben-sult-gombaja" rel="Recipe source page"><img width="751" height="532" src="/img/full/746ed90410c959178b6568637c822a0532704701.jpg"/></a></p>
 
 ## About
 Mennyei Édesanyám forró levegös fritözben sült gombája recept! Édesanyám egész életében szeretett sütni-főzni. Most 80 -on túl, egy egészen új világ tárult fel előtte a  forró levegős fritőzzel. Ez is az ö receptje, saját képeivel illusztrálva. A receptet a telefonon keresztül elmondottak alapján írom le.
 
->  
+> 30 perc 
 
 ## Ingredients
 * **1/2 kg** friss gomba

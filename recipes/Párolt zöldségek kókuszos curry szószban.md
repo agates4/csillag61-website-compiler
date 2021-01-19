@@ -6,13 +6,13 @@ date: 2020-12-02
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14140396-parolt-zoldsegek-kokuszos-curry-szoszban" rel="Recipe source page"><img width="751" height="532" src="/img/full/fa65cc1e7eca95af6722fc45b400181091685091.jpg"/></a></p>
 
 ## About
 Mennyei Párolt zöldségek kókuszos curry szószban recept! 
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 
@@ -61,7 +61,7 @@ A tálaláshoz
 
 2. A hagymát apróra vágjuk, dinszteljük az olajon. Hozzáadjuk a zöld chili paprikát, babérleveleket.
  
-    <p><img width="320" height="256" align="left" src="/img/full/09e392dddd849bd425a983f3e94a0f555006a7c0.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/09e392dddd849bd425a983f3e94a0f555006a7c0.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/a305edf351d55f20e6b4d3285f9054f43f4294a0.jpg"/></p><div style="clear: both"/>
 
 3. Mikor már a hagyma egy kicsit megbarnul, hozzáadjuk a fűszeres krémet, a gyömbéres fokhagyma krémet és a paradicsomot. Fűszerezzük a kurkumával, belekavarjuk a joghurtot. Hozzáöntünk 1-2 pohár vizet. Jól felkavarjuk, 15-20 percig lassú tűzön főzzük.
  

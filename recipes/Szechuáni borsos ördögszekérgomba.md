@@ -6,13 +6,13 @@ date: 2018-05-06
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4873165-szechuani-borsos-ordogszekergomba" rel="Recipe source page"><img width="751" height="532" src="/img/full/612c9f61365f534d05787f16eb4652bccfa8a062.jpg"/></a></p>
 
 ## About
 Mennyei Szechuáni borsos ördögszekérgomba recept! Az ördögszekérgomba új formában, különleges ízzel lep meg bennünket ma.
 
->  
+> 40 perc 
 
 ## Ingredients
 * **5 db** nagy, vastagtönkü laskagomba, (kb 1kg)

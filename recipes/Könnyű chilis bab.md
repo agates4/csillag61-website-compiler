@@ -6,13 +6,13 @@ date: 2020-01-19
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11420344-konnyu-chilis-bab" rel="Recipe source page"><img width="751" height="532" src="/img/full/01162108978d95aa162d6ff1aac955499f7a6c9c.jpg"/></a></p>
 
 ## About
 Mennyei Könnyű chilis bab recept! 
 
->  
+> 50 perc 
 
 ## Ingredients
 * **4 db** vöröshagyma
@@ -35,7 +35,7 @@ Mennyei Könnyű chilis bab recept!
 
 1. A hagymát apróra vágom, hozzáteszem a kockára vágott piros paprikát, zellerszárat. megpárolom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/f765a0b9e814a6bdc19fd813f4ba258d40b25692.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/f765a0b9e814a6bdc19fd813f4ba258d40b25692.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/605428093d43f7f4cfd63962f9c5a89de96af931.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/40415d6f59159c71201638e31a72f7a75b45ae4a.jpg"/></p><div style="clear: both"/>
 
 2. A batátát vagy más néven édeskrumplit másfél centis kockákra vágom, hozzáteszem a hagymás alaphoz.
  

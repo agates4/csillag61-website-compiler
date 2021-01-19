@@ -6,13 +6,13 @@ date: 2017-12-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/3915761-csokolades-malnas-gesztenye-torta" rel="Recipe source page"><img width="751" height="532" src="/img/full/f119408d4a39d21b92bad874ff45cd1e54399ffe.jpg"/></a></p>
 
 ## About
 Mennyei Csokoládés,  málnás gesztenye torta recept! Sem a tortalapban sem pedig a krémben tojás vagy tejtermék nincsen, mégis valami különlegessé válik a gesztenye íze néhány szem friss málnától és a csokoládé krémtől. A mi családunk számára ez a karácsonyi és új évi sütemény, amit az év bármelyik napján szívesen elkészítek.  A nyers egész gesztenyét hagyományos módon megfőzöm, megtisztítom, ledarálom, aztán lefagyasztom a fölösleget.
 
->  
+> 1 óra 
 
 ## Ingredients
 

@@ -6,13 +6,13 @@ date: 2017-04-13
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2396261-fuszeres-tavaszi-csicseriborso-salata" rel="Recipe source page"><img width="751" height="532" src="/img/full/9451a861e4742b75ec8945b5a78551d8fa0e7d11.jpg"/></a></p>
 
 ## About
 Mennyei Fűszeres tavaszi csicseriborsó saláta recept! Nagyon hamar elkészíthető, gyors és tápláló étel. A csicseriborsót fűszerek nélkül nagyobb mennyiségben szoktam megfőzni és kisebb adagokban lefagyasztom, így mindig kéznél van, amikor szükségem van rá. A főzőlét is fagyasztva tárolom, kiválóan felhasználható süteményekhez, krémekhez vagy akár tojás helyett panírozáshoz.
 
->  
+> 20 perc 
 
 ## Ingredients
 * **1 kg** főtt csicseriborsó

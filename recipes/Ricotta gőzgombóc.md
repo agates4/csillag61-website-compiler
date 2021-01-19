@@ -6,14 +6,14 @@ date: 2019-04-18
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/6391426-ricotta-gozgomboc" rel="Recipe source page"><img width="751" height="532" src="/img/full/0a90f807e9cf98d680942d12e97e189c9801c2c0.jpg"/></a></p>
 
 ## About
 Mennyei Ricotta gőzgombóc recept! Az egész úgy kezdődött, hogy vettünk egy bambusz gőzölő kosarat és azonnal ki kellett próbálni. A ricotta gombócra esett a választás. Azóta is verhetetlen,  számtalanszor elkészült és nagyon gyorsan elfogyott...
 Ez a recept  a klasszikus túrógombóc  leegyszerűsített változata. 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **70 dkg** ricotta
@@ -28,7 +28,7 @@ A forgatáshoz:
 
 1. A grízt a túróval, vaníliás cukorral csomómentesre elkeverjük és 15 percig állni hagyjuk. Ez alatt az idő alatt egy nagyobb edényben vizet forralunk.
  
-    <p><img width="320" height="256" align="left" src="/img/full/c89c1ddb90a08adbe9d3c06032195d01819084da.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/c89c1ddb90a08adbe9d3c06032195d01819084da.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/3b0cb6314518f5f2e25851afa76aeef04728c6fd.jpg"/></p><div style="clear: both"/>
 
 2. Kibéleljük a bambusz kosarat egy darab sütőpapírral, majd egymástól egy kis távolságra beletesszük a nagyjából egyforma gombócokat.
  
@@ -44,7 +44,7 @@ A forgatáshoz:
 
 5. A gombócokat jól meghempergetjük a felpirított zsemlemorzsában.
  
-    <p><img width="320" height="256" align="left" src="/img/full/500de9dba5ef63c217169c200be5acde6ebad6dc.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/500de9dba5ef63c217169c200be5acde6ebad6dc.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/cea7f22c4f4ea366e879b55c2385c55dd39e0cac.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/22016e90cc32b32d0487ce10678e052555f6b49c.jpg"/></p><div style="clear: both"/>
 
 6. Készen is vagyunk. Önmagában vagy lekvárral, édes szószokkal is rendkívül ízletes. Jó étvágyat kívánok...
  

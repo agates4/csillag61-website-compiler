@@ -6,13 +6,13 @@ date: 2018-06-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5210438-zoldseges-barna-rizs" rel="Recipe source page"><img width="751" height="532" src="/img/full/d999fcf922f7651053b63646bba672b3d67597f1.jpg"/></a></p>
 
 ## About
 Mennyei Zöldséges barna rizs recept! A hosszú szemű, indiai basmati rizs a kedvencem nemcsak a minősége miatt, hanem azért is, mert jóval egészségesebb mint a fehér rizs. A rizs külső héja alatti rész érintetlen marad feldolgozás közben, innen kapja a barna elnevezését. A magas rost tartalom miatt a szénhidrát lassabban szívódik fel, a vércukrot nem dobja meg és ellát bennünket rengeteg ásványi anyaggal: B és A vitaminnal, cinkkel, folsavval, vassal és kalciummal. Jóval tovább fő azonban mint a fehér rizs, a minősége viszont bőségesen megjutalmaz bennünket. NEM ragadnak össze a szemek főzés közben annak ellenére sem, hogy nem szoktam olajat  hozzá önteni.
 
->  
+> 45 perc 
 
 ## Ingredients
 * **5 dl** barna rizs

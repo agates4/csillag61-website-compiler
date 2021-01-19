@@ -6,13 +6,13 @@ date: 2018-03-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4527776-sarga-currys-tofu-zold-teas-soba-tesztaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/d1d769515c680732849b56f22b40fb8232855a72.jpg"/></a></p>
 
 ## About
 Mennyei Sárga currys tofu zöld teás soba tésztával recept! A soba tészta hajdina lisztböl vagy hajdina és buza liszt keverékéböl készült leginkább a spagettihez hasonlitható tészta. A matcha teával izesitett változata különlegessé varázsolja az egyébként egyszerű ételeket.
 
->  
+> 1 óra 
 
 ## Ingredients
 

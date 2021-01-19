@@ -6,13 +6,13 @@ date: 2017-02-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2124570-kek-afonyas-csoki-fagyi" rel="Recipe source page"><img width="751" height="532" src="/img/full/3f5ea08569f448831e429706c7bfea8108a51ef3.jpg"/></a></p>
 
 ## About
 Mennyei Kék áfonyás csoki fagyi recept! Mi a fiatalság titka? Lehet, hogy ez a csoki fagyi :)
 
->  
+> 15 perc 
 
 ## Ingredients
 * **1 db** nagyobb avokádó

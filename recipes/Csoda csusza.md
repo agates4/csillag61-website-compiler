@@ -6,13 +6,13 @@ date: 2019-10-01
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/10739538-csoda-csusza" rel="Recipe source page"><img width="751" height="532" src="/img/full/c346f322b8fd497ce634e7ac1e62eacd1c5f8bf7.jpg"/></a></p>
 
 ## About
 Mennyei Csoda csusza recept! Ez a csoda tészta a konjac vagy más néven konyaku növény föld alatti, megvastagodott szárából készül. A megvastagodott szár hasonlít az édes krumplira, a batátára. Az elkészített tésztának shirataki a neve. Csoda tésztának is hívják, mert csodálatos módon rendkívül magas rost tartalmán kívül más nincs is benne. Nulla kalóriás...
 
->  
+> 10 perc 
 
 ## Ingredients
 * **4 tasak** csoda shirataki széles tészta
@@ -31,11 +31,11 @@ Mennyei Csoda csusza recept! Ez a csoda tészta a konjac vagy más néven konyak
 
 3. A forrásban lévő vízbe beletesszük a leszűrt, leöblített tésztát, 1-2 percig meg-megforgatjuk benne.
  
-    <p><img width="320" height="256" align="left" src="/img/full/5f7bd7c607c4450ddd7c69086ef6cc49f920955c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/5f7bd7c607c4450ddd7c69086ef6cc49f920955c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d11175d8d0fc9472d16d3f1a1dfe910c70ef938a.jpg"/></p><div style="clear: both"/>
 
 4. Leszűrjük, és egy forró serpenyőben leszárítjuk róla a maradék vizet.
  
-    <p><img width="320" height="256" align="left" src="/img/full/a8d9afa41f5c4ceae737f0035ac5e78778a2e13c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/a8d9afa41f5c4ceae737f0035ac5e78778a2e13c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/4ab11bd8335cf55ec17bfdb5c8f82f0d54f88453.jpg"/></p><div style="clear: both"/>
 
 5. Elkeverjük a ricottával és megszórjuk jól fetával. Készen is vagyunk, jó étvágyat kívánok ehhez a csoda csuszához! :)
  

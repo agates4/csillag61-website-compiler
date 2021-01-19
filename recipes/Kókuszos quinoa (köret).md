@@ -6,13 +6,13 @@ date: 2020-11-30
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14140372-kokuszos-quinoa-koret" rel="Recipe source page"><img width="751" height="532" src="/img/full/4e256d261a441712e1307fc2345d540e82c2d0df.jpg"/></a></p>
 
 ## About
 Mennyei Kókuszos quinoa (köret) recept! 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **1 dl** kókuszreszelék, cukormentes

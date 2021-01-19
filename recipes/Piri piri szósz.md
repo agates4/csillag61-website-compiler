@@ -6,13 +6,13 @@ date: 2018-04-08
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4724293-piri-piri-szosz" rel="Recipe source page"><img width="751" height="532" src="/img/full/aebc881fb6b5623046b9c76053bf7d7abd3a0804.jpg"/></a></p>
 
 ## About
 Mennyei Piri piri szósz recept! A piri piri swahili nyelven azt jelenti, hogy "paprika paprika", apró, rettenetesen csipős chilli paprika, amit madár szemnek neveznek Dél Afrikában. Családunk mind az öt férfi tagja nagyon szereti az erős, fűszeres ételeket, szerintük én mindig tehetnék egy kanállal többet ahhoz, hogy elnyerje a kellő fűszerezettséget. Nos, egy kicsit utánajártam, mi is lehet még erősebb, mint a Red Hot vagy Erős Pista, így bukkantam rá erre az érdekesnek hangzó chili szószra, amit BBQ-hoz, sült húsokhoz, zöldségekhez használhatunk.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **18 db** piri piri chilli paprika

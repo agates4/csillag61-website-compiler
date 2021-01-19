@@ -6,13 +6,13 @@ date: 2017-07-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/3013122-gomba-spenotos-tortillaban" rel="Recipe source page"><img width="751" height="532" src="/img/full/9c3afd989036377a7fa39eb6ffcc1d0c2babed43.jpg"/></a></p>
 
 ## About
 Mennyei Gomba spenótos tortillában recept! Éljen a sok gomba, sok hagyma és a sok spenót! :)
 
->  
+> 30 perc 
 
 ## Ingredients
 * **25 dkg** spenót

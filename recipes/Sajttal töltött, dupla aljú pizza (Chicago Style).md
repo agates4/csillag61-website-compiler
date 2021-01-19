@@ -6,13 +6,13 @@ date: 2020-11-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14046638-sajttal-toltott-dupla-alju-pizza-chicago-style" rel="Recipe source page"><img width="751" height="532" src="/img/full/11974e01402cc4e2d88d9a41994746483a791152.jpg"/></a></p>
 
 ## About
 Mennyei Sajttal töltött, dupla aljú pizza (Chicago Style) recept! Csodálatosan  finom, ropogós lesz a tészta, ha a tepsit vajjal kikenjük és jól beszórjuk reszelt parmezán sajttal. A tészta hajtogatásával pedig pille könnyűvé válik a pizza tészta annak ellenére is, hogy egy vastag réteg sajtot teszünk a két alap réteg közé.
 
->  
+> 3 óra 
 
 ## Ingredients
 
@@ -53,11 +53,11 @@ kedvenc zöldségek
 
 2. A megkelt tésztát ellapítjuk az asztalon, téglalap formára. Megkenjük olvasztott vajjal. Feltekerjük, mint a bejglit, majd újból ellapogatjuk. Behajtjuk balról a harmad részét, jobbról is a harmad részét.
  
-    <p><img width="320" height="256" align="left" src="/img/full/ea4fd9c66c89309b35f55232c3404eb3990e2ab3.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/ea4fd9c66c89309b35f55232c3404eb3990e2ab3.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/5697d45f83218b3c6cc7f3b29ba6a9f30c84d69c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/28c780bfa77e965ff3593bc51c8ac03d1860fa52.jpg"/></p><div style="clear: both"/>
 
 3. Megfordítjuk, hogy az alja legyen felül. Egy kicsit kihúzva a sarkait, széleit visszahajtjuk, hogy gömb alakot kapjunk. Letakarjuk és még egyszer pihenni hagyjuk.
  
-    <p><img width="320" height="256" align="left" src="/img/full/f8bf0a173d976b0e7ffc745c17119d68af9e0f84.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/f8bf0a173d976b0e7ffc745c17119d68af9e0f84.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/0359a7e39ed083879e8a368ebf3b890f37aa0844.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e1407ed0509b315c77b9254a5dd537f8db203d89.jpg"/></p><div style="clear: both"/>
 
 4. Az edényt, amiben sütjük a pizzát, kikenjük vastagon puha vajjal. Célszerű vastag falú edényt használni, hogy ne égjen meg a pizza oldala és alja.
  
@@ -85,9 +85,9 @@ kedvenc zöldségek
 
 10. A paradicsomokat durvára szétnyomkodjuk a kezünkkel és egyenletesen elosztjuk a pizza tetején. Ráteszünk ízlés szerint kedvenc feltétet. Forró, 425F-220C fokos légkeveréses sütőben 30 perc alatt megsütjük.
  
-    <p><img width="320" height="256" align="left" src="/img/full/3d66763c63541d63fea24b0a098524d786651473.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/3d66763c63541d63fea24b0a098524d786651473.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/44176f3d8d29ed363ea28a43383bc35d873465cf.jpg"/></p><div style="clear: both"/>
 
 11. Az edény falán körbe futtatunk egy spatulát, majd átcsúsztatjuk óvatosan a kész pizzát egy pizza lapátra vagy hőálló tárcára. Mese finom!!
  
-    <p><img width="320" height="256" align="left" src="/img/full/d58870a2c6e7420f2774d1d0ba8c80b4389ed5b6.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/d58870a2c6e7420f2774d1d0ba8c80b4389ed5b6.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/140e820b75d698a1dec1d4a2d61b3b93ba70befe.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/f32a68111342bbb654ccb90caa5b9c8539160b98.jpg"/></p><div style="clear: both"/>
 

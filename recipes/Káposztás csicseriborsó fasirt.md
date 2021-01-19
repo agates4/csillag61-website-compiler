@@ -6,13 +6,13 @@ date: 2020-11-09
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14009255-kaposztas-csicseriborso-fasirt" rel="Recipe source page"><img width="751" height="532" src="/img/full/89cc88cf1e7d717c94c79d68481386fce9fdb5d8.jpg"/></a></p>
 
 ## About
 Mennyei Káposztás csicseriborsó fasirt recept! 
 
->  
+> 40 perc 
 
 ## Ingredients
 * **45 dkg** száraz csicseriborsó
@@ -39,7 +39,7 @@ Mennyei Káposztás csicseriborsó fasirt recept!
 
 4. Kb 22 db nagyjából egyforma gombócokat formázunk és a kiolajozott tepsin kissé ellapítjuk.
  
-    <p><img width="320" height="256" align="left" src="/img/full/198d823e750fed9e07682d662619fbfb6d3b3b2d.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/198d823e750fed9e07682d662619fbfb6d3b3b2d.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/52b2c6a7e1e689044f9db5fa95791ff7cbc25dfa.jpg"/></p><div style="clear: both"/>
 
 5. 375F-190C fokon 25-30 perc alatt aranysárgára sütjük.
  

@@ -6,13 +6,13 @@ date: 2014-02-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1927340-kaposztas-bab-krumplival" rel="Recipe source page"><img width="751" height="532" src="/img/full/9d7d7123d2c676d8f25c8b261094fd2ab787814c.jpg"/></a></p>
 
 ## About
 Mennyei Káposztás bab krumplival recept! Nagyon hamar megszerettem a lassú főzőt: reggel bekészítem a zománcozott cserép edénybe a vacsorát vagy ebédet, beállítom az óraszámot és mire mindenki hazaérkezik, gőzölgő finomság vár bennünket. Biztonságos, kényelmes és olcsó. Próbáljátok ki ti is!
 
->  
+> 90 perc 
 
 ## Ingredients
 * **2 db** vöröshagyma

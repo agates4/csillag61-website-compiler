@@ -6,13 +6,13 @@ date: 2017-04-21
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2425626-teljes-kiorlesu-mezes-kalacs" rel="Recipe source page"><img width="751" height="532" src="/img/full/65b2cc2b392da44b4dabe19a2bbc8a8b2d48a817.jpg"/></a></p>
 
 ## About
 Mennyei Teljes kiörlésű mézes kalács recept! Ebben a receptben az aquafabával, a csicseri borsó főző levével helyettesitem a tojásokat. A csicseriborsót megfőzöm, a levétől leszűröm és ezt a levet használom fel süteményekhez, ebben az esetben pedig a kalácshoz. Az AF vagy aquafaba nem engedi, hogy a kalács kiszáradjon és bár a teljes kiörlésű liszt tele van rosttal, a kalács mégis könnyű, foszlós marad.
 
->  
+> 215 perc 
 
 ## Ingredients
 * **930 g** növényi tej

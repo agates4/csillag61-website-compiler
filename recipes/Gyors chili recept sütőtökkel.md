@@ -6,13 +6,13 @@ date: 2014-02-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924006-gyors-chili-recept-sutotokkel" rel="Recipe source page"><img width="751" height="532" src="/img/full/ce11f89b783a55e39193927f68c4de8f8ae45813.jpg"/></a></p>
 
 ## About
 Mennyei Gyors chili recept sütőtökkel recept! Ki nem szereti a babot és a sütőtököt? Próbáljuk ki a kettőt együtt chilivel, egy kanál vadrizses barnarizssel.
 
->  
+> 35 perc 
 
 ## Ingredients
 * **2 db** vöröshagyma

@@ -6,13 +6,13 @@ date: 2014-01-30
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924273-almas-energia-szelet" rel="Recipe source page"><img width="751" height="532" src="/img/full/46ab40547f151ad6a3bc0102635b3fcf7133c272.jpg"/></a></p>
 
 ## About
 Mennyei Almás energia szelet recept! Nincsen idő a reggelire, igazán kényelmes felkapni néhány szelet energiát a természet adta izekből. Megnyugtató tudni, hogy minden morzsaja maga az egészség. :)
 
->  
+> 60 perc 
 
 ## Ingredients
 * **8 szem** datolya (aszalt, magozott)

@@ -6,13 +6,13 @@ date: 2020-12-06
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14175379-mozarellas-zoldhagymas-zsemlekenyer" rel="Recipe source page"><img width="751" height="532" src="/img/full/2288c13b6f82c1434dff7fa288eca5d58efb92a1.jpg"/></a></p>
 
 ## About
 Mennyei Mozarellás, zöldhagymás zsemlekenyér recept! Nagyon finom, különösen a pikáns ízű  levesek mellé:))
 
->  
+> 2  óra 
 
 ## Ingredients
 * **40 dkg** finomliszt
@@ -52,9 +52,9 @@ A feltéthez
 
 6. 355F-180C fokon, előmelegített sütőben 38 perc alatt szép pirosra sütjük.
  
-    <p><img width="320" height="256" align="left" src="/img/full/5d8feb5d610d5979425c0634b2f5a605cc368be3.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/5d8feb5d610d5979425c0634b2f5a605cc368be3.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/bec3b4568a5926473325f7f2a469a86538e5d34f.jpg"/></p><div style="clear: both"/>
 
 7. Kiveszem a tepsiből és rácsra teszem hűlni.
  
-    <p><img width="320" height="256" align="left" src="/img/full/bad37ab095380f98c6ae2c2bb7f7f625a6cb0450.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/bad37ab095380f98c6ae2c2bb7f7f625a6cb0450.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/304137455bb03ef9a06d93b952c05ea45edf2209.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/be1ddd24b0c9e9109eebd561a1d1970d0c777eae.jpg"/></p><div style="clear: both"/>
 

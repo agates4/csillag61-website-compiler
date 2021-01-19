@@ -6,13 +6,13 @@ date: 2018-04-03
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4697223-husveti-fonott-kalacs" rel="Recipe source page"><img width="751" height="532" src="/img/full/d31de6b8d6589bc17865dd7e9bd2c68bc95f1988.jpg"/></a></p>
 
 ## About
 Mennyei Húsvéti fonott kalács recept! Ezek a kalácskák alapos átgondolás után szabad stílusú fonással készültek. Más szavakkal kifejezve, nemigen jött össze a 8-as fonás, aztán átváltottam a hatosra, majd lentebb adtam a hármasra, végül arra gondoltam, kettő szálat már csak össze tudok fonni valahogy...
 
->  
+> 2 óra 
 
 ## Ingredients
 * **70 dkg** liszt

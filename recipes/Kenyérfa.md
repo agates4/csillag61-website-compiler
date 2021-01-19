@@ -6,13 +6,13 @@ date: 2018-05-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5010245-kenyerfa" rel="Recipe source page"><img width="751" height="532" src="/img/full/acf999b4d0d2fca3c81d0d005f49d90ec9619836.jpg"/></a></p>
 
 ## About
 Mennyei Kenyérfa recept! Miután teljesen felpumpáltam magam mindenféle videóval, amit csak el lehetett érni, úgy gondoltam, készen állok a nagy találkozásra. Idáig csak a konzervet kellett felnyitnom, hogy ebből az igazán különleges gyümölcsből elkészítsem  kedvenc ételeinket, amelyek közül néhány recept megtalálható a recepttáramban. Most igazán nagy kiváncsisággal néztem szembe egy érett, szép nagy jackfruit példánnyal.
 
->  
+> fél óra 
 
 ## Ingredients
 * **1 db** érett jackfruit

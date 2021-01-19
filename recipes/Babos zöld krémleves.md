@@ -6,13 +6,13 @@ date: 2014-02-03
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924150-babos-zold-kremleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/6543dab4a9cccfa5cb79c7f67083709c9fa86240.jpg"/></a></p>
 
 ## About
 Mennyei Babos zöld krémleves recept! Egy bögre zöld levesben benne van minden, amire a tél közepén már teljesen ki vagyunk éhezve: növényi rostok, vitaminok, ásványi sók, és a jó érzés, hogy egészségeset ettünk. Kiválóan lehet fagyasztani is, minden csöppje aranyat ér. :)
 
->  
+> 70 perc 
 
 ## Ingredients
 * **5 db** cukkini (kisebb)

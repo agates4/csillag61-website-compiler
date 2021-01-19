@@ -6,13 +6,13 @@ date: 2018-04-26
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4820073-edesanyam-szalmakrumplija" rel="Recipe source page"><img width="751" height="532" src="/img/full/c294586a9717ca4825d21e2174d0657bd2290724.jpg"/></a></p>
 
 ## About
 Mennyei Édesanyám szalmakrumplija recept! Édesanyámat megleptük a 81. szülinapjára egy forró levegős fritőzzel, aminek igen nagy értéke, hogy nem kell feltölteni olajjal, és mégis ropogósra sül benne az étel. El is készült az első receptje egy-kettőre, amit nagyon sok szeretettel ajánlunk mindenkinek, aki szereti a sült szalmakrumplit.
 
->  
+> 30 perc 
 
 ## Ingredients
 * **2 db** közepes nagyságú sárga burgonya

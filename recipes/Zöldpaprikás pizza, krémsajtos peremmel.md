@@ -6,13 +6,13 @@ date: 2020-10-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13847710-zoldpaprikas-pizza-kremsajtos-peremmel" rel="Recipe source page"><img width="751" height="532" src="/img/full/36a352600a51f61cf6a4f5f09e09a467c0e0b99c.jpg"/></a></p>
 
 ## About
 Mennyei Zöldpaprikás pizza, krémsajtos peremmel recept! 
 
->  
+> 2 óra 
 
 ## Ingredients
 
@@ -51,7 +51,7 @@ A feltéthez
 
 3. Kb egy ujjnyi vastag csíkokat tegyünk a krémsajtból a tészta szélénél minden oldalon. Egy kis extra csípős paprikát szórtam a natúr krémsajtra, és mivel nehéz volt eldönteni, milyen ízesítésű legyen a másik 3 oldal, ezért egy oldal fűszeres sütőtökös, a másik mézes-pikán diós és a harmadik zöldhagymás lett. A pizza peremét ráhajtjuk a krémsajt csíkokra és gondosan hozzányomjuk az alsó tésztához, hogy sülés közben ne fusson ki a sajt. Ezt a sajtos peremet megkenjük egy kis olíva olajjal.
  
-    <p><img width="320" height="256" align="left" src="/img/full/a4398f58cfe5519c97710b68af5323d6494333aa.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/a4398f58cfe5519c97710b68af5323d6494333aa.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/b33218854f6a6aa86f8e41c92429ad87a4e0daee.jpg"/></p><div style="clear: both"/>
 
 4. Rákenem a pizzaszószt, rászórom a reszelt sajtnak a felét, a hagymát, paprikát. A tetejére kerül a szósz maradéka. Megszórom az oregánóval, beteszem az előmelegített sütőbe.
  
@@ -63,9 +63,9 @@ A feltéthez
 
 6. 35 perc elteltével kiveszem a sütőből a pizzát, rászórom a reszelt sajt másik felét.
  
-    <p><img width="320" height="256" align="left" src="/img/full/db860d4ec3b3da8ce97e31979963568f1ebb5473.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/db860d4ec3b3da8ce97e31979963568f1ebb5473.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/85eb92bd306e6be20c5a76171467feb55278cd05.jpg"/></p><div style="clear: both"/>
 
 7. Még további 5-6 perc alatt készre sütöm. Ez is nagyon finom lett:))
  
-    <p><img width="320" height="256" align="left" src="/img/full/ef2d586a9d8ae785e53b579e1b614c9a61fbfafa.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/ef2d586a9d8ae785e53b579e1b614c9a61fbfafa.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/122b04602744b5251697f7b6b9c02714dd7a45e7.jpg"/></p><div style="clear: both"/>
 

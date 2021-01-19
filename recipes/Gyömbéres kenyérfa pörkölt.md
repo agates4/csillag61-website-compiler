@@ -6,13 +6,13 @@ date: 2018-03-25
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4647980-gyomberes-kenyerfa-porkolt" rel="Recipe source page"><img width="751" height="532" src="/img/full/8053b242f60a9a7e132056719cef1bdd9217e781.jpg"/></a></p>
 
 ## About
 Mennyei Gyömbéres kenyérfa pörkölt recept! Sokáig gondolkoztam azon, hogyan lehet a jackfruitból ételt készíteni. Jackfruitnak hívjak a gyümölcsöt és a fát is, a gyümölcs az ágakon és a fa törzsén is nő akár majdnem 1 m hosszúra . Én a fél méteresekkel találkoztam, de számomra egy kicsit ijesztőnek néztek ki. Aztán arra gondoltam, megbirkózok először a barátságosabb, konzerves változatával, aztán nekiugrok az élő példánynak...:)
 
->  
+> 1 óra 
 
 ## Ingredients
 * **2 db** konzerv zöld bébi Jackfruit

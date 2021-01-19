@@ -6,13 +6,13 @@ date: 2021-01-02
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14009188-avokadokrem-sult-tomatilloval" rel="Recipe source page"><img width="751" height="532" src="/img/full/9d48e39f0ed7dff6fe2724a1a1981df74cfe68fc.jpg"/></a></p>
 
 ## About
 Mennyei Avokádókrém sült tomatilloval recept! 
 
->  
+> 40 perc 
 
 ## Ingredients
 * **50 dkg** tomatillo
@@ -35,7 +35,7 @@ Mennyei Avokádókrém sült tomatilloval recept!
 
 3. Forró sütőben 20-30 perc alatt megsütjük.
  
-    <p><img width="320" height="256" align="left" src="/img/full/264a834869a08108cf3a4d2e4e658b3304ec239b.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/264a834869a08108cf3a4d2e4e658b3304ec239b.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d4ba4e426aa9513c6b7ef93d07462ed002b87a69.jpg"/></p><div style="clear: both"/>
 
 4. Az avokádók belsejét kikanalazzuk, egy kisebb citrom levét rácsepegtetünk.
  

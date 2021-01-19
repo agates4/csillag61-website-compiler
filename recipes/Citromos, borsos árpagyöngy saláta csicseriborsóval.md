@@ -6,13 +6,13 @@ date: 2017-06-18
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2836113-citromos-borsos-arpagyongy-salata-csicseriborsoval" rel="Recipe source page"><img width="751" height="532" src="/img/full/ad14f6e949a69949d1d13de794b0a18129e1c0b8.jpg"/></a></p>
 
 ## About
 Mennyei Citromos, borsos árpagyöngy saláta csicseriborsóval recept! Citromos borsot könnyedén készíthetünk magunk is. A citrom héját lereszeljük, sütőben megszárítjuk és frissen őrölt borssal összekeverjük. Jól zárolt üvegben hetekig eltart, így mindig kezünk ügyében van, ha szükségünk van rá.
 
->  
+> 75 perc 
 
 ## Ingredients
 * **20 dkg** száraz csicseriborsó

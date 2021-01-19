@@ -6,13 +6,13 @@ date: 2018-05-02
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4852059-krumplis-hagymaleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/8dfc36da8094f756ad35a4648a22fcf71425f0be.jpg"/></a></p>
 
 ## About
 Mennyei Krumplis hagymaleves recept! Négyféle hagymából gyorsan, egyszerűen, finomat és laktatósat .... Jó étvágyat kívánok! :)
 
->  
+> 1 óra 
 
 ## Ingredients
 * **6 db** nagy póréhagyma

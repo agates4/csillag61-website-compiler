@@ -6,13 +6,13 @@ date: 2014-02-16
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924011-ananaszos-brokkoli-curryvel" rel="Recipe source page"><img width="751" height="532" src="/img/full/d39f4910f8a2e307836f1634db371fad65768dec.jpg"/></a></p>
 
 ## About
 Mennyei Ananászos brokkoli curryvel recept! Kellemes színek és ízek mind együtt egy tányéron. Jó étvágyat egy könnyű ebédhez vagy vacsorához!
 
->  
+> 20 perc 
 
 ## Ingredients
 

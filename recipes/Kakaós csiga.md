@@ -6,13 +6,13 @@ date: 2018-01-16
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/3920751-kakaos-csiga" rel="Recipe source page"><img width="751" height="532" src="/img/full/f9491e05fdb96b50cf8116526d7ed68c8062a360.jpg"/></a></p>
 
 ## About
 Mennyei Kakaós csiga recept! Jó öreg kakaós csiga, leöntve egy  kis mézes, vajas tejjel, mindig biztos siker idehaza. A töltelék változó, mikor mi jut az eszünkbe: egy kis mazsola, szárított gyümölcs, párolt alma, vagy pedig, mint most, kókusz és dió kerül a kakaó réteg tetejére.
 
->  
+> 2,5 óra 
 
 ## Ingredients
 

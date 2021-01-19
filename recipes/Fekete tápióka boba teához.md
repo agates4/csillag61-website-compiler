@@ -6,13 +6,13 @@ date: 2018-06-23
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5216206-fekete-tapioka-boba-teahoz" rel="Recipe source page"><img width="751" height="532" src="/img/full/018a578358bdee0f0aecb2473278916e6f288d97.jpg"/></a></p>
 
 ## About
 Mennyei Fekete tápióka boba teához recept! Bubble tea, buborék tea, pearl tea, gyöngyös tea, tápióka tea  vagy csak egyszerűen Boba.  Majdnem 4 évtizedes lemaradással ugyan , de mi is felfedeztük ezt a tejes, gyümölcsös jeges teát. Millió egy változata van, de mindegyikben közös a főtt fekete vagy szines  tápióka, a cukorszirup vagy gyümölcsszirup, a tej,  a zöld-, vagy fekete tea, gyümölcsdarabok vagy gyümölcslé. Ebben a receptben most csak a tápióka készítését írom le, korábban már megosztottam egy zöld tea és fekete tea változatot. Az eredeti recept fehér cukrot használ, kókuszvirág cukorral helyettesítettem.
 
->  
+> 20 perc 
 
 ## Ingredients
 * **2.5 dl** fekete tápióka

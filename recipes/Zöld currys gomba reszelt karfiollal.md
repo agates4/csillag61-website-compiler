@@ -6,13 +6,13 @@ date: 2018-02-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4441173-zold-currys-gomba-reszelt-karfiollal" rel="Recipe source page"><img width="751" height="532" src="/img/full/c6c05f0d5e6e5733a2c59074ade55cca6e9e9a23.jpg"/></a></p>
 
 ## About
 Mennyei Zöld currys gomba reszelt karfiollal recept! Még a zöldséget is zöldséggel esszük, most jó fűszeres változatban. Nagyon finom, próbáljátok ki ti is :) 
 
->  
+> 1 óra 
 
 ## Ingredients
 

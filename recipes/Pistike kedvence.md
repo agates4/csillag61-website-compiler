@@ -6,13 +6,13 @@ date: 2018-03-06
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4540163-pistike-kedvence" rel="Recipe source page"><img width="751" height="532" src="/img/full/9180d7c5de49737d5636c4a00c201b50124e5601.jpg"/></a></p>
 
 ## About
 Mennyei Pistike kedvence recept! Pistikétől gyermekkorában  bármikor, ha kérdeztem, mit szeretne enni, mindig ezt válaszolta: krumplit és kenyeret. Így született meg a  krumplis csiga. Ma már ritkán készítem el, inkább csak a nosztalgia kedvéért :)
 
->  
+> 2 óra 
 
 ## Ingredients
 * **2.5 dl** teljes kiőrlésű búzaliszt

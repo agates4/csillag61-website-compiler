@@ -6,13 +6,13 @@ date: 2018-06-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5210947-zold-bebi-jackfruit" rel="Recipe source page"><img width="751" height="532" src="/img/full/2df1bcc36488e7de48ccb477bb0659b3a8c39a2b.jpg"/></a></p>
 
 ## About
 Mennyei Zöld, bébi jackfruit recept! Korábban írtam az édes, érett jackfruitról, amit desszertekhez, turmixokhoz vagy csak nyersen, mint az ananászt vagy mangót, szoktunk fogyasztani. Most a zöld változatával néztem farkas szemet. Be kell vallanom, igen sokáig tartott, amíg rászántam magam arra, hogy feldolgozzam.  Csábított viszont az, hogy mindenféle formában kitűnő étel. Taco salátában vagy zöldséges pörköltökben, gombával sütve, curry szósszal  kiváló étel. Kíváncsiságom győzött, lássuk, mi van a belsejében...
 
->  
+> 35 perc 
 
 ## Ingredients
 * **1 db** zöld, zsenge jackfruit

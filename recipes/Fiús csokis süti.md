@@ -6,13 +6,13 @@ date: 2019-11-13
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11017896-fius-csokis-suti" rel="Recipe source page"><img width="751" height="532" src="/img/full/cbbcc557b8b5a2150a10c11ade79a9956bad7a93.jpg"/></a></p>
 
 ## About
 Mennyei Fiús csokis süti recept! Szülinapomra készítették fiaim, mit sem törődve kalóriával és grammokkal :)))  Csodálatosan finom csokis süti lett a végeredmény!! Egy óriás keksz készült az ünnepi alkalomra, de , ha sütés előtt kanalanként tesszük a tepsire, 48 db is lehet belőle. A receptben egy bögre 2.5 dl-nek felel meg.
 
->  
+> 45 perc 
 
 ## Ingredients
 * **5 dl** cukor
@@ -45,7 +45,7 @@ Mennyei Fiús csokis süti recept! Szülinapomra készítették fiaim, mit sem t
 
 5. Rátesszük a tésztát egy sütőpapírral kibélelt tepsire.
  
-    <p><img width="320" height="256" align="left" src="/img/full/a4e24836eac71ebd4723ff545ebc21f445b8d052.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/a4e24836eac71ebd4723ff545ebc21f445b8d052.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/b7e850074159022dc3d1710157ddc2da4f55c0d3.jpg"/></p><div style="clear: both"/>
 
 6. 175C/350F-ra előmelegített sütőben készre sütjük. A süti közepe puha marad, és ennek így is kell lennie. 9 percnél mégse süssük tovább, mert teljesen kiszárad.
  

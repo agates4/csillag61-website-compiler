@@ -6,13 +6,13 @@ date: 2021-01-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14373390-voroslencses-sargarepa-kremleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/b2e6afc5b03ea676ea0556d1410ec5c564269645.jpg"/></a></p>
 
 ## About
 Mennyei Vöröslencsés sárgarépa krémleves recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 db** nagy lila hagyma
@@ -54,7 +54,7 @@ A levesbetéthez
 
 5. Míg a gomba párolódik a levesben, 1-2 dl vízben, balzsamos ecettel puhára főzöm a zöld leveleket.
  
-    <p><img width="320" height="256" align="left" src="/img/full/69b50b24bf7b40cdd45107a08a608732d7e4a9a1.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/69b50b24bf7b40cdd45107a08a608732d7e4a9a1.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/4541e48ef493d7442c621df95e3b7599350abe2b.jpg"/></p><div style="clear: both"/>
 
 6. A megfőtt egész cukkinikat a levesből kivett néhány merőkanál lével és a kesudióval vagy lenmaggal pépesítem. Visszaöntöm a fazékba.
  

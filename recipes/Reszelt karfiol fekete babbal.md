@@ -6,13 +6,13 @@ date: 2017-02-26
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2142279-reszelt-karfiol-fekete-babbal" rel="Recipe source page"><img width="751" height="532" src="/img/full/9c8bf1b190063bf6b6d9ec759951a38f57194fe9.jpg"/></a></p>
 
 ## About
 Mennyei Reszelt karfiol fekete babbal recept! Érdekes módon, ha a karfiolt lereszeljük, megváltozik az íze. Lássuk, igy van-e! :)
 
->  
+> 30 perc 
 
 ## Ingredients
 

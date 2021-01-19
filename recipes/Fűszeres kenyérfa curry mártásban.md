@@ -6,13 +6,13 @@ date: 2018-04-07
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4713995-fuszeres-kenyerfa-curry-martasban" rel="Recipe source page"><img width="751" height="532" src="/img/full/6354032a34b44ca218ee94ebb7d1cfa42e2e0cbe.jpg"/></a></p>
 
 ## About
 Mennyei Fűszeres kenyérfa curry mártásban recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **60 dkg** barna csiperke

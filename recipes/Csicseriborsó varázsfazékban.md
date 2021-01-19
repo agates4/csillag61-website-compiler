@@ -6,13 +6,13 @@ date: 2018-04-30
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4825626-csicseriborso-varazsfazekban" rel="Recipe source page"><img width="751" height="532" src="/img/full/46f2f34329012542bbe6fcf7117a2f7a3ce6b950.jpg"/></a></p>
 
 ## About
 Mennyei Csicseriborsó varázsfazékban recept! Barna csicseriborsóból készült enyhén csípős curryt főzünk ma  kuktában. A kukta óriási előnye, hogy a főzési idő fantasztikusan lerövidül. A barna chana (csicseriborsó) curry észak Indiában népszerű étel, ezzel a recepttel most zsír vagy olaj, tejszín nélkül fogjuk elkészíteni.  A  barna csicseriborsó kisebb mint a megszokott világos krém színű csicseriborsó, és a héja is vastagabb, órákig kell főzni, mire megpuhul. Ezért vettem elő a varázsfazekamat.  Az én "varázsfazekam" az  Instant Pot igazi csodája, hogy főzhetünk benne lassan (slow cooker) vagy  gyorsan (pressure cooker - kukta), párolva vagy gőzölve - mindezt egy gombnyomásra, egyetlen főzőedényben. Csupán azt kell tudni, melyik gombot nyomjuk be :).
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1/2 kg** száraz barna csicseriborsó

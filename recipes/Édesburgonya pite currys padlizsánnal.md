@@ -6,13 +6,13 @@ date: 2018-03-18
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4607558-edesburgonya-pite-currys-padlizsannal" rel="Recipe source page"><img width="751" height="532" src="/img/full/ec8c9ed1c437e5fdbeafc543bd8e9d00415cce8d.jpg"/></a></p>
 
 ## About
 Mennyei Édesburgonya pite currys padlizsánnal recept! 
 
->  
+> 85 perc 
 
 ## Ingredients
 * **6 db** édesburgonya / batáta

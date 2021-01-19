@@ -6,13 +6,13 @@ date: 2019-12-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11142205-egyszeru-vorosafonya-szosz" rel="Recipe source page"><img width="751" height="532" src="/img/full/f5724b1139677cbee7029828e8e492b8da0d6276.jpg"/></a></p>
 
 ## About
 Mennyei Egyszerű vörösáfonya szósz recept! Kiváló mártás  sült vagy párolt  zöldségekhez, tört krumpli, édes krumpli mellé is. Jellegzetesen savanykás, fanyar ize  megmarad az édesités után is, ami igy tökéletesen kiegésziti az izeket. Ez most itt egy alap recept, amit a leggyakrabban szoktam elkésziteni.
 
->  
+> 20 perc 
 
 ## Ingredients
 * **35 dkg** friss vörösáfonya

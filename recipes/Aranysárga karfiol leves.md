@@ -6,13 +6,13 @@ date: 2017-12-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/3797098-aranysarga-karfiol-leves" rel="Recipe source page"><img width="751" height="532" src="/img/full/033e5e3e6bc7a323757345c5163ca9d0d7c685c1.jpg"/></a></p>
 
 ## About
 Mennyei Aranysárga karfiol leves recept! A tél közepén egy jó pohár krémleves még a hideget is elviselhetőbbé teszi. :)
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 fej** karfiol

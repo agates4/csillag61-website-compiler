@@ -6,13 +6,13 @@ date: 2019-04-20
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/8273803-foldieper-pite" rel="Recipe source page"><img width="751" height="532" src="/img/full/fc316ece1c232af20e5e1e3088c4c01d9d984ab9.jpg"/></a></p>
 
 ## About
 Mennyei Földieper pite recept! Ezzel a tál eperrel télen- nyáron csodálatos illatot és ízeket varázsolhatunk az asztalra pillanatok alatt. Ha néhány szem málnát belecsempészünk az eper pépbe, nem csak a pite színe lesz erőteljesebb, de az íze is gazdagabb lesz tőle...
 
->  
+> 30 perc 
 
 ## Ingredients
 
@@ -59,5 +59,5 @@ A díszítéshez:
 
 7. Feldíszítem a pudingot és jól behűtve tálalom. Jó étvágyat kívánok.
  
-    <p><img width="320" height="256" align="left" src="/img/full/b4aab9c6835629940d4cd012aa73d397b424ac38.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/b4aab9c6835629940d4cd012aa73d397b424ac38.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/1157aa8fe79421ffe85c8bff1fe470f0dbfc8eb1.jpg"/></p><div style="clear: both"/>
 

@@ -6,13 +6,13 @@ date: 2014-01-25
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925342-barna-egerek" rel="Recipe source page"><img width="751" height="532" src="/img/full/504d6c7c4e7f9b8051bc867b9c586d0552c78c5a.jpg"/></a></p>
 
 ## About
 Mennyei Barna egerek recept! Szeretjük az egereket ... meg is esszük mindegyiket! :) Karácsonyra szoktuk késziteni, jól mutat az ünnepi asztalon.
 
->  
+> 30 perc 
 
 ## Ingredients
 

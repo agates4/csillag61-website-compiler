@@ -6,13 +6,13 @@ date: 2017-06-16
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2823750-sajtos-makaroni-vegan-modra" rel="Recipe source page"><img width="751" height="532" src="/img/full/dfe044b4f9dab8db7a3d85e1d1788ded9faf99ba.jpg"/></a></p>
 
 ## About
 Mennyei Sajtos makaróni vegán módra recept! Nagyon ízletes és tápláló étel, bátran ajánlom mindenkinek! :)   
 
->  
+> 30 perc 
 
 ## Ingredients
 * **30 dkg** teljes kiőrlésű tészta

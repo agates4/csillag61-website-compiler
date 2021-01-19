@@ -6,13 +6,13 @@ date: 2018-02-18
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4441352-fele-cukor-fele-mez-almas-pite-fagyival" rel="Recipe source page"><img width="751" height="532" src="/img/full/35b003d59dd7cee0d9e2bb1c21a6b2bf326380cd.jpg"/></a></p>
 
 ## About
 Mennyei Fele cukor, fele méz almás pite fagyival recept! Egy kis könnyű almás pite mindenkor jöhet, különösen, ha fagyi is van hozzá.
 
->  
+> 90 perc 
 
 ## Ingredients
 

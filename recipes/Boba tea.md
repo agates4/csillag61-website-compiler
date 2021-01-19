@@ -6,13 +6,13 @@ date: 2018-06-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5211190-boba-tea" rel="Recipe source page"><img width="751" height="532" src="/img/full/6aeb4a36daf35a1aaac5353e6f32c08da4512b65.jpg"/></a></p>
 
 ## About
 Mennyei Boba tea recept! Bubble tea, buborék tea, pearl tea, gyöngyös tea, tápióka tea  vagy csak egyszerűen Boba.  Majdnem 4 évtizedes lemaradással ugyan , de mi is felfedeztük ezt a tejes, gyümölcsös jeges teát. Millió egy változata közül egy indiai teára esett a választásunk, és igen csak megszerettük. A receptben megadott tápioka gyöngy mennyisége több, mint amennyit ehhez a teához felhasználunk, tegyük félre a maradékot, mert hamarosan szükségünk lesz rá. :)
 
->  
+> 30 perc 
 
 ## Ingredients
 * **3 db** filter fekete tea
@@ -85,5 +85,5 @@ A tálaláshoz:
 
 13. Készen is vagyunk. Olyan vastag szívószállal kínálom, hogy a tápióka gyöngyöket fel tudjuk szippantani a teával együtt.
  
-    <p><img width="320" height="256" align="left" src="/img/full/772987d4c5c81c7099b3fad35e197a3910cdf558.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/772987d4c5c81c7099b3fad35e197a3910cdf558.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/8cb8a958229660338bead1d037f2f04468039117.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/5bdab2eae31c52613eb0e1a5e94218d06776aa31.jpg"/></p><div style="clear: both"/>
 

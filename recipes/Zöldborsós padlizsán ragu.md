@@ -6,13 +6,13 @@ date: 2020-09-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13730727-zoldborsos-padlizsan-ragu" rel="Recipe source page"><img width="751" height="532" src="/img/full/6dabbde349fc6ba2b71a93fe61c99d595ba2a013.jpg"/></a></p>
 
 ## About
 Mennyei Zöldborsós padlizsán ragu recept! 
 
->  
+> 60 perc 
 
 ## Ingredients
 * **1.5 kg** padlizsán
@@ -40,5 +40,5 @@ Mennyei Zöldborsós padlizsán ragu recept!
 
 3. Mikor már megpuhult a padlizsán, hozzáadom a zöldborsót, 5-10 perc alatt összefőzöm fedő nélkül, közben, a felesleges folyadék is elpárolog. Készen is vagyunk, nagyon finom önálló étel, egy szelet rozs kenyérrel fantasztikus!
  
-    <p><img width="320" height="256" align="left" src="/img/full/6c1e019fb89c231a14d56f0c989ce8dca3a6ed04.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/6c1e019fb89c231a14d56f0c989ce8dca3a6ed04.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/8a23c7674556d7b347b054407ac3aa186e8570b3.jpg"/></p><div style="clear: both"/>
 

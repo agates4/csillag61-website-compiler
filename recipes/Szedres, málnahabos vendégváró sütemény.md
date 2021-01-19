@@ -6,13 +6,13 @@ date: 2020-11-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/12580715-szedres-malnahabos-vendegvaro-sutemeny" rel="Recipe source page"><img width="751" height="532" src="/img/full/cd00af17236268e737886f4eb53898ab441a9929.jpg"/></a></p>
 
 ## About
 Mennyei Szedres, málnahabos vendégváró sütemény recept! Egy 6 tojásos csokoládés piskótát szoktam készíteni, aminek a mérete 29 cm x 42 cm. Miután kihűlt, keresztben négy egyenlő részre vágom és lefagyasztom. Jöhet a vendég bármikor, pillanatok alatt meg lehet tölteni friss vagy fagyasztott gyümölcsökkel és tejszínnel a lapokat.
 
->  
+> 15 perc 
 
 ## Ingredients
 
@@ -48,5 +48,5 @@ A tésztához
 
 5. A tetejét feldíszítem a jól megmosott, megszárított szederrel. Már frissen készítve is azonnal szeletelhető, de a legfinomabb másnap, amikor az ízek szépen összeérnek. Jó étvágyat kívánok!
  
-    <p><img width="320" height="256" align="left" src="/img/full/5a6f4127adc358cfaf741da6914adcbc46c920f8.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/5a6f4127adc358cfaf741da6914adcbc46c920f8.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/0a04e32104911758a6b0272732fabd437f7bc1c2.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/c6113aa61113676bdfbc707be7d5a54031a5a794.jpg"/></p><div style="clear: both"/>
 

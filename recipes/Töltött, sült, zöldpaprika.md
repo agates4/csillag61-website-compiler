@@ -6,13 +6,13 @@ date: 2018-05-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4913667-toltott-sult-zoldpaprika" rel="Recipe source page"><img width="751" height="532" src="/img/full/7d5c4a3ef7156637c9537aab5372e78f31f291ca.jpg"/></a></p>
 
 ## About
 Mennyei Töltött, sült, zöldpaprika recept! 
 
->  
+> 90 perc 
 
 ## Ingredients
 * **12 db** zöld kaliforniai paprika

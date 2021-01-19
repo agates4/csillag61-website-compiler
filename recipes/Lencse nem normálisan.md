@@ -6,13 +6,13 @@ date: 2017-04-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2347271-lencse-nem-normalisan" rel="Recipe source page"><img width="751" height="532" src="/img/full/21d6c5a13d79d1c3630657d994c45fb589aee993.jpg"/></a></p>
 
 ## About
 Mennyei Lencse nem normálisan recept! Gyermekeim azt mondták, bár nem normálisan készítettem el most a lencsét, mégis milyen finom... Lássuk, mitől nem normális az egyébként normális lencse :))
 
->  
+> 60 perc 
 
 ## Ingredients
 * **1 db** nagyon nagy fej vöröshagyma

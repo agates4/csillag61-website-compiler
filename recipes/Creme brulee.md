@@ -6,13 +6,13 @@ date: 2021-01-06
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14345002-creme-brulee" rel="Recipe source page"><img width="751" height="532" src="/img/full/f601aeab6cf1a56b3f2f015c4b6e1aa37e6292ce.jpg"/></a></p>
 
 ## About
 Mennyei Creme brulee recept! 
 
->  
+> 10 perc előkészület, 40 perc sütés, 2 óra hűtés 
 
 ## Ingredients
 * **800 ml** tejszín
@@ -59,5 +59,5 @@ A tetejére
 
 9. Készen is vagyunk!!
  
-    <p><img width="320" height="256" align="left" src="/img/full/fbb97b3715e6225b3366d8b9052f38e1cfd29b4f.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/fbb97b3715e6225b3366d8b9052f38e1cfd29b4f.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/ce1ce002cf7016a1779f5f5d16dd2bcad0737f0d.jpg"/></p><div style="clear: both"/>
 

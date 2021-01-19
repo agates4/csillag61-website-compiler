@@ -6,13 +6,13 @@ date: 2018-04-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4772403-spenotgomboccal-rakott-krumpli" rel="Recipe source page"><img width="751" height="532" src="/img/full/357fb1e5fdac02796255da55bbba640b66437caf.jpg"/></a></p>
 
 ## About
 Mennyei Spenótgombóccal rakott krumpli recept! Gyors egytál étel, remélem ti is szeretni fogjátok , nemcsak mi eszegetjük itt egyedül... :)
 
->  
+> 90 perc 
 
 ## Ingredients
 

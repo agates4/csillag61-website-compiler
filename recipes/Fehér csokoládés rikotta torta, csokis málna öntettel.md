@@ -6,13 +6,13 @@ date: 2019-05-20
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/8824999-feher-csokolades-rikotta-torta-csokis-malna-ontettel" rel="Recipe source page"><img width="751" height="532" src="/img/full/b0dddd3bbb4d98b43006076ae60ce527e12e07ff.jpg"/></a></p>
 
 ## About
 Mennyei Fehér csokoládés rikotta torta, csokis málna öntettel recept! 
 
->  
+> 2 óra 
 
 ## Ingredients
 * **140 dkg** ricotta
@@ -57,5 +57,5 @@ A csokoládékrémhez
 
 6. A tálaláshoz minden szeletre rákanalozok egy kis málnát és csokoládét.
  
-    <p><img width="320" height="256" align="left" src="/img/full/64915dd0f6db6882386cfe5d3380c261ce133781.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/64915dd0f6db6882386cfe5d3380c261ce133781.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/0f5290a3f620a95f5ce51a29f603b3ad5da4798b.jpg"/></p><div style="clear: both"/>
 

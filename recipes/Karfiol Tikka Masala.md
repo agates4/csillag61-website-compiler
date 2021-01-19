@@ -6,13 +6,13 @@ date: 2018-04-19
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4783135-karfiol-tikka-masala" rel="Recipe source page"><img width="751" height="532" src="/img/full/be3c0655d8cbe12e5894110aaa9d5b1d72a8eb29.jpg"/></a></p>
 
 ## About
 Mennyei Karfiol Tikka Masala recept! Valami miatt a családom még mindig görbe szemmel néz az okrára, a curry iránti szerelem viszont nagy lángokon lobog. Talán sikerül most becsempészni ezt az igen értékes zöldséget étrendünkbe. Hosszas búvárkodás után rájöttem, hogy a csirkés tikka masala receptek tömegében csupán egyetlen dolog a közös, az pedig a csirke. Így hát bátran lecseréltem a csirkét a karfiolra és ízesítettem a legjobb belátásom szerint, szem előtt tartva az indiai ízek csodálatos világát.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 nagy fej** karfiol

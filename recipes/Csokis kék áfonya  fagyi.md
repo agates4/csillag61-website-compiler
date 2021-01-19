@@ -6,13 +6,13 @@ date: 2020-08-06
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13354860-csokis-kek-afonya-fagyi" rel="Recipe source page"><img width="751" height="532" src="/img/full/440a9a1c84693edc34ab11c520e4e13635a0fb85.jpg"/></a></p>
 
 ## About
 Mennyei Csokis kék áfonya  fagyi recept! 
 
->  
+> 50 perc fagyi géppel 
 
 ## Ingredients
 * **125 ml** cukrozatlan kakaópor
@@ -33,5 +33,5 @@ Mennyei Csokis kék áfonya  fagyi recept!
 
 3. Készen is vagyunk ezzel a selymesen krémes, különleges csokis áfonya fagyival.
  
-    <p><img width="320" height="256" align="left" src="/img/full/5c8be3d4eb95a536637676ab1108aa39868f18d1.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/5c8be3d4eb95a536637676ab1108aa39868f18d1.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/7c362c6e04c485844037808bd47d743b48949f2a.jpg"/></p><div style="clear: both"/>
 

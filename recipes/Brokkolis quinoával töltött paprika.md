@@ -6,13 +6,13 @@ date: 2020-11-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14120514-brokkolis-quinoaval-toltott-paprika" rel="Recipe source page"><img width="751" height="532" src="/img/full/c6532f109d86604168c0f6dfde26e9ae858dd95d.jpg"/></a></p>
 
 ## About
 Mennyei Brokkolis quinoával töltött paprika recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **7 db** piros és sárga kaliforniai paprika
@@ -41,5 +41,5 @@ Mennyei Brokkolis quinoával töltött paprika recept!
 
 5. A paprikákat megtöltöm a brokkolis quinoával, tetejüket visszarakom és beteszem a forró sütőbe. 375F-190C fokon átforrósítom és csak addig sütöm, amíg a paprika egy kicsit megpárolódik, még ropogós marad. Fantasztikusan finom és dekoratív az ünnepi asztalon is.
  
-    <p><img width="320" height="256" align="left" src="/img/full/9d4d226869e977bbdaae79b3d1a959009e9aca2b.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/9d4d226869e977bbdaae79b3d1a959009e9aca2b.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/b3fdcee674077569b57f014fdfcd8b324bca7b82.jpg"/></p><div style="clear: both"/>
 

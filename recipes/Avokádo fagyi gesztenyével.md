@@ -6,13 +6,13 @@ date: 2018-05-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4873354-avokado-fagyi-gesztenyevel" rel="Recipe source page"><img width="751" height="532" src="/img/full/c703f3ca4de947300e3e6fc25dafea4fff7fb531.jpg"/></a></p>
 
 ## About
 Mennyei Avokádo fagyi gesztenyével recept! Egyszerű és gyors fagyi, roppant látványos az asztalon. Különféleképpen édesíthetjük: agávé nektárral, kókuszcukorral, vagy mint ebben a receptben, citromos krémmézzel.
 
->  
+> 30 perc 
 
 ## Ingredients
 * **6 db** avokádó

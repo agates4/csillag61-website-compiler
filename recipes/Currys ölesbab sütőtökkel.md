@@ -6,13 +6,13 @@ date: 2018-06-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5178724-currys-olesbab-sutotokkel" rel="Recipe source page"><img width="751" height="532" src="/img/full/06fc56aa1496bd11e700ca1cb30b34b995f2e1e9.jpg"/></a></p>
 
 ## About
 Mennyei Currys ölesbab sütőtökkel recept! Ez a curry nem olyan , mint más curry.  Fahéj, szegfűszeg, szerecsendió, és gyömbér olyan illatot és ízt ad az öles babnak, amilyet még soha nem látott...:)
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 db** 20 cm-es sonkatök

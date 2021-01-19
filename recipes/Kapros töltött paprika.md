@@ -6,13 +6,13 @@ date: 2018-05-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4896402-kapros-toltott-paprika" rel="Recipe source page"><img width="751" height="532" src="/img/full/0e0a11b20a65899fd35f0b54ff267c4105a1794a.jpg"/></a></p>
 
 ## About
 Mennyei Kapros töltött paprika recept! 
 
->  
+> 90 perc 
 
 ## Ingredients
 * **16 db** közepes kaliforniai paprika

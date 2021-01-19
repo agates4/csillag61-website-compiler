@@ -6,13 +6,13 @@ date: 2018-06-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5222094-pacolt-sult-gomba-sarkanygyumolcs-salsaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/9fd61729ae171a755ffbbd9f8751a1104e75a31d.jpg"/></a></p>
 
 ## About
 Mennyei Pácolt sült gomba sárkánygyümölcs salsával recept! A sárkánygyümölcs élénk színéről és különleges formájáról egyszerűen le sem tudtam venni a szememet. Aztán jött a meglepetés, mert a belseje különböző színű volt és az íze viszont várakozásomtól eltérően semleges. Aztán egyik gondolatom a másikat követte és egy különleges, üdítő frissesség került az asztalunkra. A key lime csodákra képes...  
 
->  
+> 1 óra 
 
 ## Ingredients
 
@@ -87,5 +87,5 @@ A tálaláshoz
 
 12. Üdítő frissesség minden egyes falatban. Próbáljátok ki ti is :) !
  
-    <p><img width="320" height="256" align="left" src="/img/full/cec39395eca6169bed89fc27b1ba87e8f2c53640.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/cec39395eca6169bed89fc27b1ba87e8f2c53640.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/2b9e1e3079ee7397c4607a89511fa5d068cc075e.jpg"/></p><div style="clear: both"/>
 

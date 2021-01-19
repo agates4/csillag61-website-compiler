@@ -6,13 +6,13 @@ date: 2020-09-25
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13659319-voros-kaposztaval-rakott-gomba" rel="Recipe source page"><img width="751" height="532" src="/img/full/c20fa1eb953f1b1f6c90333c34c101d69921335f.jpg"/></a></p>
 
 ## About
 Mennyei Vörös káposztával rakott gomba recept! 
 
->  
+> 1.5 óra 
 
 ## Ingredients
 * **60 dkg** lila hagyma
@@ -46,7 +46,7 @@ A töltött gomba rétegre
 
 3. A hagymára ráteszem a fűszeres káposzta felét, majd erre a vékonyra szeletelt batátát. Kb 2 nagyobb batátára van szükségünk. Rárétegezem a shiitake gombát, arra a másik batátát és végül a maradék káposztát.
  
-    <p><img width="320" height="256" align="left" src="/img/full/26d4f11f7dbf2552da37314ef4206d4a21ac802c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/26d4f11f7dbf2552da37314ef4206d4a21ac802c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/8edd776b8baf68327acb09027a7726fb8f7c47dd.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/7a565532830bf43856f3932c968f9f48581588cd.jpg"/></p><div style="clear: both"/>
 
 4. A gombából kitöröm a tönkjét a káposzta közé nyomkodom a fejeket.
  

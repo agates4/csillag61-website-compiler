@@ -6,13 +6,13 @@ date: 2018-03-02
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4517261-aranysarga-tej-az-egeszsegert" rel="Recipe source page"><img width="751" height="532" src="/img/full/1d5b6d510d46d5bdb7c79c84c4d30a92d9eba076.jpg"/></a></p>
 
 ## About
 Mennyei Aranysárga tej, az egészségért recept! A turmerik és gyömbér csodálatos hatásáról rengeteget lehet olvasni, de mint minden, ez a tej is csak akkor hat, ha elkészítjük és megisszuk. Bátran igyunk az egészségünkért ebből a füszeres italból, akár minden nap.:)
 
->  
+> 15 perc 
 
 ## Ingredients
 * **1 ek** reszelt turmerik vagy

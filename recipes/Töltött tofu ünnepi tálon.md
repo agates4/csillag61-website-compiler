@@ -6,13 +6,13 @@ date: 2017-02-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2125191-toltott-tofu-unnepi-talon" rel="Recipe source page"><img width="751" height="532" src="/img/full/728ffb3bc9b604050ee1db2fe56b0655d11c8781.jpg"/></a></p>
 
 ## About
 Mennyei Töltött tofu ünnepi tálon recept! Ezen a tálon minden rajta van, amire éppen szükségünk van ahhoz, hogy még jobban érezzük magunkat: növényi rostok, vitaminok, ásványi sók és csodás izek :)
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 

@@ -6,13 +6,13 @@ date: 2017-02-25
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2128139-banankenyer" rel="Recipe source page"><img width="751" height="532" src="/img/full/69019bc9d8eff81ece0582eaa08dbd45325f109a.jpg"/></a></p>
 
 ## About
 Mennyei Banánkenyér recept! Ha banánkenyér, legyen benne sok banán! :) Finomság a nap bármelyik szakában. Kiváló energiaforrás torna előtt vagy után...
 
->  
+> 75 perc 
 
 ## Ingredients
 

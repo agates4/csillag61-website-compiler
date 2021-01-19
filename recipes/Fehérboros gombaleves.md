@@ -6,13 +6,13 @@ date: 2020-12-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14219532-feherboros-gombaleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/286d8149b475d0896c081a1bda481d665a182a8e.jpg"/></a></p>
 
 ## About
 Mennyei Fehérboros gombaleves recept! Ezt az ízes, zamatos gombalevest még az is megeszi, aki egyébként a gombát nem szereti. Garantáltan!!!
 
->  
+> 1 óra 
 
 ## Ingredients
 * **4 db** nagy portabello gomba kalapja

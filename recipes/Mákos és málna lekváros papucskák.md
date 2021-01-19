@@ -6,13 +6,13 @@ date: 2018-03-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4568172-makos-es-malna-lekvaros-papucskak" rel="Recipe source page"><img width="751" height="532" src="/img/full/ba0874512e2df4257b8bcd760b335f8996bd8d17.jpg"/></a></p>
 
 ## About
 Mennyei Mákos és málna lekváros papucskák recept! A legtöbb esetben nagyon könnyű tojás nélküli kelt tésztát készíteni, egyszerűen  nem teszem bele a tésztába és nem is helyettesítem semmivel ;) Az ecet viszont fontos hozzávaló  a bővebb folyadékkal és a növényi fehérjékkel együtt, ami hozzásegít ahhoz, hogy pille könnyű tészta legyen a végeredmény annak ellenére, hogy teljes kiőrlésű lisztet használunk. Eredetileg fele mákos, fele lekváros papucskáknak indultak, de mire a töltésre került a sor, a mákos győzött :)
 
->  
+> 90 perc 
 
 ## Ingredients
 * **50 dkg** teljes kiőrlésű búza liszt

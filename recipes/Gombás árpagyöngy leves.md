@@ -6,13 +6,13 @@ date: 2017-06-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2781857-gombas-arpagyongy-leves" rel="Recipe source page"><img width="751" height="532" src="/img/full/a29de69d6ca149db4b7eabc2ae100eb525f03bd4.jpg"/></a></p>
 
 ## About
 Mennyei Gombás árpagyöngy leves recept! Újra a konyhában, vagy még ki sem mentünk az ünnepek óta :)) ? Most egy, gyors, könnyű, mégis tápláló levest készítünk el.
 
->  
+> 90 perc 
 
 ## Ingredients
 

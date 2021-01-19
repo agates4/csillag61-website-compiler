@@ -6,13 +6,13 @@ date: 2019-04-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/8370728-lencses-szojaporkolt" rel="Recipe source page"><img width="751" height="532" src="/img/full/aa1afd2fe36a3e96b61076c38c0fa7ae0d3e6a09.jpg"/></a></p>
 
 ## About
 Mennyei Lencsés szójapörkölt recept! A lencse igazi vitaminbomba, minden benne van, amire a szervezetünknek szüksége van. Nagyon könnyen elérhető és változatosan elkészíthető, izletes, tápláló étek az év bármelyik napján.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **20 dkg** szárított szójakocka
@@ -46,7 +46,7 @@ Mennyei Lencsés szójapörkölt recept! A lencse igazi vitaminbomba, minden ben
 
 5. A gombát nagyobb kockára vágva hozzáteszem a párolódó hagymás alapra.
  
-    <p><img width="320" height="256" align="left" src="/img/full/baddc718eef304ac75022a517eb32bbf9b44cecb.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/baddc718eef304ac75022a517eb32bbf9b44cecb.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/338f7e6233a93b5e9d1d34e8242f64ebc0eed1ee.jpg"/></p><div style="clear: both"/>
 
 6. Rádobom az egész cikkben maradt fokhagymát is.
  
@@ -54,7 +54,7 @@ Mennyei Lencsés szójapörkölt recept! A lencse igazi vitaminbomba, minden ben
 
 7. A szójakockából kinyomkodom a vizet és még egyszer átöblítem, újból kinyomkodom a vizet belőle, úgy teszem a hagymás alapra. Rászórom a paprikaport és a szárított zöldséges fűszerkeveréket. Annyi vízzel öntöm fel, hogy ellepje. Felforralom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/245d230b449ee62f07763e74250aaf1f728ac4e1.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/245d230b449ee62f07763e74250aaf1f728ac4e1.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/af62c5589ac285e6bbbd2d1696af357c090365e2.jpg"/></p><div style="clear: both"/>
 
 8. A legjobban a színes lencsekeveréket szeretem, mert a piros és sárga hamarabb megfő és elpépesedik főzés közben, így a pörkölt leve magától besűrűsödik.
 

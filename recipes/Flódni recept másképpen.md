@@ -6,13 +6,13 @@ date: 2014-01-25
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1923996-flodni-recept-maskeppen" rel="Recipe source page"><img width="751" height="532" src="/img/full/ef636d1d0eaef43941dd265e0c18aa4697ab4d00.jpg"/></a></p>
 
 ## About
 Mennyei Flódni recept másképpen recept! Minden évben kisérletezem a flódnival, de számunkra ez a recept vált be a legjobban. Végre sikerült összeállitanom egy olyan sütit, amivel lelkiismeretfurdalás nélkül ünnepelhetünk! Remélem, ti is szeretni fogjátok:)
 
->  
+> 100 perc 
 
 ## Ingredients
 

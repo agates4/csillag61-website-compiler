@@ -6,13 +6,13 @@ date: 2014-02-14
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925452-tortillaba-csomagolt-villamgyors-tojastekercs" rel="Recipe source page"><img width="751" height="532" src="/img/full/c9800ddd6b6d8e52eddd2387b227676f05943838.jpg"/></a></p>
 
 ## About
 Mennyei Tortillába csomagolt villámgyors tojástekercs recept! Villámgyors reggeli, de ebédre is kiváló ... Nagyon jó recept! :)
 
->  
+> 10 perc 
 
 ## Ingredients
 * **1 db** tortilla lap

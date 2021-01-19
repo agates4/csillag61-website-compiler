@@ -6,13 +6,13 @@ date: 2014-03-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924040-tizorai" rel="Recipe source page"><img width="751" height="532" src="/img/full/82581758e1bc1fd4220d3618e241e7ca81cc4674.jpg"/></a></p>
 
 ## About
 Mennyei Tízórai recept! Mi kerüljön az iskolatáskába uzsonnára vagy ebédre? Örök kérdés, főleg ha a rendszeres edzés minden napos. Néhány kedvenc ötlet, amit előre elkészithetünk, hütőben napokig friss marad, és még egészséges is.
 
->  
+> 10 perc 
 
 ## Ingredients
 * **3 db** saláta - római

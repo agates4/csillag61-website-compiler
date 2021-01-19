@@ -6,13 +6,13 @@ date: 2014-02-20
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924015-szuper-rakottas" rel="Recipe source page"><img width="751" height="532" src="/img/full/7b0946927e25d2381363258ec5dfaafd153a8d4a.jpg"/></a></p>
 
 ## About
 Mennyei Szuper rakottas recept! Szuper zöld növények mind egy tányéron: kelbimbó, spenót vagy kale, zöldbab, brokkoli ... Szuper zöldek szuper mártásban egy szuper vacsorához sárgarépa virággal! :)
 
->  
+> 60 perc 
 
 ## Ingredients
 

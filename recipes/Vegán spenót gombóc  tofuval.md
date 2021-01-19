@@ -6,13 +6,13 @@ date: 2014-02-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925651-vegan-spenot-gomboc-tofuval" rel="Recipe source page"><img width="751" height="532" src="/img/full/659c1556126623cdd61b841c5a7be941f941ac9a.jpg"/></a></p>
 
 ## About
 Mennyei Vegán spenót gombóc  tofuval recept! Finom-finom-finom vegán gombócok húsgombócok helyett. Már néhány nappal elöre is elkészithetjük, letakarva hütében tárolva, aztán csak készre kell sütni, amikor szükséges. Spagettihez, sült vagy párolt krumplihoz, nagy tányér saláta tetéjén megállja a helyét. :)
 
->  
+> 60 perc 
 
 ## Ingredients
 

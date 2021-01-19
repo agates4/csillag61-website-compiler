@@ -6,14 +6,14 @@ date: 2014-01-31
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924240-pille-konnyu-krumplis-pogacsa-asiago-sajttal" rel="Recipe source page"><img width="751" height="532" src="/img/full/b7f65d0a8c9715b61f4c41d8bdb7831aea295c77.jpg"/></a></p>
 
 ## About
 Mennyei Pille könnyü krumplis pogacsa Asiagó sajttal recept! Ki nem szereti a frissen sült házi pogácsa illatát? Különösen, ha meg van bolonditva egy kis sajttal.
 1 teáskanál = 5 ml, 1 evőkanál= 15 ml
 
->  
+> 155 perc 
 
 ## Ingredients
 

@@ -6,13 +6,13 @@ date: 2017-03-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2234764-hagymas-rozscipo" rel="Recipe source page"><img width="751" height="532" src="/img/full/d01aa89d00f080b82648866bf93d674b1fa692ce.jpg"/></a></p>
 
 ## About
 Mennyei Hagymás rozscipó recept! Ennek a kenyérnek ami a hátránya, éppen az az  előnye. Sűrű - tele van rosttal. Lapos - alacsony a sikértartalma. Savanykás - kiváló a zamata. Nehezen szeletelhető - megdolgozunk azért, amit eszünk. 😊
 
->  
+> 4 óra 
 
 ## Ingredients
 * **350 g** teljes kiörlésű rozsliszt

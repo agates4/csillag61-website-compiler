@@ -6,13 +6,13 @@ date: 2017-05-06
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2490229-almas-amerikai-palacsinta" rel="Recipe source page"><img width="751" height="532" src="/img/full/080db1a35aa225127b60e1b070b2ec638d09133a.jpg"/></a></p>
 
 ## About
 Mennyei Almás amerikai palacsinta recept! Az alábbi recept egy igazi amerikai palacsinta recept vegán változata. Éppen olyan finom, mint az eredeti...
 
->  
+> 30 perc 
 
 ## Ingredients
 * **300 g** teljes kiörlésű buzaliszt

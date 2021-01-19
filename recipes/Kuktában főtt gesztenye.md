@@ -6,13 +6,13 @@ date: 2020-01-08
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11346326-kuktaban-fott-gesztenye" rel="Recipe source page"><img width="751" height="532" src="/img/full/f8df96837de1e0928a8fca5295530dac437af88b.jpg"/></a></p>
 
 ## About
 Mennyei Kuktában főtt gesztenye recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 kg** szelíd gesztenye
@@ -25,7 +25,7 @@ Mennyei Kuktában főtt gesztenye recept!
 
 2. Beleteszem egy olyan szűrőbe, aminek van egy kis lába, vagyis nem érintkezik az alján lévő gesztenye a kukta aljával. Beleteszem a kosarat a kuktába, felöntöm annyi vízzel, hogy éppen ellepje.
  
-    <p><img width="320" height="256" align="left" src="/img/full/df5712c5d5c8334aa0718fb8fdcde29c8a0e9de7.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/df5712c5d5c8334aa0718fb8fdcde29c8a0e9de7.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/fab1fee14b77ba4c621fc8d5ef599b65fa3d78f7.jpg"/></p><div style="clear: both"/>
 
 3. Rázárom a tetejét, elzárom a szelepet és 15 percre állítom be a főzési időt.
  

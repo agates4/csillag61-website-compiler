@@ -6,13 +6,13 @@ date: 2017-03-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2231087-kovaszos-rozskenyer" rel="Recipe source page"><img width="751" height="532" src="/img/full/161b017525dcd8fb9e11bb7098e1115e6d9f8fea.jpg"/></a></p>
 
 ## About
 Mennyei Kovászos rozskenyér recept! Jó az öreg a háznál. Most ezt a darabka szárított, öreg kovászt berobbantjuk.
 
->  
+> 3.5 óra 
 
 ## Ingredients
 

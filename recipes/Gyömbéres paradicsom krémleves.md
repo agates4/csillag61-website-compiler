@@ -6,13 +6,13 @@ date: 2017-02-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2142356-gyomberes-paradicsom-kremleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/29cde80d947426c2c6bd5dcb312d7a8e5cb8320e.jpg"/></a></p>
 
 ## About
 Mennyei Gyömbéres paradicsom krémleves recept! Lássuk, mi kerül ma a fazekunkba! :)
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 

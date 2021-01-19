@@ -6,13 +6,13 @@ date: 2020-02-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11663921-paradicsomos-curry-sok-zoldseggel" rel="Recipe source page"><img width="751" height="532" src="/img/full/423e9b3ecf7f442d2b56a6b69602a3d611961088.jpg"/></a></p>
 
 ## About
 Mennyei Paradicsomos curry sok zöldséggel recept! 
 
->  
+> 40 perc 
 
 ## Ingredients
 * **1 nagy fej** vöröshagyma
@@ -50,5 +50,5 @@ Mennyei Paradicsomos curry sok zöldséggel recept!
 
 5. Felforralom, ráteszek egy fedőt és lassú tűzön puhára főzőm kb 30 perc alatt.
  
-    <p><img width="320" height="256" align="left" src="/img/full/75975157cc05b78f12b51e8e72b2dab42196856c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/75975157cc05b78f12b51e8e72b2dab42196856c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/b5ed1cd6ba9695f07cd93988a51b5240805201d7.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/05621c10c95af20ea8ee9d15e1ef401ad7c982f1.jpg"/></p><div style="clear: both"/>
 

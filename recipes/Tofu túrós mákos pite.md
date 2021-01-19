@@ -6,13 +6,13 @@ date: 2017-03-18
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2252119-tofu-turos-makos-pite" rel="Recipe source page"><img width="751" height="532" src="/img/full/0ae85a1949c18ac02a0d21689043f5d4e466ab2d.jpg"/></a></p>
 
 ## About
 Mennyei Tofu túrós mákos pite recept! Réges-régi Oetkeres szakácskönyvemből készítettem az első túrós - mákos süteményt olajos - túrós tésztával. Később a  máktölteléket linzeres alapú tésztára tettem, aztán az évek múlásával kihagytam a lisztet, tojást, a túrót, a tejet, olajat, vajat és a cukrot. Lássuk,  mit sütöttünk ki ma a  túrós-mákos ötletből, mert a mákról viszont juszt sem mondunk le ;)
 
->  
+> 90 perc 
 
 ## Ingredients
 

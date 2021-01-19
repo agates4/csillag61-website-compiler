@@ -6,14 +6,14 @@ date: 2020-05-01
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11976144-csodalatos-kovasz-szolobol" rel="Recipe source page"><img width="751" height="532" src="/img/full/100144a4f526034b472e9fca417b4fd14b8ceefd.jpg"/></a></p>
 
 ## About
 Mennyei Csodálatos kovász szőlőből recept! Első kovászunkat merő kíváncsiságból készítettem el több, mint két évtizede. Egy részét a fagyasztóban őrzöm, mint aranytartalékot, amit időnkét fölélesztek és egy darabig használok, majd újra lefagyasztom a fölösleget. Ki is szárítottam és úgy, postáztam, 5 napos postai út után is  minden tökéletesen működött.
 Szóval az úgy kezdődött, hogy találtam egy nagyon jó kenyeres könyvet, ami leírta részletesen, hogyan lehet szőlőből kovászt készíteni. Egy percig nem gondolkodtam, vettem 50 dkg piros szőlőt és 50 dkg feketét, mert nem tudtam eldönteni, melyikkel is lássak hozzá. A legnagyobb csodálatomra sikeres volt a kísérletem mindkét fajta szőlővel.
 
->  
+> 14 nap 
 
 ## Ingredients
 
@@ -112,15 +112,15 @@ viz és kenyérliszt
 
 19. 15. napon elértük célunkat, és már süthetjük is a kenyerünket.
  
-    <p><img width="320" height="256" align="left" src="/img/full/34a669194b88f4caf20b6d3d0910c73853aca66b.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/34a669194b88f4caf20b6d3d0910c73853aca66b.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/f0ddab311308deb7cd61d330feee4de0dfc34cdf.jpg"/></p><div style="clear: both"/>
 
 20. Kovász etetés: itt még a kovász alszik.
  
-    <p><img width="320" height="256" align="left" src="/img/full/14f95186b5844179228d831b7b6e745c5c8d3797.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/14f95186b5844179228d831b7b6e745c5c8d3797.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/453f01068fda8a46b44676207f604e0ec67b1a45.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/68907157ae2415c34905047e1f266a24bdb846a8.jpg"/></p><div style="clear: both"/>
 
 21. Teljesen aktív kovász:
  
-    <p><img width="320" height="256" align="left" src="/img/full/152eb53b4a2b8f392f154a573815dde9512d4473.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/152eb53b4a2b8f392f154a573815dde9512d4473.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/67c144279179cf91c146886ce66ce9f4ac546da8.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/3ce9e5919094a18928a3ba811859f793fec68ec4.jpg"/></p><div style="clear: both"/>
 
 22. Szárított kovász:
  

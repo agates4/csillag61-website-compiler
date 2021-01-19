@@ -6,13 +6,13 @@ date: 2018-06-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5210784-naan-kenyer" rel="Recipe source page"><img width="751" height="532" src="/img/full/62166ace5cca9149544aa8c3d8f9e4bdac87620d.jpg"/></a></p>
 
 ## About
 Mennyei Naan kenyér recept! Gyors kenyér, currys ételek mellé nagyon szeretjük. A nyers, elkészített tészta csodálatosan eláll a hűtőben jó pár napig. Amikor szükséges, kiveszem, levágok belőle néhány szeletet, vékonyra elnyújtom, felmelegítem a serpenyőt és már sütöm is...
 
->  
+> 1 óra 
 
 ## Ingredients
 * **5-6 dl** teljes kiőrlésü fehér liszt

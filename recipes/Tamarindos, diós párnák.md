@@ -6,13 +6,13 @@ date: 2019-11-10
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11003050-tamarindos-dios-parnak" rel="Recipe source page"><img width="751" height="532" src="/img/full/3621a97319ba7a5b0332ba59bf25db36ff59b38b.jpg"/></a></p>
 
 ## About
 Mennyei Tamarindos, diós párnák recept! A tamarind az indiai, ázsiai konyha elmaradhatatlan része. Készítenek belőle szószt, curryk, chutneyk és egyéb indiai finomságok állandó hozzávalója, ízesítője. A gyümölcs  jellegzetes édeskés-fanyar ízét megkóstolva és azonnal megszeretve, mindjárt arra gondoltam, hogy a dió tölteléket feltétlenül tamarinddal fogom ízesíteni. Így is lett..
 
->  
+> 2 óra 
 
 ## Ingredients
 * **50 dkg** alakor/einkorn liszt
@@ -70,11 +70,11 @@ A csokimázhoz/elhagyható
 
 8. A diót összedolgozom a lekvárral és a tamarinddal. Kóstoljuk meg, és igazítsuk saját ízlésünkhöz.
  
-    <p><img width="320" height="256" align="left" src="/img/full/f096f5ed67be14a31461e35a49510cbd976d4e1b.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/f096f5ed67be14a31461e35a49510cbd976d4e1b.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/6d6ab9fe0faa6dab563e344a2dc1109d274ea2c8.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e6d7d1cda0f089e2da7a8243de909076402f2a6a.jpg"/></p><div style="clear: both"/>
 
 9. A tésztát a pihenő után elnyújtom, megkenem az olvasztott vajjal és feltekerem.
  
-    <p><img width="320" height="256" align="left" src="/img/full/ca12ac92b959391faa1f37081ac8361457fa15ff.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/ca12ac92b959391faa1f37081ac8361457fa15ff.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d4b801f7f44f286cb5a33e8ab3a45b7ef4e076ef.jpg"/></p><div style="clear: both"/>
 
 10. Balról középre, majd jobbról középre behajtom a két végét. Félbehajtom egymásra. Letakarom és 30 perces pihenő következik.
  
@@ -90,11 +90,11 @@ A csokimázhoz/elhagyható
 
 13. A tekercs tetején nagyjából egyforma nagyságu háromszögeket jelölök be és átvágom a tésztát a jelöléseknél. Ráteszem egy sütőpapírral kibélelt tepsire.
  
-    <p><img width="320" height="256" align="left" src="/img/full/6384411d1586c2d686111f718199b2aa5de500f4.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/6384411d1586c2d686111f718199b2aa5de500f4.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/32df33ad46f5420435878f64b28284e23b870bc4.jpg"/></p><div style="clear: both"/>
 
 14. A tészta másik felével is hasonlóan járok el: nyújtás, töltelék, felcsavarás, szeletelés, tepsire rakás.
  
-    <p><img width="320" height="256" align="left" src="/img/full/e2879c4c604a110f5c416e61689efa20b3231262.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/e2879c4c604a110f5c416e61689efa20b3231262.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/16851dbef1428832bac45c2b8045a858a136a2f5.jpg"/></p><div style="clear: both"/>
 
 15. Mielőtt a sütőbe tenném, megkenem egy kis növényi tejjel a diós párnákat.
  
@@ -102,7 +102,7 @@ A csokimázhoz/elhagyható
 
 16. Végül forró, előmelegített, légkeveréses sütőben, 200 C/375 F-on 25-30 perc alatt megsütöm. Jó étvágyat kívánok!!
  
-    <p><img width="320" height="256" align="left" src="/img/full/6accebd32ebc15050cfaac4d78f666539b4b11ba.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/6accebd32ebc15050cfaac4d78f666539b4b11ba.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/ff7bfaba80bbd9669722ac9a28b0ef97b43d0e78.jpg"/></p><div style="clear: both"/>
 
 17. Azért, hogy mindenki öröme teljes legyen, egy kis csokoládémázat is készíthetek, ha nagyon szükséges. ;) A mázhoz egyszerűen összeolvasztom a csokoládét, tejet és a kókuszolajat és rácsurgatom a párnákra.
  

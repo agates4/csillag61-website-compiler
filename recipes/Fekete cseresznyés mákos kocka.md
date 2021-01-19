@@ -6,13 +6,13 @@ date: 2017-06-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2887450-fekete-cseresznyes-makos-kocka" rel="Recipe source page"><img width="751" height="532" src="/img/full/c5141ea6977445dd6136395a29a336c4ddafdcc2.jpg"/></a></p>
 
 ## About
 Mennyei Fekete cseresznyés mákos kocka recept! Éljen a nyár, éljen a cseresznye és persze a mák...
 
->  
+> 120 perc 
 
 ## Ingredients
 

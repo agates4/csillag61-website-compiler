@@ -6,13 +6,13 @@ date: 2020-10-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13784379-kokuszos-babtorta" rel="Recipe source page"><img width="751" height="532" src="/img/full/d8a0e311c0b2a8dee6d0d98eb44c7e37327b1d8a.jpg"/></a></p>
 
 ## About
 Mennyei Kókuszos babtorta recept! 
 
->  
+> 2 óra 
 
 ## Ingredients
 * **50 dkg** szárazbab
@@ -41,7 +41,7 @@ A tálaláshoz
 
 2. A főtt, puha babot, a kókusztejet, ízesítőket, nyílgyökérlisztet, sütőport összeturmixolom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/a34c2a77ae94851477388b03c11fd73476372cd6.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/a34c2a77ae94851477388b03c11fd73476372cd6.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e57a62e9a2171286374dc1c6bc6e6e738edc5054.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d2c7446e54a855b465a3884938c64424dd071cf3.jpg"/></p><div style="clear: both"/>
 
 3. A fehércsokit kiolvasztom egy kis kókuszolajjal.
  
@@ -49,7 +49,7 @@ A tálaláshoz
 
 4. A végén adom hozzá az olvasztott, langyosra hűtött fehércsokit.
  
-    <p><img width="320" height="256" align="left" src="/img/full/f0804d4f855ad0857d3107402f6e45d75f0f8c34.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/f0804d4f855ad0857d3107402f6e45d75f0f8c34.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/231b4edad8a93b0ccf2a82f48cbf9704c59a2f52.jpg"/></p><div style="clear: both"/>
 
 5. Rövid ideig turmixolom, amig egyöntetű masszát nem kapok.
  
@@ -65,7 +65,7 @@ A tálaláshoz
 
 8. Akkor van készen, ha semmi nem tapad a közepébe szúrt tűre vagy hurkapálcikára.
  
-    <p><img width="320" height="256" align="left" src="/img/full/8de0e38880e4630b5689101dac7bb14639c90914.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/8de0e38880e4630b5689101dac7bb14639c90914.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/21f477048a37c6e6756a3b555cde2ca170230809.jpg"/></p><div style="clear: both"/>
 
 9. Míg sül a babtorta, megpirítom a kókuszreszeléket.
  
@@ -77,7 +77,7 @@ A tálaláshoz
 
 11. Rászórom a kókuszreszeléket és enyhén belenyomkodom a lekvárba. Készen is vagyunk. Hagyjuk langyosra hűlni, majd tegyük be a hűtőbe.
  
-    <p><img width="320" height="256" align="left" src="/img/full/12a392345169d6012f05156e13c464602a3be0cd.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/12a392345169d6012f05156e13c464602a3be0cd.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/cf53e1b6aef38e482eb62ea47242817350d509f2.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/5ac31d2bd51646214be42b917c2a71b69df74034.jpg"/></p><div style="clear: both"/>
 
 12. Mikor már teljesen kihűlt, tökéletesen szeletelhető.
  

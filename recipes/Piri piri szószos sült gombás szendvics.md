@@ -6,13 +6,13 @@ date: 2018-04-08
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4724430-piri-piri-szoszos-sult-gombas-szendvics" rel="Recipe source page"><img width="751" height="532" src="/img/full/24eada41039f3ac6e36500a2268a4b69bd850511.jpg"/></a></p>
 
 ## About
 Mennyei Piri piri szószos sült gombás szendvics recept! A piri piri swahili nyelven azt jelenti, hogy "paprika paprika", apró, rettenetesen csipős chilli paprika, amit madár szemnek neveznek Dél Afrikában. Családunk mind az öt férfi tagja nagyon szereti az erős, fűszeres ételeket, szerintük én mindig tehetnék egy kanállal többet ahhoz, hogy elnyerje a kellő fűszerezettséget. Nos, egy kicsit utánajártam, mi is lehet még erősebb, mint a Red Hot vagy Erős Pista, így bukkantam rá erre az érdekesnek hangzó chili szószra, ami kiválóan izesiti a BBQ-t, sült húsokat, zöldségeket  és most ezt a különleges szendvicset. A szósz egyik izletes házi változatát megtaláljátok receptjeim között ;)
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1/2 kilo** vastag tönkű friss gomba (ördögszekér, laska)

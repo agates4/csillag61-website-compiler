@@ -6,13 +6,13 @@ date: 2018-07-05
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5285845-paradicsomos-lima-bab-piritott-hagymaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/e8879a5aee94fb0df57a47815d6aabda76f49c74.jpg"/></a></p>
 
 ## About
 Mennyei Paradicsomos lima bab pirított hagymával recept! Ezt az óriási szemű, fehér lima paszulybabot vajbabnak is hívják, ami híven a nevéhez, mint a vaj, úgy olvad a szájban. Paradicsomos szószt kapott most és sok-sok pirított hagymát a változatosság kedvéért. A varázsfazekamban szeretem főzni, az instant pot-ban, lassú főzési módra állítva. Igaz ugyan, hogy majdnem egy napon át főzöget, de semmi tennivaló nincs vele és a nyár közepén sem fűti fel a lakást...
 
->  
+> fél óra+főzési idő 
 
 ## Ingredients
 

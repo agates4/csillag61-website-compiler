@@ -6,13 +6,13 @@ date: 2018-06-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5238792-kaposzta-kremleves-piritott-fokhagymas-gombaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/c44a1f353ccd41e446156521124c4132637db325.jpg"/></a></p>
 
 ## About
 Mennyei Káposzta krémleves pirított, fokhagymás gombával recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 

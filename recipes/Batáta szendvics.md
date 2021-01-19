@@ -6,13 +6,13 @@ date: 2018-04-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4767825-batata-szendvics" rel="Recipe source page"><img width="751" height="532" src="/img/full/1655c75f8dc7e81432aa12c6328e39184c6b0ea2.jpg"/></a></p>
 
 ## About
 Mennyei Batáta szendvics recept! A kenyérpirító csodálatosan megsüti  a batáta szeleteket. Gyors, kiadós reggelit vagy ebédet varázsolhatunk pillanatok alatt!
 
->  
+> 30 perc 
 
 ## Ingredients
 * **1 db** nagy batáta

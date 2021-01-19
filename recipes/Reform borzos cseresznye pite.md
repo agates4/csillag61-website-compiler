@@ -6,13 +6,13 @@ date: 2014-01-30
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1926798-reform-borzos-cseresznye-pite" rel="Recipe source page"><img width="751" height="532" src="/img/full/3474b904a81c7ef27d68520c2de95f1e44aa747f.jpg"/></a></p>
 
 ## About
 Mennyei Reform borzos cseresznye pite recept! Finom édes cseresznye vagy meggy töltelékkel szoktuk késziteni. Desszertnek vagy reggelire is kiváló. 1 bögre = 2.5 dl, 1 evőkanál = 15 ml.
 
->  
+> 80 perc 
 
 ## Ingredients
 

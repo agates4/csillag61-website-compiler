@@ -6,14 +6,14 @@ date: 2017-06-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2737230-dios-bananos-orias-muffin" rel="Recipe source page"><img width="751" height="532" src="/img/full/fbb5a37f90df79cdb3afaf46827e30d654abd22e.jpg"/></a></p>
 
 ## About
 Mennyei Diós, banános óriás muffin recept! Nagyon finom, tápláló reggeli, amit gyorsan el is készíthetünk néhány perces előkészülettel. 
 1 evőkanál 15 ml, 1 teáskanál 5 ml. Az 1 db tojást  helyettesíthetjük darált lenmag és viz keverékével, vagyis lenmag "tojással" vagy pedig 3 evőkanál aquafabával, a csicseriborsó főzőlevével.
 
->  
+> 10 perc 
 
 ## Ingredients
 * **375 ml** teljes kiörlésű búzaliszt

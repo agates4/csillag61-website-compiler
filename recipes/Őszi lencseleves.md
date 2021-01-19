@@ -6,13 +6,13 @@ date: 2019-09-25
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/10706707-oszi-lencseleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/59ddae24610915aca3fe3427887907c85b7e6eca.jpg"/></a></p>
 
 ## About
 Mennyei Őszi lencseleves recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **2.5 dl** száraz zöld lencse
@@ -32,7 +32,7 @@ Mennyei Őszi lencseleves recept!
 
 2. A gomba tönkjét kitöröm, vékony szeletekre vágom, a piruló hagymára dobom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/baea63052893b86bb1092676fa2f5626a2d85847.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/baea63052893b86bb1092676fa2f5626a2d85847.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/4836b2372daaa67323770ae4c028ec352ca28856.jpg"/></p><div style="clear: both"/>
 
 3. A paradicsomot nagyobb cikkekre vágom, megy a gomba után.
  

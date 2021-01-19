@@ -6,13 +6,13 @@ date: 2020-10-07
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13784329-csokolades-babtorta-lima-babbol" rel="Recipe source page"><img width="751" height="532" src="/img/full/18e05826105e232e2916dae4c34be6d812a5600b.jpg"/></a></p>
 
 ## About
 Mennyei Csokoládés babtorta lima babból recept! Rém egyszerű elkészíteni és csodálatosan finom! 
 
->  
+> 2 óra 
 
 ## Ingredients
 * **20 dkg** nagy szemű szárazbab
@@ -34,19 +34,19 @@ tejszínhab
 
 1. A babot a sütés napja előtti este beáztatom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/ad1f2ce0f97437f8f6186efd6b051e57e378f5cc.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/ad1f2ce0f97437f8f6186efd6b051e57e378f5cc.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e0ceb94998c7e0323961c377682d5245a2b835c2.jpg"/></p><div style="clear: both"/>
 
 2. Másnap leöntöm róla az áztató vizet, felöntöm annyi tiszta vízzel, hogy ellepje és fedő alatt puhára párolom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/9d6c54317f7d0deebb1eadc935147c9674bd1073.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/9d6c54317f7d0deebb1eadc935147c9674bd1073.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/eb7c026a321bb2869516260516fa33bdf0d4104f.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/9966cd7c79979e4c37b343819ef9f8bb911f1fa8.jpg"/></p><div style="clear: both"/>
 
 3. A csokoládét lereszelem.
  
-    <p><img width="320" height="256" align="left" src="/img/full/5c3e7e01a4800bf9204f0682d8e39f3d7ed34b74.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/5c3e7e01a4800bf9204f0682d8e39f3d7ed34b74.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/08faaaf1fc6383c30f742b430559fa976e3fd4f6.jpg"/></p><div style="clear: both"/>
 
 4. A sárgáját a cukorral, citromlével kikavarom, hozzáadom a vaníliát.
  
-    <p><img width="320" height="256" align="left" src="/img/full/375dbebd007d4d896c980391e0140c70410def79.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/375dbebd007d4d896c980391e0140c70410def79.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/c5ed9fa3aeb948bdf79ff638e6f27313af031e64.jpg"/></p><div style="clear: both"/>
 
 5. A kihűlt, ledarált vagy átpasszírozott babban elkeverem a sütőport.
  
@@ -62,11 +62,11 @@ tejszínhab
 
 8. 350 F-on, azaz 177 C-on 40 percig, tűpróbáig sütöttem előmelegített sütőben. A tepsiből átfordítottam egy rácsra hűlni.
  
-    <p><img width="320" height="256" align="left" src="/img/full/1d578f6357b9a6235443ed3abe3282abc751700b.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/1d578f6357b9a6235443ed3abe3282abc751700b.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/2d57703fe34101550f5ba5df4537886ce2ef2adb.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e864b34a3dd84f60bcf6e31201e1c087651c9db7.jpg"/></p><div style="clear: both"/>
 
 9. A tejet és a csokit összemelegítettem és ezzel vontam be az egész tortát.
  
-    <p><img width="320" height="256" align="left" src="/img/full/ac1f4e9f4c091879d6fded60a917ba17b63e1c1c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/ac1f4e9f4c091879d6fded60a917ba17b63e1c1c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/c9eee6082c5599435b5646690729df585a363a0e.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/1b13dac6d898e6966de236bf48e28d62f2f737ca.jpg"/></p><div style="clear: both"/>
 
 10. Reszelt fehércsokival díszítettem.
  
@@ -74,7 +74,7 @@ tejszínhab
 
 11. Már langyosan szeleteltem, a tejszín másnapig váratott magára...
  
-    <p><img width="320" height="256" align="left" src="/img/full/01493157c7019c6e2d86f73398368af063e7142a.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/01493157c7019c6e2d86f73398368af063e7142a.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/43db82f2fe39515fc6fc0e49cb93bb561f7a5392.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/406efc37ead3e715c59f055a21d9a44102a69264.jpg"/></p><div style="clear: both"/>
 
 12. Jó szívvel ajánlom mindenkinek ezt a csodálatos babos tortát.
  

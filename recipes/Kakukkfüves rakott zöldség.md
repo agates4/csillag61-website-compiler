@@ -6,13 +6,13 @@ date: 2018-04-07
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4714215-kakukkfuves-rakott-zoldseg" rel="Recipe source page"><img width="751" height="532" src="/img/full/8ff8fdb6b2657bdeef313e9f9f94ae82300d17a2.jpg"/></a></p>
 
 ## About
 Mennyei Kakukkfüves rakott zöldség recept! A fiaim nagy kedvence,  sokszor készítem, mert laktató, könnyű, hamar elkészül.
 
->  
+> 90 perc 
 
 ## Ingredients
 

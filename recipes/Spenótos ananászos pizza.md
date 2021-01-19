@@ -6,13 +6,13 @@ date: 2017-03-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2219436-spenotos-ananaszos-pizza" rel="Recipe source page"><img width="751" height="532" src="/img/full/7568bdfe169ebc13ced3f8b3be2ef68ddb809047.jpg"/></a></p>
 
 ## About
 Mennyei Spenótos ananászos pizza recept! Ez a pizza nem olyan nagy, mint amilyennek látszik, egy szempillantás alatt eltűnik :)
 
->  
+> 120 perc 
 
 ## Ingredients
 

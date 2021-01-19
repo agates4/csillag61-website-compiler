@@ -6,13 +6,13 @@ date: 2014-02-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1926797-quinoaval-toltott-padlizsan-tekercs" rel="Recipe source page"><img width="751" height="532" src="/img/full/bf6415ced57585447996e23519611f7b07b63ca9.jpg"/></a></p>
 
 ## About
 Mennyei Quinoával töltött padlizsán tekercs recept! Ha eddig nem kedveltük a padlizsánt, ezzel a recepttel egyenesen imádni fogjuk! A quinoa helyett használhatunk barna rizst vagy vadrizst is.
 
->  
+> 70 perc 
 
 ## Ingredients
 

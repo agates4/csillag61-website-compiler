@@ -6,13 +6,13 @@ date: 2018-02-18
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4441747-pb-szendvics" rel="Recipe source page"><img width="751" height="532" src="/img/full/09bd3be0491dd67ecd71f1667e6669746ff29554.jpg"/></a></p>
 
 ## About
 Mennyei PB szendvics recept! A mogyorókrémes szendvics új értelmet nyert a meleg levegős sütőben. Csodálatos a végeredmény 5 perc alatt, finom, ropogós lesz a kifli, a banán éppen csak átmelegszik és a mogyorókrém, különösen, ha házi készítmény, fenségessé varázsolja a szendvicset.
 
->  
+> 10 perc 
 
 ## Ingredients
 * **1 db** nagy teljes kiörlésű kifli

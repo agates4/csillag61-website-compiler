@@ -6,13 +6,13 @@ date: 2017-06-10
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2776555-meggyes-makos-kocka" rel="Recipe source page"><img width="751" height="532" src="/img/full/4575daa583dd33205454e8799dca46bc47dd3d34.jpg"/></a></p>
 
 ## About
 Mennyei Meggyes mákos kocka recept! A kevert mákos egyik változata, amit pillanatok alatt összeállíthatunk. Én egy erős turmixgépben szoktam összedarálni az összes hozzávalót a graham keksz és a meggy kivételével. A meggy izét hagyom érvényesülni, nem cukrozom le, a datolya elég édessé teszi mégis  ezt a finom és tápláló süteményt.
 
->  
+> 75 perc 
 
 ## Ingredients
 

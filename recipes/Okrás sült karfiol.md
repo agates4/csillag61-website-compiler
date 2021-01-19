@@ -6,13 +6,13 @@ date: 2018-06-15
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5162290-okras-sult-karfiol" rel="Recipe source page"><img width="751" height="532" src="/img/full/9086c3fe7c7a783d3fbd4f970e053b359d467851.jpg"/></a></p>
 
 ## About
 Mennyei Okrás sült karfiol recept! Sikerült az okrát megszelídíteni egy roppant egyszerű trükkel:  zöld citrom levét kell rácsepegtetni főzés közben, és az elveszi a nyálkásságát.  A kale vagy kél, igaz ugyan, hogy hasonlít a kelkáposzta nevére, de nem kelkáposzta, viszont rokonságban van vele.  A dinoszaurusz vagy fekete kél, a fodros levelű vagy a vörös orosz fajta, mind nagyon könnyen megterem a saját kiskertünkben is . Csak jót tudok róla mondani :). Rendkívül egészséges  kiegészítője étrendünknek. Szeretem felhasználni levesbetétnek, chipsnek, gyümölcsös italokhoz vagy ,mint ebben a receptben körítésként a sült karfiol mellé.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **1 kis fej** karfiol

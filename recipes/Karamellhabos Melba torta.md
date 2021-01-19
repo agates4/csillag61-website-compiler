@@ -6,13 +6,13 @@ date: 2020-05-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/12686682-karamellhabos-melba-torta" rel="Recipe source page"><img width="751" height="532" src="/img/full/e2caaab56909159ab24c3f8595f77e358c382a6e.jpg"/></a></p>
 
 ## About
 Mennyei Karamellhabos Melba torta recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 
@@ -50,7 +50,7 @@ A habos gyümölcshöz
 
 4. Az őszibarackot kisebb darabokra vágjuk, az ecetet rácsepegtetjük a barackra.
  
-    <p><img width="320" height="256" align="left" src="/img/full/862361d642a2d0d42601e57f9ec38307cba64865.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/862361d642a2d0d42601e57f9ec38307cba64865.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/78d9f407d9f2eb872c656a83c613dd04a5214f56.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/94412a1abb405df3eb10b6fe5cd17f8d677748f6.jpg"/></p><div style="clear: both"/>
 
 5. A málnát megmossuk és jól lecsepegtetjük.
  
@@ -62,7 +62,7 @@ A habos gyümölcshöz
 
 7. A 2.5 dl tejszínt habbá verjük, a mascarponét fellazítjuk.
  
-    <p><img width="320" height="256" align="left" src="/img/full/23467649c10f19402138c75992aba1239e00c50a.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/23467649c10f19402138c75992aba1239e00c50a.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/577ace749ab6bc30647d93725e1d2baefd702bbe.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/3ea1c5dec236cc553c1613f5d0f09976b0c43ae2.jpg"/></p><div style="clear: both"/>
 
 8. A zselatint kiolvasztjuk.
  
@@ -82,5 +82,5 @@ A habos gyümölcshöz
 
 12. Egy kést körbefuttatok a karima körül és leveszem a forma oldalát. Készen is vagyunk:))
  
-    <p><img width="320" height="256" align="left" src="/img/full/4251c98ab97d7be306ed35be81dde43613d7089a.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/4251c98ab97d7be306ed35be81dde43613d7089a.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/823ebcdd0cec06382e6ea27370075fe2b8a32ffe.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/3f7298017ddd2d86d0b421ee84963e64b0dc5c77.jpg"/></p><div style="clear: both"/>
 

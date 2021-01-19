@@ -6,13 +6,13 @@ date: 2020-05-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/12686708-ropogos-foszlos-kifli" rel="Recipe source page"><img width="751" height="532" src="/img/full/9934b0be42f7e68e0a07837be8bec69c9bbdc2b1.jpg"/></a></p>
 
 ## About
 Mennyei Ropogós, foszlós kifli recept! 
 
->  
+> 3 óra 
 
 ## Ingredients
 * **50 dkg** fehér liszt
@@ -36,7 +36,7 @@ Mennyei Ropogós, foszlós kifli recept!
 
 3. Miután a tészta jól megkelt, 8 egyenlő részre vágtam, egyenként zsemle formára gömbölyítettem, letakartam és még egy órát kelt.
  
-    <p><img width="320" height="256" align="left" src="/img/full/1cd86641de18db3549a8456bddd568c33611eb4e.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/1cd86641de18db3549a8456bddd568c33611eb4e.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/3ece6683e99f28e31c29d0e79ae9b035a920d1a2.jpg"/></p><div style="clear: both"/>
 
 4. A duplájára kelt kis gömböket háromszögletű darabokra nyújtottam el, és a szélesebb oldalánál fogva felgurítottam.
  
@@ -44,7 +44,7 @@ Mennyei Ropogós, foszlós kifli recept!
 
 5. Egymástól nagy távolságra tettem a kifliket, letakartam és még egy fél órát keltek összesen.
  
-    <p><img width="320" height="256" align="left" src="/img/full/92acae697c2a120d005838ee3423e79f8e21c3cc.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/92acae697c2a120d005838ee3423e79f8e21c3cc.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/1b60c9fe8461c82906bc23134b11bb44d2ea61ab.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/adaa13e9c891689e1c43ba024f625291678d2943.jpg"/></p><div style="clear: both"/>
 
 6. A kelési idő 20. percében kapcsoltam be a sütőt 425F /230C-ra, a sütő aljában egy tepsiben ujjnyi vízzel. 12 perc alatt be is melegedett és a víz is szépen párolgott.
  
@@ -60,11 +60,11 @@ Mennyei Ropogós, foszlós kifli recept!
 
 9. Összesen 26 perc alatt ropogósra sültek a pille könnyű, foszlós kiflik mindenki örömére.
  
-    <p><img width="320" height="256" align="left" src="/img/full/08432f028edbea9e23755dc2472716659a1e40e6.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/08432f028edbea9e23755dc2472716659a1e40e6.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d7daf00c2d727ed39ffd7718acb061c8cb22eb26.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/f8e982b6667334311611942ac838d38dfc064635.jpg"/></p><div style="clear: both"/>
 
 10. None
  
-    <p><img width="320" height="256" align="left" src="/img/full/9ae070a9705899ec9e1d412fdb9e29758b5436c9.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/9ae070a9705899ec9e1d412fdb9e29758b5436c9.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/5da429cf50e66d955c076c1c654e4cc7ffc43476.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/29282c0108ef14446184b1a4989ddc0765265029.jpg"/></p><div style="clear: both"/>
 
 11. Ehhez a recepthez a képen látható lisztet használtam.
  

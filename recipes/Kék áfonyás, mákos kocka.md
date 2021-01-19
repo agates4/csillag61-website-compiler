@@ -6,13 +6,13 @@ date: 2017-08-25
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/3162024-kek-afonyas-makos-kocka" rel="Recipe source page"><img width="751" height="532" src="/img/full/208a58be57824ab4769536cb799c17bfae8730da.jpg"/></a></p>
 
 ## About
 Mennyei Kék áfonyás, mákos kocka recept! A kevert mákos másik változata, amit nagyon szeretünk. Omlós, tápláló süti, olaj, tojás vagy másfajta zsiradék hozzáadása nélkül. Igazi csoda...
 
->  
+> 85 perc 
 
 ## Ingredients
 * **25 dkg** mandula liszt

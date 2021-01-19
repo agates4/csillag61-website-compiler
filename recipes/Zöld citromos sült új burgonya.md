@@ -6,13 +6,13 @@ date: 2018-04-07
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4713887-zold-citromos-sult-uj-burgonya" rel="Recipe source page"><img width="751" height="532" src="/img/full/154a3fa1ab1c342b720c006fd42e7e2361817374.jpg"/></a></p>
 
 ## About
 Mennyei Zöld citromos sült új burgonya recept! Ez a sült krumpli mindig kisegít, ha gyorsan kell valami finom köretet elővarázsolnom. Arról nem is beszélve, ha forró levegős sütőben (Air Fryer) frissülnek fel az előre elkészített burgonya szeletek, micsoda illat járja be a konyhát:)
 
->  
+> 1 óra 
 
 ## Ingredients
 * **2 kg** új burgonya

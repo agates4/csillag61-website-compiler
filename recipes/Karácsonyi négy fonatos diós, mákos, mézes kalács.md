@@ -6,13 +6,13 @@ date: 2020-12-20
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14263894-karacsonyi-negy-fonatos-dios-makos-mezes-kalacs" rel="Recipe source page"><img width="751" height="532" src="/img/full/25ee3343a9ca4cc5d932a1ed0e455cd99cf6076a.jpg"/></a></p>
 
 ## About
 Mennyei Karácsonyi négy fonatos diós, mákos, mézes kalács recept! 
 
->  
+> 3 óra 
 
 ## Ingredients
 
@@ -58,7 +58,7 @@ Méz a tetejére
 
 4. A diótölteléket is megfelezzük és a két másik lapot megtöltjük vele.
  
-    <p><img width="320" height="256" align="left" src="/img/full/900f166325121bede1a1520627fc0803451783ce.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/900f166325121bede1a1520627fc0803451783ce.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/0553acf599fda2fabfa6c6cc769c4eb0250a78c1.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e55a431b40665baaf785f3d4bbded3c04b52da00.jpg"/></p><div style="clear: both"/>
 
 5. A négy rudat az egyik oldalon, a végüknél összenyomjuk, A négyes fonás egyetlen szabályát követtem, vagyis mindig a jobb oldalon lévő szálat emeltem át a második szálon, ugyanazt a szálat a harmadik szál alá bujtattam, majd a 4. szál fölé. A következő lépés újból jobb szélső szállal kezdődik és a 4.-nél végződik. Ezt ismételgetjük, amíg készen nem vagyunk.
  
@@ -70,7 +70,7 @@ Méz a tetejére
 
 7. Egy kikent formába beletesszük. Letakarjuk és kelesztjük.
  
-    <p><img width="320" height="256" align="left" src="/img/full/e2818020af45997e8471a43607dd2cb0ded441dd.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/e2818020af45997e8471a43607dd2cb0ded441dd.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/8112fb511d74ab9f24018d4d85f5b7a16dc08957.jpg"/></p><div style="clear: both"/>
 
 8. Amikor már szemmel láthatóan megemelkedett a kalács, betesszük a sütőbe.
  
@@ -78,9 +78,9 @@ Méz a tetejére
 
 9. 180C-356F fokon 60 perc alatt sült meg előmelegített sütőben.
  
-    <p><img width="320" height="256" align="left" src="/img/full/6c771bb425234e6bad37b89e35223756293ed1f1.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/6c771bb425234e6bad37b89e35223756293ed1f1.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/c2207428c8c9ed93af3c61876c82b6db42fa2873.jpg"/></p><div style="clear: both"/>
 
 10. Még forrón rácsurgatok egy kis mézet és egy ecsettel jól bekenem a kalács tetejét.
  
-    <p><img width="320" height="256" align="left" src="/img/full/4eea0d8f94babb6f2793f946d7b9930addb2a47e.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/4eea0d8f94babb6f2793f946d7b9930addb2a47e.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/f733a8246f438eca0bbeaf38c2076bab9d786f3e.jpg"/></p><div style="clear: both"/>
 

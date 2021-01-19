@@ -6,13 +6,13 @@ date: 2020-08-17
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13436780-rikottas-tejfolos-lepeny" rel="Recipe source page"><img width="751" height="532" src="/img/full/a280b89c59a82eb8bbc91e6cc682228bf65e3c86.jpg"/></a></p>
 
 ## About
 Mennyei Rikottás, tejfölös lepény recept! Nagymama  Vásárhelyi lepénye nyomán készítettem el ezt a rikottás lepényt, nagyon kevés változtatással.
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 
@@ -47,7 +47,7 @@ A tetejére
 
 4. A tölteléket elsimítom egyenletesen a tészta tetején, kihagyok egy másfél ujjnyi csíkot körben. A tejfölt egy kicsit kikeverem és rákenem a rikotta töltelék tetejére.
  
-    <p><img width="320" height="256" align="left" src="/img/full/3dfd2792c1655399c384d5d5ed5827ea498eb6d8.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/3dfd2792c1655399c384d5d5ed5827ea498eb6d8.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/31312b86268a8cd970da07e8a9b4691722ee93fd.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/9454f19172579a1a5ccb9fae8faa8f5469900d49.jpg"/></p><div style="clear: both"/>
 
 5. Az üresen hagyott csíkot felhajtom körben, egy kicsit ráhajtva a túrós-tejfeles töltelékre, hogy sülés közben ne csurogjon ki a töltelék.
  
@@ -59,7 +59,7 @@ A tetejére
 
 7. Beteszem a lepényt a sütőbe és 35-40 perc alatt szép pirosra sütöm.
  
-    <p><img width="320" height="256" align="left" src="/img/full/3143aa1de626ce5a5a01d3192266db735be7e09e.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/3143aa1de626ce5a5a01d3192266db735be7e09e.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/acab372cc55e9546ad5bb2f0b94227f3c297aa67.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e405d0d7c99cc4dd753b8f7a4a8a3951ae59831b.jpg"/></p><div style="clear: both"/>
 
 8. Készen is vagyunk :))
  

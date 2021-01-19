@@ -6,13 +6,13 @@ date: 2018-07-05
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5285599-zoldbabos-laskagomba-curry-szoszban" rel="Recipe source page"><img width="751" height="532" src="/img/full/8e088ff7c61fbc3ebfcd33319b35f667e5892f54.jpg"/></a></p>
 
 ## About
 Mennyei Zöldbabos laskagomba curry szószban recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **9 db** nagy, vastag tönkű laskagomba

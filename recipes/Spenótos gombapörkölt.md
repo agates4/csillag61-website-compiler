@@ -6,13 +6,13 @@ date: 2018-06-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5156954-spenotos-gombaporkolt" rel="Recipe source page"><img width="751" height="532" src="/img/full/8e83b59a499cd728332839eb834541824637fe4d.jpg"/></a></p>
 
 ## About
 Mennyei Spenótos gombapörkölt recept! A rasam fűszerkeverék különleges, csípős aromát ad ennek a  gombapörköltnek. Sült zöldségekkel kiváló önálló étel. 
 
->  
+> 40 perc 
 
 ## Ingredients
 * **1 kg** laskagomba

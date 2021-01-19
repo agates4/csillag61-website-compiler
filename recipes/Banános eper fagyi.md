@@ -6,13 +6,13 @@ date: 2014-01-31
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1923998-bananos-eper-fagyi" rel="Recipe source page"><img width="751" height="532" src="/img/full/759f0cce9eb4ccdb4691bb1d5d2f2a70a74b4989.jpg"/></a></p>
 
 ## About
 Mennyei Banános eper fagyi recept! Ettetek már olyan fagyit, ami kifejezetten és szó szerint vérré vált bennetek? Nos, itt van egy ilyen finomság. A szójatej helyett használhatunk kókusztejet vagy mandulatejet is.
 
->  
+> 10 perc 
 
 ## Ingredients
 * **4 db** banán (túlérett)

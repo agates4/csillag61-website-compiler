@@ -6,13 +6,13 @@ date: 2014-01-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925247-sargarepa-cekla-torta-citromos-sutotok-kremmel" rel="Recipe source page"><img width="751" height="532" src="/img/full/b1ce693d6ce9488b22a9b9d04238c47975d070e1.jpg"/></a></p>
 
 ## About
 Mennyei Sárgarépa - cékla torta citromos sütőtök krémmel recept! Ha szeretitek a NAGYON finomat, feltétlenül ki kell próbálnozok családunk egyik kedvenc süteményét, a répa-cékla tortát. 1 bögre = 2,5 dl.
 
->  
+> 80 perc 
 
 ## Ingredients
 

@@ -6,13 +6,13 @@ date: 2017-03-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2214786-malnas-eper-joghurt" rel="Recipe source page"><img width="751" height="532" src="/img/full/d5a2ae4e3457a49d616347ac99018dd264aa83d4.jpg"/></a></p>
 
 ## About
 Mennyei Málnás eper joghurt recept! Egy pohár vitamin már igazán ránk fér! :)
 
->  
+> 15 perc 
 
 ## Ingredients
 * **600 g** eper

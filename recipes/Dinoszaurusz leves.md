@@ -6,13 +6,13 @@ date: 2017-04-04
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2350778-dinoszaurusz-leves" rel="Recipe source page"><img width="751" height="532" src="/img/full/cd1ae9871b8d69e32a709d20e4cc11c7a8cdac8c.jpg"/></a></p>
 
 ## About
 Mennyei Dinoszaurusz leves recept! Két okból is dinoszaurusz a legjobb elnevezés. Egyik oka az, hogy dinoszaurusz káléval készül, másik oka, ha megesszük, olyan erősek leszünk, mint a dinoszaurusz. Igaz vagy nem igaz, járjunk utána együtt. :)
 
->  
+> 35 perc 
 
 ## Ingredients
 * **4 db** bojtorjángyökér

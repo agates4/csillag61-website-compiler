@@ -6,13 +6,13 @@ date: 2017-02-09
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1927211-kelt-tojas-nelkuli-palacsinta-aquafabaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/294798ed3626fbc3bb96643166ffffcad62f4ceb.jpg"/></a></p>
 
 ## About
 Mennyei Kelt tojás nélküli palacsinta aquafabaval recept! A szárazbab vagy a csicseri borsó főzőleve, az AQUAFABA egy csodálatos dolog. Hidegen kemény habbá felverhetjük édességekhez, felfújtakhoz vagy felverés nélküli folyékony formában 3 kanállal azaz 45 ml-rel 1 tojást helyettesíthetünk vele. Nekem a legjobban a csicseriborsó vált be, 1 pohár száraz borsóhoz 3 pohár vizet adok és a lassú főzőben fűszerek, áztatás és szódabikarbóna nélkül megfőzőm. Hidegen egy éjszakán át hagyom kihűlni, másnap leszűröm, és ezt a szűrt levet használom fel. A konzerv csicseriborsót leszűröm és ezt a behűtött levet verem habbá, lehetőleg natúr, hozzáadott só és fűszerektől menteset vásároljunk.
 
->  
+> 75 perc 
 
 ## Ingredients
 * **300 g** teljes kiőrlésű búzaliszt

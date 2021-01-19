@@ -6,13 +6,13 @@ date: 2020-11-09
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14009154-padlizsankrem" rel="Recipe source page"><img width="751" height="532" src="/img/full/2c1f03a4b9714c0aa913c86617accd4ffbea7d21.jpg"/></a></p>
 
 ## About
 Mennyei Padlizsánkrém recept! 
 
->  
+> 1 óra 10 perc 
 
 ## Ingredients
 * **4 db** nagy padlizsán
@@ -36,7 +36,7 @@ Mennyei Padlizsánkrém recept!
 
 3. A megsült padlizsánokból kikanalazom a húsát, lecsepegtetem a levét. A tahinit, olíva olajat, fűszereket beleteszem egy turmixgépbe a padlizsánnal együtt és pépesre-krémesre turmixolom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/ca2abc07dbd0bd92c59b2595b28eeeb73430f37f.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/ca2abc07dbd0bd92c59b2595b28eeeb73430f37f.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/a931f8c99c6f83a86c664fb351c09c45ed468ad5.jpg"/></p><div style="clear: both"/>
 
 4. Készen is vagyunk, nagyon finom mártogatós a sült vagy párolt zöldségekhez.
  

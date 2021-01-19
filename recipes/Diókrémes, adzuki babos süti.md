@@ -6,13 +6,13 @@ date: 2020-05-03
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/12394485-diokremes-adzuki-babos-suti" rel="Recipe source page"><img width="751" height="532" src="/img/full/d8ec83f6ac2e235a3c16fe25001c0e5587a02157.jpg"/></a></p>
 
 ## About
 Mennyei Diókrémes, adzuki babos süti recept! 
 
->  
+> 90 perc 
 
 ## Ingredients
 
@@ -39,15 +39,15 @@ A diós krémhez
 
 2. Az összes, csokoládés tésztához való anyagot a babbal együtt összekeverem egyöntetű anyaggá.
  
-    <p><img width="320" height="256" align="left" src="/img/full/246b9f0de2ce2250993ad10c30aa79d3e614f918.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/246b9f0de2ce2250993ad10c30aa79d3e614f918.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/46a9a79c3c0e2c29ca809e3bf7c8a0f2e499d77d.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/def400cf97dcc4b5079937507607d4acbecfd477.jpg"/></p><div style="clear: both"/>
 
 3. 350F/180C-ra bemelegített sütőben 50-60 perc alatt tűpróbáig megsütöm.
  
-    <p><img width="320" height="256" align="left" src="/img/full/5302637efac69d1c53392652e158dd68341378e7.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/5302637efac69d1c53392652e158dd68341378e7.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/84d2c0aa7c05244ae93452449eaed0962dd72748.jpg"/></p><div style="clear: both"/>
 
 4. Elkészítem a diós krémet: a fehér csokoládéra ráöntöm a tejet és összeolvasztom a kettőt a mikróban.
  
-    <p><img width="320" height="256" align="left" src="/img/full/b208fbe5e1f1ba8375184bda6ed9bc3e7ccd209c.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/b208fbe5e1f1ba8375184bda6ed9bc3e7ccd209c.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/9a98d3e670e777ffbda1d8bd958c8abf386e7998.jpg"/></p><div style="clear: both"/>
 
 5. A krémhez kimért diót krémesre turmixolom a langyos fehércsokival.
  
@@ -55,7 +55,7 @@ A diós krémhez
 
 6. A kihűlt babos sütire rákenem a diós krémet és megszórom darált dióval.
  
-    <p><img width="320" height="256" align="left" src="/img/full/12d9bbc8244ca8b3744bf6e5b5f5cf72bbf66f75.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/12d9bbc8244ca8b3744bf6e5b5f5cf72bbf66f75.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/9905a66b9659d2b9623a769587e086f477b8cf7f.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/6bcc41c69d2d2c5257676e83bdf2c856744e9f50.jpg"/></p><div style="clear: both"/>
 
 7. Kockára vágva kínálom. Nagyon finom :) !
  

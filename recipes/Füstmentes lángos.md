@@ -6,13 +6,13 @@ date: 2019-11-10
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/10998278-fustmentes-langos" rel="Recipe source page"><img width="751" height="532" src="/img/full/c32e29243c2c01232ac4d9db914ea13b0764b70a.jpg"/></a></p>
 
 ## About
 Mennyei Füstmentes lángos recept! Nincs füst, égetett szag és a tűzriasztó vagy füstjelző sem fog bekapcsolni. A kókuszolaj magas füstpontjának köszönhetöen csak kellemes, étvágygerjesztő lángos illat fogja bejárni a lakást.  ;)
 
->  
+> 2 óra 
 
 ## Ingredients
 * **25 dkg** fehérliszt

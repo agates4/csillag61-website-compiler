@@ -6,13 +6,13 @@ date: 2020-05-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/12625940-epres-habos-pite" rel="Recipe source page"><img width="751" height="532" src="/img/full/88175aeff0a80cfb9e7385f47d9542cd690e8faa.jpg"/></a></p>
 
 ## About
 Mennyei Epres, habos pite recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 
@@ -43,11 +43,11 @@ A tetejére
 
 3. A tésztához összegyúrom a mandulát, kókuszolajat és juharszirupot.
  
-    <p><img width="320" height="256" align="left" src="/img/full/aac614ad4a5d4e3f127c8334126cfcf8d3f3bc53.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/aac614ad4a5d4e3f127c8334126cfcf8d3f3bc53.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/2d757e85be7ee35fe8d2f5c3e4a63bfd5e62c8a4.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/4340abf64a254260a049c83a186e8946f9c4e1d1.jpg"/></p><div style="clear: both"/>
 
 4. Belenyomkodom a formába, megszurkálom egy villával.
  
-    <p><img width="320" height="256" align="left" src="/img/full/3997ed7402d1946ff65df605f7fd70bbf3fc7e24.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/3997ed7402d1946ff65df605f7fd70bbf3fc7e24.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/2527383ba515ff4299ec950428585df543bfeec1.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/565f83d0a4f7b30939eb40a94b06b4334e9d9bf5.jpg"/></p><div style="clear: both"/>
 
 5. A sütőt bemelegítem 175C-ra és a pite tésztát megsütöm kb 15 - 20 perc alatt. Tegyünk rá egy darab fóliát, ha gyorsan pirulna.
  
@@ -63,5 +63,5 @@ A tetejére
 
 8. Ráteszem a csokis epreket és pár órára hűtőbe teszem tálalás előtt.
  
-    <p><img width="320" height="256" align="left" src="/img/full/6255c70292be462a240a2403e6a04bd5237fc524.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/6255c70292be462a240a2403e6a04bd5237fc524.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/068e649dea6604e1a20e8117288406550b585f28.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/f282d994be58917c269de4c012f5f5aa341a105e.jpg"/></p><div style="clear: both"/>
 

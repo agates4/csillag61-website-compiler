@@ -6,13 +6,13 @@ date: 2017-03-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2214646-cekla-hummusz" rel="Recipe source page"><img width="751" height="532" src="/img/full/e5495b5001d108456f28243a5ca19b5646027544.jpg"/></a></p>
 
 ## About
 Mennyei Cékla hummusz recept! Együnk egy kis céklát... :)
 
->  
+> 75 perc 
 
 ## Ingredients
 * **4 db** közepes nagyságú cékla (kb 1 kg)

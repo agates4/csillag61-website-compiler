@@ -1,18 +1,18 @@
 ---
 title: "Gesztenyés álmodozás🎄"
 description: "Gesztenyés álmodozás🎄"
-mainImage: "/img/full/3cf615f60486835ea81483a56426b79fb926c2ad.jpg"
+mainImage: "/img/full/95574dd731e261eb75983c2dcf3d94f7a226a7b0.jpg"
 date: 2019-12-03
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
-<p align="center"><a href="https://cookpad.com/hu/receptek/11125971-gesztenyes-almodozas%F0%9F%8E%84" rel="Recipe source page"><img width="751" height="532" src="/img/full/3cf615f60486835ea81483a56426b79fb926c2ad.jpg"/></a></p>
+                            
+<p align="center"><a href="https://cookpad.com/hu/receptek/11125971-gesztenyes-almodozas%F0%9F%8E%84" rel="Recipe source page"><img width="751" height="532" src="/img/full/95574dd731e261eb75983c2dcf3d94f7a226a7b0.jpg"/></a></p>
 
 ## About
 Mennyei Gesztenyés álmodozás🎄 recept! Egy napon arról ábrándoztam, milyen jó is lenne egy kis illatos málna egy tejszínhab felhő tetején,  csokoládéval, egy leheletnyi kávés marcipánnal és nagyon sok gesztenyével ötvözve. Az álmot valóra is váltottam a család minden tagja örömére... Remélem, hogy nektek is ízleni fog. Nagyon jó felébredni az álomból egy valódi gesztenyés  csodára...:))
 
->  
+> 90 perc 
 
 ## Ingredients
 
@@ -112,15 +112,15 @@ A gesztenye golyókhoz
 
 16. Felverem a tejszínt a steviával és a vanília kivonattal. Ügyelek arra, hogy ne legyen kőkemény a hab, inkább egy kicsit lazább, hígabb maradjon. A tejszín, amit használok, magas zsír tartalma miatt 3 perc alatt felverődik, ezért közepes gyorsasággal verem és csökkentem a sebességet, amint kezd sűrűsödni. A tálnak és a tejszínnek nagyon hidegnek kell lennie. Hőség idején egy edényt teletöltök jéggel és abba állítom bele a tejszínes keverőtálat. Így mindig biztos a siker.
  
-    <p><img width="320" height="256" align="left" src="/img/full/a0de64f8a08aed0c22921bc4d6a07443dac7535b.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/8d999c1b8109ee02f343aba229fc9cab086776ed.jpg"/></p><div style="clear: both"/>
 
 17. A gesztenyéről csupán csak annyit, hogy ezerszer finomabb a saját kezűleg készített főtt gesztenye, mint bármi más. Forró vízzel leöntöm a szelid gesztenyét, pár percig a vízben hagyom, majd jól átforgatom, leszűröm és egy nagy X-et vágok az oldalába. Majd felöntöm tiszta vízzel, felforralom és még kb. egy fél órán át főzöm. Megtisztítom a héjától és a hártyájától. Felhasználásig fagyasztóban tárolom. Amikor szükséges, félfagyos állapotban diódarálón ledarálom. Így pillekönnyű finom darát kapok.
  
-    <p><img width="320" height="256" align="left" src="/img/full/71aa640120957d0d724ade3425512a1db304b122.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/322312acdaed20b6955a0bb72051c6cc6e7f0f30.jpg"/></p><div style="clear: both"/>
 
 18. A felvert tejszínbe lazán belekeverem a gesztenyét és a megmaradt csokis gesztenye darabkákat. Más szavakkal, a keverő habverőjét leemelem, és kézzel forgatom össze a hozzávalókat. A gesztenye be fogja szívni a tejszín egy részét, így pillanatok alatt be fog sűrűsödni, ezért nem szoktam beletenni sem zselatint sem más zselésítő, sűrítő anyagot.
  
-    <p><img width="320" height="256" align="left" src="/img/full/60f9b041d2830106e7e0dde6d6dbfd45870f525d.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/1fdc4fdac4f6e0145c544968502499cd1ae0a814.jpg"/></p><div style="clear: both"/>
 
 19. A gesztenyés mousset elfelezem, a felét rásimítom a mandulás alapon lévő csokis gesztenyegolyókra.
  
@@ -128,7 +128,7 @@ A gesztenye golyókhoz
 
 20. A megmosott és víztől leszárított málnát egyenletesen elosztom a gesztenyés tejszínhab tetején.
  
-    <p><img width="320" height="256" align="left" src="/img/full/3bef5cb821e017054109c87f46cb55592272f994.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/2ce201fdaddb41d3492673fcf95ba9b625ce98ef.jpg"/></p><div style="clear: both"/>
 
 21. Rásimítom a mousse másik felét.
  
@@ -136,11 +136,11 @@ A gesztenye golyókhoz
 
 22. A kihűlt, de nem fagyos csokoládé ganachet ráöntöm a torta tetejére, elegyengetem.
  
-    <p><img width="320" height="256" align="left" src="/img/full/037c8b5855b4cee314c4773a584d9ba1577cc01b.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/391c3ce2e5db59888d7f45cb61e61904ac570652.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/c1a960fb1d95c551ded8ae85f20faa4034b75d64.jpg"/></p><div style="clear: both"/>
 
 23. A tortát tálalásig hideg helyen tartom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/4bd0ef9df07e29eafa1c43d78041b7a08a7e8586.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/59aaa0c383d582490794cf4548a3d5c4f77f9b73.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/548af90d7343194074d2e4bd6c629ccbff71ee43.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/09a44697afcf7cb1ada346af64ad6c425fcd610c.jpg"/></p><div style="clear: both"/>
 
 24. Csak annyit tudok mondani, hogy a kávés, mandulás, málnás, csokoládés gesztenyemoussnak csodálatos az íze és a napok multával még zamatosabb lesz...
  

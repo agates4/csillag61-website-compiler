@@ -6,13 +6,13 @@ date: 2020-11-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14126391-tofus-zoldsegtorta" rel="Recipe source page"><img width="751" height="532" src="/img/full/9c9650ff41ae549cb9cfeb13164cdca386154811.jpg"/></a></p>
 
 ## About
 Mennyei Tofus zöldségtorta recept! Olyan egyszerű az elkészítése, hogy még fotót is alig készítettem, inkább csak a végeredményről. Nagyon ízletes, gyorsan elkészíthető akár köretnek, akár főételnek. Spenót szósz, vörösáfonya szósz, meggyszósz nagyon jó kiegészítője.
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 
@@ -61,7 +61,7 @@ extra olíva olaj a kenéshez
 
 6. A tofu tetejét egy kicsit megkenem olíva olajjal és beteszem a forró sütőbe. 180 C fokon, 55-60 perc alatt aranysárgára megsütjük. Gyönyörűen szeletelhető, nagyon ízletes!
  
-    <p><img width="320" height="256" align="left" src="/img/full/328d664abd59cb19905a4b1675a2af0eda872819.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/328d664abd59cb19905a4b1675a2af0eda872819.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/d954c883e1dd070c652829b0aca37664c18d4fc6.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/cdacc3d8cfac568dacf45367a0affa781159afa5.jpg"/></p><div style="clear: both"/>
 
 7. Most fokhagymás, kókusztejes spenótszósszal és áfonyaszósszal tálaltuk. (A sütőtökös, rozsos, sokmagvas kenyér sem maradt el...)
  

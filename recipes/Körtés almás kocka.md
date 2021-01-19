@@ -6,13 +6,13 @@ date: 2018-03-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4572745-kortes-almas-kocka" rel="Recipe source page"><img width="751" height="532" src="/img/full/a75e20ea2fdca7a9133414e5a6270092bc37d419.jpg"/></a></p>
 
 ## About
 Mennyei Körtés almás kocka recept! Melegen kanalazva, hidegen kockára vágva, vagyis  hidegen és  melegen ajánlom, ezt a se cukor, se méz energia kockát ;)
 
->  
+> 2 óra 
 
 ## Ingredients
 * **6 db** jó nagy alma

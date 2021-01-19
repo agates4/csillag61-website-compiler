@@ -6,14 +6,14 @@ date: 2017-02-09
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1969311-csokolades-mousse-torta" rel="Recipe source page"><img width="751" height="532" src="/img/full/b8987f6349ca01530aea33b06f54271319c75669.jpg"/></a></p>
 
 ## About
 Mennyei Csokoládés mousse torta recept! Ennek a csokitortának néhány éves a története: gyorsan jött az ötlet, nagyon hamar elkészült és még hamarabb elfogyott. Finom, pille könnyű, mintha egy kanál csokoládé hab felhő olvadozna a számban, próbáljátok ki  :) 
 1 mérőpohár =2.5 dl, 1 evőkanál =45 ml, 1 teáskanál= 5 ml.
 
->  
+> 30 perc 
 
 ## Ingredients
 

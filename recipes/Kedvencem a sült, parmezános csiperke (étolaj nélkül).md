@@ -6,13 +6,13 @@ date: 2020-07-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13241381-kedvencem-a-sult-parmezanos-csiperke-etolaj-nelkul" rel="Recipe source page"><img width="751" height="532" src="/img/full/0e3c496bfbacfcf7f9f3595791a69dfcdb64d73b.jpg"/></a></p>
 
 ## About
 Mennyei Kedvencem a sült, parmezános csiperke (étolaj nélkül) recept! 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **8 db** friss, nagy csiperke

@@ -6,13 +6,13 @@ date: 2020-11-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/14120505-kaves-mogyoros-csokitorta-tojas-nelkul" rel="Recipe source page"><img width="751" height="532" src="/img/full/288db6ff4655ba9e1632b8a2933675f13c2914bf.jpg"/></a></p>
 
 ## About
 Mennyei Kávés, mogyorós csokitorta tojás nélkül recept! Kávé, kis mogyoró és rengeteg csokoládé!
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ A csoki krémhez
 
 1. A csokoládét lereszelem. Az összes száraz hozzávalót többször átszitálom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/8d6fa44a2779245b643e2d322d32b7db85f617d4.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/8d6fa44a2779245b643e2d322d32b7db85f617d4.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/8ae519d8b548842c7a63d6b67254e121724aaa63.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/9ba465c3c6d6f46d801f2e5513a8af9a70f1c850.jpg"/></p><div style="clear: both"/>
 
 2. Csomómentesnek és egy színűnek kell lennie a keveréknek.
  
@@ -51,7 +51,7 @@ A csoki krémhez
 
 3. A kávét feloldom a forró vízben.
  
-    <p><img width="320" height="256" align="left" src="/img/full/58f2b3f98c1d82003d020c99e30fdc35016b77e8.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/58f2b3f98c1d82003d020c99e30fdc35016b77e8.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/955f9f459f33bff95e94e1504cf5c0dc2a98c5fc.jpg"/></p><div style="clear: both"/>
 
 4. Az összes folyadékot a kávéval együtt összekeverem.
  
@@ -59,7 +59,7 @@ A csoki krémhez
 
 5. A folyadékot a lisztes anyagra öntöm és simává keverem.
  
-    <p><img width="320" height="256" align="left" src="/img/full/037f64486c2212b73c1bc9aa606d95446ba7c818.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/037f64486c2212b73c1bc9aa606d95446ba7c818.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/61fbb47e4d562b319d74075635688559fa8ec115.jpg"/></p><div style="clear: both"/>
 
 6. Két 23 cm átmérőjű kerek formát befújok és az aljába egy darab sütőpapírt teszek.
  
@@ -79,11 +79,11 @@ A csoki krémhez
 
 10. A kihűlt tortalapokat ketté vágom, lesz így 4 db lap.
  
-    <p><img width="320" height="256" align="left" src="/img/full/4bd54b993888c99597e44b6ba092835338ac5fdd.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/4bd54b993888c99597e44b6ba092835338ac5fdd.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/2f4d818de562c6ab2539ab84152a5f3158b60ec1.jpg"/></p><div style="clear: both"/>
 
 11. Minden lapot megkenünk, bevonjuk az oldalát és tetejét is.
  
-    <p><img width="320" height="256" align="left" src="/img/full/e4ead471a4ed394da3810f0f64aabd73c8e82bf8.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/e4ead471a4ed394da3810f0f64aabd73c8e82bf8.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/e280b56008d34598c1ec4ecb59984de516400ea4.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/980b39cd58490441f6c90faf65e0011038ef570d.jpg"/></p><div style="clear: both"/>
 
 12. Tetszőlegesen mintázzuk. Ehhez az ősrégi krémhez, villás díszítés illik a legjobban, még az íze is másabb lesz :))
  

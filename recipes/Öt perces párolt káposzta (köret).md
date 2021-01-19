@@ -6,13 +6,13 @@ date: 2020-06-21
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/12958687-ot-perces-parolt-kaposzta-koret" rel="Recipe source page"><img width="751" height="532" src="/img/full/17f94869f49e7262466b497dd01053c441a4f0f3.jpg"/></a></p>
 
 ## About
 Mennyei Öt perces párolt káposzta (köret) recept! 
 
->  
+> 20 perc 
 
 ## Ingredients
 * **1 fej** káposzta
@@ -25,7 +25,7 @@ Mennyei Öt perces párolt káposzta (köret) recept!
 
 1. A hagymát, fokhagymát kockára vágom és megdinsztelem.
  
-    <p><img width="320" height="256" align="left" src="/img/full/b32d0b3de4507ba669a40c9396a2f01fdc381f33.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/b32d0b3de4507ba669a40c9396a2f01fdc381f33.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/bb292e194c74b083779c9323dc3fa5a6edcb3791.jpg"/></p><div style="clear: both"/>
 
 2. A hagymára ráteszem a nagy darabokra vágott káposztát, ráöntöm a pohár vizet, sózom.
  

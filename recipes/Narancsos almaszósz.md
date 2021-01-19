@@ -6,13 +6,13 @@ date: 2020-01-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11371611-narancsos-almaszosz" rel="Recipe source page"><img width="751" height="532" src="/img/full/1198abf4a786331d8e1f3c852f06f4dd0c0ed93f.jpg"/></a></p>
 
 ## About
 Mennyei Narancsos almaszósz recept! 
 
->  
+> 15 perc 
 
 ## Ingredients
 * **5 db** érett alma

@@ -6,13 +6,13 @@ date: 2017-04-02
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2340623-ananaszos-kek-afonyas-muffin" rel="Recipe source page"><img width="751" height="532" src="/img/full/a378492db14d8f83c72369461c1d674e4c510388.jpg"/></a></p>
 
 ## About
 Mennyei Ananászos kék áfonyás muffin recept! Nálunk sem vesznek el a receptek, csak az idő folyamán átalakulnak. Ez a recept is egy ilyen egészséges átalakuláson ment át az évek alatt. Jó étvágyat kívánok nektek is hozzá :)
 
->  
+> 65 perc 
 
 ## Ingredients
 * **1 pohár** teljes kiörlésű búzaliszt

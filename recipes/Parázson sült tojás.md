@@ -1,18 +1,18 @@
 ---
 title: "Parázson sült tojás"
 description: "Parázson sült tojás"
-mainImage: "/img/full/da39a3ee5e6b4b0d3255bfef95601890afd80709.jpg"
+mainImage: "/img/full/aa641aedb3b6ef3ade76fc9d0f027cadfb3f0da8.jpg"
 date: 2018-06-27
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
-<p align="center"><a href="https://cookpad.com/hu/receptek/5239233-parazson-sult-tojas" rel="Recipe source page"><img width="751" height="532" src="/img/full/da39a3ee5e6b4b0d3255bfef95601890afd80709.jpg"/></a></p>
+                            
+<p align="center"><a href="https://cookpad.com/hu/receptek/5239233-parazson-sult-tojas" rel="Recipe source page"><img width="751" height="532" src="/img/full/aa641aedb3b6ef3ade76fc9d0f027cadfb3f0da8.jpg"/></a></p>
 
 ## About
 2 adag
 
->  
+> 25 perc 
 
 ## Ingredients
 * **4 db** tojás

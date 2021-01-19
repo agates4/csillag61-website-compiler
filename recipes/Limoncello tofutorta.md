@@ -6,13 +6,13 @@ date: 2018-05-11
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4900154-limoncello-tofutorta" rel="Recipe source page"><img width="751" height="532" src="/img/full/1f7374f99467c184eca57657ac6dfb9b29eb2f23.jpg"/></a></p>
 
 ## About
 Mennyei Limoncello tofutorta recept! 
 
->  
+> 90 perc 
 
 ## Ingredients
 * **90 dkg** kemény tofu

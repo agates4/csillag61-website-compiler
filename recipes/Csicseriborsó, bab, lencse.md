@@ -6,13 +6,13 @@ date: 2017-07-10
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2947023-csicseriborso-bab-lencse" rel="Recipe source page"><img width="751" height="532" src="/img/full/a490349edfcfe5e4b62bb5eddf9baeee08287fa8.jpg"/></a></p>
 
 ## About
 Mennyei Csicseriborsó, bab, lencse recept! Ebből a klasszikus hármasból egy rendkívül finom, sűrű, "zömök" levest készítünk most.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **80 dkg** főtt fekete bab

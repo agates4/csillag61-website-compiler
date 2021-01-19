@@ -6,13 +6,13 @@ date: 2017-12-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/3885090-mezes-mazas-hokusz-pokusz" rel="Recipe source page"><img width="751" height="532" src="/img/full/e3340ab3a4782e081f6d50130096abc863f6141b.jpg"/></a></p>
 
 ## About
 Mennyei Mézes, mázas, hókusz - pókusz recept! A gyermekeim kis korukban a kókuszt pókusznak nevezték, számukra ez így érdekesebben  hangzott. A mézes zserbó illata gyermekkoromtól fogva a mai napig a karácsonyi meleg hangulatot jelenti számomra. Mindig nagy örömmel készülök a varázslathoz :) A hagyományos módon ugyan, de a tojás mellőzésével, a dara helyett tápiókával és sok kókusszal készítettem el egyik klasszikus régi süteményünket.
 
->  
+> 1 óra 
 
 ## Ingredients
 

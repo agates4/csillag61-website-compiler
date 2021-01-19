@@ -6,13 +6,13 @@ date: 2018-03-01
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4506851-voros-currys-gombaleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/df9841f96bd0dfb42a8fc0144264fa1b11d2057b.jpg"/></a></p>
 
 ## About
 Mennyei Vörös currys gombaleves recept! A  leves fűszeres illata pillanatok alatt összetoborozza a családot, senkinek nem kell könyörögni, hogy jöjjön ebédelni... 
 
->  
+> 30 perc 
 
 ## Ingredients
 * **50 dkg** csiperke

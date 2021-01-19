@@ -6,13 +6,13 @@ date: 2018-05-13
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4913422-tiramisu-fagyi" rel="Recipe source page"><img width="751" height="532" src="/img/full/27bc9528d5de290cc1cd97643853733683e16a4f.jpg"/></a></p>
 
 ## About
 Mennyei Tiramisu fagyi recept! 
 
->  
+> 15 perc 
 
 ## Ingredients
 * **12 db** babapiskota

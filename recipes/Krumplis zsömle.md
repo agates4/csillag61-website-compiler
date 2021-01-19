@@ -6,13 +6,13 @@ date: 2017-03-12
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2215182-krumplis-zsomle" rel="Recipe source page"><img width="751" height="532" src="/img/full/390d3eceaf17cfd0411aa7cfee3194704934490f.jpg"/></a></p>
 
 ## About
 Mennyei Krumplis zsömle recept! Ennek a zsömlének nemcsak az illata csodálatos, de az íze is fölséges. Régen aludt tejjel vagy íróval készítettem, az elmúlt években viszont inkább a natúr növényi tejet "altatom" meg. Az eredmény ugyanaz a finomság, mint régen. Próbáljátok ki ti is :)
 
->  
+> 180 perc 
 
 ## Ingredients
 

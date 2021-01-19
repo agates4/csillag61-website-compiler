@@ -6,13 +6,13 @@ date: 2020-08-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13485683-brie-sajtos-fougasse-avokado-mezzel" rel="Recipe source page"><img width="751" height="532" src="/img/full/677355afa1eeb9d768029d884c2c4b7afee40b1a.jpg"/></a></p>
 
 ## About
 Mennyei Brie sajtos fougasse avokádó mézzel recept! A kiflik anyaga és a formázás módja ugyanaz, mint a Sajtos, mézes francia fougasse mázas cserépsütőben receptemben. Fantasztikusan finom együtt a lila hagyma, a brie sajt és egy csepp avokádó méz, garantáltan elfogy pillanatok alatt. A képen egy kifli üresen készült, de a receptben, a hozzávalókban a töltelék megadott mennyisége 3 kiflire szól.
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 
@@ -53,7 +53,7 @@ Sütés után a tetejére
 
 4. A brie sajtot vékonyan meghámozom, majd a tészta közepére felsorakoztatom a sajt szeleteket. Megszórom a hagyma harmadával. Ráhajtom az egyik hosszanti szélét, majd a másikat a másik oldaláról. Összecsippentem a széleket és egy kis lisztben megforgatom, formázom, hogy nagyjából egyforma vastagságú rudak legyenek. Jól kilisztezett formába teszem. Ugyanígy megtöltöm a másik két tészta darabot is.
  
-    <p><img width="320" height="256" align="left" src="/img/full/a52cc9f706390b15d75e2c099172536c3a12e29a.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/a52cc9f706390b15d75e2c099172536c3a12e29a.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/15916d275ff0f838bf6dc8b0a3a5712d96cfd6e5.jpg"/></p><div style="clear: both"/>
 
 5. Itt a képen a "kakukktojás" töltelék nélkül készült, csak felsodortam, mint a kiflit. Letakarom a cseréptepsi tetejével és 20 percig pihentetem.
  
@@ -65,9 +65,9 @@ Sütés után a tetejére
 
 7. Mielőtt a sütőbe betenném a tésztát, megkenem vízzel és mélyen bevágom több helyen a tetejét. A reszelt sajtot a tetejére szórom, ráteszem a tepsi fedelét és beteszem a sütőbe.
  
-    <p><img width="320" height="256" align="left" src="/img/full/d47e334492b8b31ef53d7072f4fc9c29abfccec6.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/d47e334492b8b31ef53d7072f4fc9c29abfccec6.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/1793eaf3ce54d1bf4348c1a08540d55842d97297.jpg"/></p><div style="clear: both"/>
 
 8. 25 percig sütöm, majd leveszem a tepsi fedelét és még további 3-5 percig pirítom. Amint kiveszem a sütőből, 1-1 kanál mézet csurgatok a résekbe. Készen is vagyunk, jó étvágyat kívánok nektek is :))
  
-    <p><img width="320" height="256" align="left" src="/img/full/26f5fca3dd5a966c09dd1003bc81f27f0ee5a531.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/26f5fca3dd5a966c09dd1003bc81f27f0ee5a531.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/060e0a77e48b690ee9e1a2514dc2786b016a99df.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/601df01044cec8686c776cddba625b5c505dc31d.jpg"/></p><div style="clear: both"/>
 

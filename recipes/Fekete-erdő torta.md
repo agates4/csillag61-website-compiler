@@ -6,13 +6,13 @@ date: 2020-01-28
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/11295098-fekete-erdo-torta" rel="Recipe source page"><img width="751" height="532" src="/img/full/8e0817fc24edb35332a63c3a2e29ffde1bec548c.jpg"/></a></p>
 
 ## About
 Mennyei Fekete-erdő torta recept! A torta eredete ugyan bizonytalan, de az biztos, hogy csokoládés piskóta rétegekből áll, a legalsó réteg lehet egy édes vajastészta. A lapokat  könnyű tejszínhab vagy vajkrém vagy a kettő kombinációja tölti meg. Kirshwasser és meggy ízesíti a lapokat, bevonjuk tejszínhabbal vagy vajkrémmel, díszítjük reszelt csokoládéval. A Kirshwasser vagy közönséges nevén Kirsch, színtelen brandy, nem más, mint a morello sötét színű meggyből és magjából nyert párlat. Ezt a receptet több, mint három évtizede őrizgetem, és legnagyobb meglepetésemre néhány hónapja találtam rá az egyik internetes profi szakács weboldalon. Hm, ki gondolta...
 
->  
+> 1 óra 30 perc 
 
 ## Ingredients
 
@@ -68,11 +68,11 @@ A tejszínhab réteghez
 
 5. A kész piskótát rácsra téve hűtjük.
  
-    <p><img width="320" height="256" align="left" src="/img/full/c8e90ec6c692145bdc27a488c4c0818dfa17e4e1.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/c8e90ec6c692145bdc27a488c4c0818dfa17e4e1.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/de8100011201e97c8e3e620731ba936b65e5a02f.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/89f4a2c16908a68ab1e6522174f53e37601a004d.jpg"/></p><div style="clear: both"/>
 
 6. Ha már jól kihűlt, kettévágjuk.
  
-    <p><img width="320" height="256" align="left" src="/img/full/a77353e359e2911348fabde057f90b90a9d6c65f.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/a77353e359e2911348fabde057f90b90a9d6c65f.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/5ea82e533411b09060ae7ac39448f41cc2b4a6ec.jpg"/></p><div style="clear: both"/>
 
 7. Ha befőttből készítjük a meggyes réteget, először szűrjük le a levét. Félreteszünk 12 db meggyet a díszítéshez. A levéből 250 ml-re van szükségünk, amiben elkeverjük a kukoricakeményítőt, lassú tűzön felforraljuk és amikor besűrűsödött, belekavarjuk a leszűrt meggyet. Lehűtjük. Ekkor ízesítjük a Kirshwasser-rel.
  

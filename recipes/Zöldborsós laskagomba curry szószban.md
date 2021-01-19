@@ -6,13 +6,13 @@ date: 2018-06-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5211101-zoldborsos-laskagomba-curry-szoszban" rel="Recipe source page"><img width="751" height="532" src="/img/full/e5adb7d2af4d55c646cbbdf26ef8f11b880e36e2.jpg"/></a></p>
 
 ## About
 Mennyei Zöldborsós laskagomba curry szószban recept! Egy tálban készülő kitűnő egytál étel :))
 
->  
+> 1 óra 
 
 ## Ingredients
 * **9 db** vastag tönkű laska gomba

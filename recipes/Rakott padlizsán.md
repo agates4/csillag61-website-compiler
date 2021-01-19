@@ -6,13 +6,13 @@ date: 2014-02-07
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1925450-rakott-padlizsan" rel="Recipe source page"><img width="751" height="532" src="/img/full/91ce53fce4d4080b6b77fdf9d0a98a79670e2aaf.jpg"/></a></p>
 
 ## About
 Mennyei Rakott padlizsán recept! Nagyon szeretjük a padlizsánt, de most egy kicsit újat szerettem volna kipróbálni. Ugyanazok a zöldségek egy kicsit másképpen, egy kis tavaszias ízekkel és színekkel. Az ízét igazán a nyers gyömbér adja meg. Két perc alatt elfogyott. :)
 
->  
+> 45 perc 
 
 ## Ingredients
 

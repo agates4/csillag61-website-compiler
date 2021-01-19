@@ -6,13 +6,13 @@ date: 2017-02-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/2124657-karfiol-szoszos-penne-gombas-zoldborsoval-spargaval" rel="Recipe source page"><img width="751" height="532" src="/img/full/1bf61552d1b0611cec43887ad6e34c9e71f72005.jpg"/></a></p>
 
 ## About
 Mennyei Karfiol szószos penne gombás zöldborsóval, spárgával recept! A karfiolból készült szósz még a tejfölnél is finomabb :) aki nem hiszi, járjon utána...
 
->  
+> 45 perc 
 
 ## Ingredients
 

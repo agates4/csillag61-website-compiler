@@ -6,13 +6,13 @@ date: 2018-06-02
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5089710-selymes-porehagymas-gombaleves" rel="Recipe source page"><img width="751" height="532" src="/img/full/ae4f23ef519fac2811d3676aec44259bad5d3e93.jpg"/></a></p>
 
 ## About
 Mennyei Selymes, póréhagymás gombaleves recept! A póréhagymától finom, selymes - krémes lesz a levesünk, a háromféle gombától pedig  csodálatos zamatos.
 
->  
+> 1 óra 
 
 ## Ingredients
 * **6 db** nagy póréhagyma, egészben

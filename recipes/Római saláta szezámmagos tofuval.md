@@ -6,13 +6,13 @@ date: 2014-02-08
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1924000-romai-salata-szezammagos-tofuval" rel="Recipe source page"><img width="751" height="532" src="/img/full/54bc29bb7a8b9fe25ce10879157f9c5911b43475.jpg"/></a></p>
 
 ## About
 Mennyei Római saláta szezámmagos tofuval recept! A salátával is jól lehet lakni! Aki nem hiszi, járjon utána... Próbáljátok ki ezt a nagyon gyorsan elkészithető salátát öntet nélkül, olaj nélkül, sült tofuval ebédre vagy vacsorára. Főételnek is ajánlom. :)
 
->  
+> 30 perc 
 
 ## Ingredients
 

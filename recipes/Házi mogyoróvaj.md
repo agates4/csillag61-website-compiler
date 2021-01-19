@@ -6,13 +6,13 @@ date: 2014-01-31
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/1926795-hazi-mogyorovaj" rel="Recipe source page"><img width="751" height="532" src="/img/full/656429614168470a20850cb2ebab9cd05eea4a66.jpg"/></a></p>
 
 ## About
 Mennyei Házi mogyoróvaj recept! Micsoda illat van a konyhában, csak az tudja, aki benne van... Ezt a csodás vajat gyorsan, könnyen elkészitheti bárki, aki szereti a természetes ízeket. Nem csak a piritóson fölséges egy kanál mézzel vagy lekvárral, de süteményekben, tortakrémekben, müzli szeletek tetején, energiaszeletek közepén, csoki bonbonok töltelékében is kiváló. Szoktam késziteni nyers, hántolt mandulával és pekán dióval elkeverve a mogyorókrémet, igazán különleges lesz az íze tőle. Ilyenkor a teljes mennyiség fele a mogyoró, a masik fél a mandula magában vagy pecan dióval elkeverve. A lépések az elsőtől az utolsóig ugyanazok maradnak.
 
->  
+> 60 perc 
 
 ## Ingredients
 * **1 kg** földimogyoró (tisztitott, nyers)

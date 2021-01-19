@@ -6,13 +6,13 @@ date: 2017-07-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/3012583-kek-afonyas-amerikai-palacsinta" rel="Recipe source page"><img width="751" height="532" src="/img/full/79dc013e13ce273f1db70dca7c55bfe02c62a246.jpg"/></a></p>
 
 ## About
 Mennyei Kék áfonyás amerikai palacsinta recept! Mi kell egy jó palacsintához? Egy nagyon könnyű, gyorsan elkészíthető recept, ami sohasem hagy cserben, elrontani nem lehet. Próbáljátok ki, hogy valóban így van-e.
 
->  
+> 30 perc 
 
 ## Ingredients
 

@@ -6,13 +6,13 @@ date: 2018-06-22
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5211021-zoldborsos-ragu-leves" rel="Recipe source page"><img width="751" height="532" src="/img/full/5d45a90202383a9ea3497192f51034d6509820df.jpg"/></a></p>
 
 ## About
 Mennyei Zöldborsós ragu leves recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **6 db** paradicsom

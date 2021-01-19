@@ -6,13 +6,13 @@ date: 2018-04-30
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/4837375-paradicsomos-sult-gomba" rel="Recipe source page"><img width="751" height="532" src="/img/full/77f015989eec5e11b9fc9f368e1493830eead159.jpg"/></a></p>
 
 ## About
 Mennyei Paradicsomos sült gomba recept! A gomba kiváló étel, nem tudunk betelni vele :)
 
->  
+> 45 perc 
 
 ## Ingredients
 * **8 db** nagy, hosszú tönkű laska gomba (ördögszekér gomba)

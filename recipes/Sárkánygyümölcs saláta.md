@@ -6,13 +6,13 @@ date: 2018-06-24
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/5222278-sarkanygyumolcs-salata" rel="Recipe source page"><img width="751" height="532" src="/img/full/c64846aed4101735de20f5c11876c644fe925c7a.jpg"/></a></p>
 
 ## About
 Mennyei Sárkánygyümölcs saláta recept! Három különböző színő sárkánygyümölcsből készül most a salátánk. Érdekes módon a sárga héjúnak a kivihez hasonló íze van, míg a másik kettőnek nincsen különösebben átütö íze, egészen addig, amíg az ananász és a sárgadinnye közre nem fogta. Különlegesen üdítő frissesség került az asztalunkra ma is :)
 
->  
+> 30 perc 
 
 ## Ingredients
 * **1 db** sárga héjú sárkánygyümölcs

@@ -6,13 +6,13 @@ date: 2020-09-23
 tags: recipes
 layout: layouts/recipe.njk
 ---
-                        
+                            
 <p align="center"><a href="https://cookpad.com/hu/receptek/13702346-zelleres-padlizsan-paprikas" rel="Recipe source page"><img width="751" height="532" src="/img/full/c090429d231f07704df5ce3c4a223a7234760861.jpg"/></a></p>
 
 ## About
 Mennyei Zelleres padlizsán paprikás recept! 
 
->  
+> 1 óra 
 
 ## Ingredients
 * **2 db** nagy lila hagyma
@@ -33,7 +33,7 @@ Mennyei Zelleres padlizsán paprikás recept!
 
 2. Amíg a hagyma párolódik, a padlizsánt 2 cm vastagságúra, a paradicsomot kisebb szeletekre vágom, a zellert kockára aprítom.
  
-    <p><img width="320" height="256" align="left" src="/img/full/31d136c083835de4e1964c6feeaf20382dbf7fe4.jpg"/></p><div style="clear: both"/>
+    <p><img width="320" height="256" align="left" src="/img/full/31d136c083835de4e1964c6feeaf20382dbf7fe4.jpg"/></p><p><img width="320" height="256" align="left" src="/img/full/eeec4a77772b6f41f4c4c47413823400997ed2de.jpg"/></p><div style="clear: both"/>
 
 3. Az előkészített zöldségeket egyszerre beleteszem a lábasba, fűszerezem és ráteszem a fedőt. Saját levében, lassú tűzön főzöm, amíg minden megpuhul.
  
